@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://b46a2da5-79eb-47d1-ad1e-30b988c0f93b@5.83.221.31:20224?security=tls&sni=v2usa01.fuqiangren.com#HK6
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTQzIiwiYWRkIjoiNDYuMzguMTQ2LjI1MCIsInBvcnQiOiI0ODU3NSIsImlkIjoiMjg3ZWFmNDgtOGZlMy00YmU2LTk1YjItNDFkOTRlMmVhZWJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjE0MyJ9
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.96:2053?security=tls&type=grpc&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#%E6%9C%AA%E7%9F%A5144
-trojan://Aimer@168.126.210.143:12368?sni=agepn.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5145
-trojan://Aimer@162.159.129.115:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5146
 trojan://Aimer@104.26.0.24:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5147
 trojan://yPuUcqd877yr@172.67.202.155:2087?security=tls&type=ws&sni=econews.onetwothree123.ir&path=/🆔@M3HDIO1&host=econews.onetwothree123.ir#%E6%9C%AA%E7%9F%A5148
 trojan://Aimer@162.159.130.123:443?sni=epccu.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A5149
@@ -503,3 +498,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.221.139-0363
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.187.104.55-0376
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0354
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.187.104.55-0372
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0358
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.187.104.55-0371
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.187.104.55-0368
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.161-0364
