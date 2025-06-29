@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Aimer@47.245.95.160:1443?sni=epccf.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A59
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#%E6%9C%AA%E7%9F%A510%2010.7MB%2Fs
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.64.35.205:443?sni=dt.vs2024.dpdns.org#%E6%9C%AA%E7%9F%A511
-trojan://blue2024@104.24.92.234:443?security=tls&type=ws&sni=td.promote.icu&host=td.promote.icu#%E6%9C%AA%E7%9F%A512
-trojan://Aimer@172.67.157.62:443?sni=epccj.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A513
-trojan://3747000103274291200@80.240.112.32:443?security=tls&type=tcp&sni=trusting-titmouse.adder289.quest#%E6%9C%AA%E7%9F%A514
 trojan://Aimer@27.50.48.126:2083?security=tls&type=ws&sni=tyep.esslh.filegear-sg.me&path=/&host=tyep.esslh.filegear-sg.me#%E6%9C%AA%E7%9F%A515
 trojan://Aimer@172.67.152.128:443?sni=epccv.ambercc.filegear-sg.me#%E6%9C%AA%E7%9F%A516
 trojan://vip@195.85.59.161:443?security=tls&type=tcp&sni=heihu880.pages.dev#%E6%9C%AA%E7%9F%A517
@@ -503,3 +497,9 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@103.133.1.13:8880?allowInsecure=0&s
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@167.68.4.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0179
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@63.141.128.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0180
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@14.102.228.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0181
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@141.101.114.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0182
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@14.102.229.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0183
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@66.81.247.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0184
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@104.254.140.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0185
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@69.84.182.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0186
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@66.235.200.13:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#US_speednode_0187
