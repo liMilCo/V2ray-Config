@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.233:2087?security=none&type=tcp&host=skyroom.online&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-109.95.67.233:2087
+vless://512b8741-0eb1-4bf5-abb8-25369c0aa33b@147.185.161.225:2082?security=none&type=httpupgrade&host=fin-met.wordperessweb.ir&path=/?ed%3D2082#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-147.185.161.225:2082
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@27.50.48.252:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇬 SG-27.50.48.252:8880
 vless://0abfbcbc-2c54-4712-a809-48bfea1570ec@87.236.38.69:80?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-87.236.38.69:80
 vless://27c18dc0-5da3-4109-aa00-2eb31d7ba8c1@104.19.223.86:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960002.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.19.223.86:443
 vless://b6f52521-c65d-43d6-bca4-76790c68d6fd@188.114.98.131:443?security=tls&sni=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&type=ws&host=sweet-sound-523a.66500-280b-471c-b2b8-d68b7f9960014.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-188.114.98.131:443
@@ -500,6 +503,3 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.244.213:8880?type=ws&host=jp.l
 vless://a9fcd6e8-25e9-4a85-9311-533646e0a5fc@5.160.35.249:6787?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-5.160.35.249:6787
 vless://4aaacc98-dea9-440b-890f-36434269b304@185.215.228.253:4901?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.228.253:4901
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@176.124.223.66:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇷🇺 RU-176.124.223.66:8880
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.239.27.174:5534?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇭🇰 HK-47.239.27.174:5534
-vless://1ac72b71-2d33-4c34-cda0-3428474c4467@104.21.5.169:2083?security=tls&flow=xtls-rprx-vision&sni=mas4jd2.shang2025.ggff.net&type=ws&host=mas4jd2.shang2025.ggff.net&path=%2F#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.5.169:2083
-vless://be0efe12-7ff0-46aa-8769-560c4d7d5dae@104.21.62.18:443?sni=netb.5678919.xyz&type=ws&host=netb.5678919.xyz#🔒 VL-WS-NA 🏴‍☠️ NA-104.21.62.18:443
