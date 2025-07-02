@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://Aimer@121.179.37.140:50000?sni=agepq.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.179.37.140:50000
 trojan://trojan@45.192.222.112:8443?sni=store.timimi.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-45.192.222.112:8443
 trojan://Aimer@172.82.16.99:443?security=tls&sni=epmd.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-172.82.16.99:443
 trojan://Aimer@172.64.34.52:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🏴‍☠️ NA-172.64.34.52:2096
@@ -503,3 +502,4 @@ trojan://Aimer@104.18.45.210:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:23001?sni=75.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:23001
 trojan://3774827088566296576@188.253.22.10:443?sni=key-pangolin.treefrog761.one#🔒 TR-TCP-NA 🇱🇻 LV-188.253.22.10:443
 trojan://redfree8@104.17.148.22:80?security=none&type=ws&host=redfree8-p1.pooriashop.ir&path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560#🔒 TR-WS-NONE 🏴‍☠️ NA-104.17.148.22:80
+trojan://Aimer@65.75.192.14:58846?security=tls&sni=epccc.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-65.75.192.14:58846

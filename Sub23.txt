@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4d877e02-e49f-47d3-a542-42b568ceee02@162.159.195.207:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.207:443
 vless://be813f12-47ac-4b16-9146-8435ebacae3f@104.24.170.5:443?sni=xw0083.dpdns.org&type=ws&host=xw0083.dpdns.org#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.170.5:443
 vless://581eef65-62fe-44bf-84b1-61fa9016a3d7@104.21.96.1:2053?security=tls&sni=MaHdISerVeR-VUg.pAGES.DeV&type=ws&host=mahdiserver-vug.pages.dev&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.96.1:2053
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@162.159.138.19:8880?security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.138.19:8880
@@ -503,3 +502,4 @@ vless://ebf2f4a7-1273-484c-8871-796093f92842@146.75.94.133:80?security=none&type
 vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@135.148.14.2:443?security=tls&sni=147135001178.sec22org.com&type=raw&fp=chrome&allowInsecure=1#🔒 VL-RAW-TLS 🇺🇸 US-135.148.14.2:443
 vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@65.109.217.120:25087?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇫🇮 FI-65.109.217.120:25087
 vless://44ae2a63-403b-40b2-9102-45eaf462df02@104.24.145.237:443?sni=sol.us.kg&type=ws&host=sol.us.kg#🔒 VL-WS-NA 🏴‍☠️ NA-104.24.145.237:443
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.13.229:443?security=tls&sni=add.lobia.sbs&type=ws&host=add.lobia.sbs&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.13.229:443

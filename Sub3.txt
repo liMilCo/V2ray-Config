@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3d4feba7-e2bd-4ff6-bbac-2420b9cea5e6@104.16.68.33:443?security=tls&sni=fire-53y.pages.dev&type=ws&host=fire-53y.pages.dev#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.68.33:443
 vless://b67d238c-742c-492c-a44c-a2001186ff5b@91.206.71.162:80?path=%2Ftelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2Ctelegram-%40VPNCUSTOMIZE%2C#🔒 VL-TCP-NA 🇹🇷 TR-91.206.71.162:80
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@92.53.191.96:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇸🇮 SI-92.53.191.96:8880
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@212.52.0.61:1846?sni=edccu.aimercc.filegear-sg.me&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-212.52.0.61:1846
@@ -503,3 +502,4 @@ vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@69.84.182.13:8880?sni=Telegram-chan
 vless://617d5079-9fae-494a-98ca-90da9e10cd70@134.122.102.108:80?security=none&type=ws&host=arvancloud.com#🔒 VL-WS-NONE 🇬🇧 GB-134.122.102.108:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?security=none&type=grpc#🔒 VL-GRPC-NONE 🇬🇧 GB-45.140.167.168:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.13.44.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-195.13.44.63:8880
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@172.67.178.177:2087?security=tls&sni=CiHsFuEf76.nExTvIsIoNaRy.oRg&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.178.177:2087

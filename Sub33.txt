@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://O3666Ckn6N@104.16.252.135:8080?security=none&type=ws&host=darkevil.news&path=/#🔒 TR-WS-NONE 🏴‍☠️ NA-104.16.252.135:8080
 trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443?security=tls&sni=z9.gozargah.one#🔒 TR-TCP-TLS 🇺🇸 US-103.224.182.249:443
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.135:443?sni=vk.ylka.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-162.159.44.135:443
 trojan://Aimer@172.64.144.130:443?sni=epcca.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-172.64.144.130:443
@@ -503,3 +502,4 @@ trojan://Aimer@172.67.157.215:443?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA
 trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.19.159.12:443
 trojan://610a7867-1343-4dcc-955d-1473eeb14b14@209.209.48.19:38043?security=tls&sni=aliyun.com&type=tcp&allowInsecure=1#🔒 TR-TCP-TLS 🇭🇰 HK-209.209.48.19:38043
 trojan://Aimer@219.76.13.177:443?sni=epcce.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇭🇰 HK-219.76.13.177:443
+trojan://Aimer@121.179.37.140:50000?sni=agepq.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇰🇷 KR-121.179.37.140:50000
