@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://3d9741da-c0e4-47cc-a5e0-f1af3d337dae@172.67.208.155:443?security=tls&sni=e333.2030.PP.UA&type=ws&host=e333.2030.pp.ua&path=%2FGLDvleH8RDu6ZqfwAwY2SNm&fp=chrome&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.208.155:443
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@46.202.30.254:8880?type=ws&host=yg.bantony199.top&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3#🔒 VL-WS-NA 🇺🇦 UA-46.202.30.254:8880
 vless://67c662fa-cd6a-474a-b55f-d50dc0a7e210@104.18.14.201:2096?security=tls&sni=iamdt.pages.dev&type=ws&host=iamdt.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.14.201:2096
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@47.79.43.222:443?sni=steep.skyfigure.top&type=ws&host=steep.skyfigure.top&path=/Telegram🇨🇳&allowInsecure=1#🔒 VL-WS-NA 🇯🇵 JP-47.79.43.222:443
 vless://da0cbc2d-a897-4ec8-a27c-4e56dab774ed@104.26.14.16:2096?security=tls&sni=rEDzOnE.MirAcLehEaRTbIt.ICu&type=ws&host=rEDzOnE.MirAcLehEaRTbIt.ICu&path=/2096/@V2RayyNGVpn&fp=chrome&alpn=h2,http/1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.14.16:2096
@@ -503,3 +501,5 @@ vless://740edf7e-2c3c-41c8-bb2a-aa0dbfcc36be@104.24.130.17:443?sni=taoj.eu.org&t
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.232.140.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-77.232.140.63:8880
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.6.220:8443?security=tls&sni=NuWoLcZn28.qUiCkOrA.OrG&type=ws&host=NuWoLcZn28.qUiCkOrA.OrG&path=/&fp=chrome#🔒 VL-WS-TLS 🇳🇱 NL-45.131.6.220:8443
 vless://be73d2e9-57a3-409d-872e-c5dacb7ea6a8@62.60.228.10:443?security=tls&sni=de22rp.qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&type=ws&host=de22rp.qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com&fp=chrome#🔒 VL-WS-TLS 🇫🇮 FI-62.60.228.10:443
+vless://7f56467b-597a-4549-b3a7-2288c47a1d86@162.159.152.118:8443?sni=myv2ray-4xs.pages.dev&type=ws&host=myv2ray-4xs.pages.dev&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-162.159.152.118:8443
+vless://99727208-0086-43f9-f0ad-9e30f546b822@5.10.245.246:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.245.246:8880

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@173.245.58.154:2053?security=tls&sni=MoPrVjRx73.bRiGhTwAyE.OrG&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-173.245.58.154:2053
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.234:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.234:80
 vless://8e27edfb-48c5-4f1d-a4ad-eada6b3377e0@193.134.101.202:8081?security=none&type=tcp#🔒 VL-TCP-NONE 🇮🇷 IR-193.134.101.202:8081
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.200:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.200:8880
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.211:80?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.5.211:80
@@ -503,3 +501,5 @@ vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@188.114.97.1:443?security=tls&sni=T
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.176:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇳🇱 NL-45.131.6.176:8880
 vless://5543ae5c-c24f-405a-9266-597cbc43c818@52.76.110.129:20001?sni=miku.mikuru.ip-ddns.com&type=ws&allowInsecure=1#🔒 VL-WS-NA 🇸🇬 SG-52.76.110.129:20001
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.209:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.209:80
+vless://25ee0c23-9a3c-4cd0-ab35-095dc7d2a756@104.16.58.158:443?sni=bettercf.724719.xyz&type=ws&host=bettercf.724719.xyz&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.58.158:443
+vless://72f14dc6-b3bf-4c26-b4ad-2724ced253e9@185.14.160.214:90?security=tls&sni=m8.shop99.top&type=tcp&allowInsecure=1#🔒 VL-TCP-TLS 🇮🇷 IR-185.14.160.214:90

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@89.116.180.27:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.180.27:8880
-vless://15868173-1378-4984-a4e2-07d51591b237@141.11.202.251:8880?security=none&type=httpupgrade&host=%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B5.%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80.%D1%84%D1%84%D1%84.%D0%BF%D0%BF%D0%BF.%D0%B4%D0%B4%D0%B4.5%D0%B74.xx-chan.com.mahxray.news.&path=%2F%3Fed%3D80#🔒 VL-HTTPUPGRADE-NONE 🇫🇷 FR-141.11.202.251:8880
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@154.92.9.251:8880?type=ws&host=0926.qiang2000.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🔒 VL-WS-NA 🇨🇾 CY-154.92.9.251:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.177:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.177:8880
 vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443?security=tls&sni=cl.bgm2024.dpdns.org&type=ws&path=/?ed#🔒 VL-WS-TLS 🇧🇷 BR-185.133.35.238:443
@@ -503,3 +501,5 @@ vless://5543ae5c-c24f-405a-9266-597cbc43c818@13.228.155.72:443?sni=miku.mikuru.i
 vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@108.165.216.178:8880?security=none&type=httpupgrade&host=dl1.mcinet.xyz.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-108.165.216.178:8880
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@104.129.164.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-104.129.164.13:8880
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.194:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.121.194:2096
+vless://50e2cab1-c919-434d-a7d4-78dcd42fe963@162.159.152.2:80?security=none&type=ws&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.vpncustomize.V2ryng01.ru%3A0&path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed#🔒 VL-WS-NONE 🏴‍☠️ NA-162.159.152.2:80
+vless://5e1306ff-3ffa-4166-89ab-1a06ff42eca6@104.18.39.141:443?security=tls&sni=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&type=ws&host=www.speedtest.net.www.google.com.bing.com.visa.com.tls.htr.ddns-ip.net&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D5460#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.39.141:443

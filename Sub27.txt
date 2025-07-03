@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://80ce8c17-f249-471b-b78a-17a60f17b1be@104.21.19.124:80?security=none&type=ws&host=www.moji1372.buzz&path=%2Ftelegram%2Fid%2Fov2ray#🔒 VL-WS-NONE 🏴‍☠️ NA-104.21.19.124:80
-vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.155.79:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.155.79:443
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.197.121.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-154.197.121.29:8880
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.154:80?security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D2560#🔒 VL-WS-NONE 🇫🇷 FR-151.101.123.154:80
 vless://48ff069a-690e-4e5d-a3eb-416833bb038c@216.198.53.2:2053?security=tls&sni=s6d.ps4link.ru&type=ws&host=s6d.ps4link.ru&path=%2Finvestors.spotify.com%3Fed%3D2560&fp=randomized&alpn=h2#🔒 VL-WS-TLS 🇺🇸 US-216.198.53.2:2053
@@ -503,3 +501,5 @@ vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.80.111.12:2096?security=tls&sni=
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.19.168.104:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.19.168.104:443
 vless://6b36f549-0c35-4e9c-ad55-c43a960f7704@193.228.168.43:5519?security=none&type=tcp&host=CCgIG.divarcdn.com,CCgIG.cafebazaar.com,CCgIG.sanjesh.org,CCgIG.rubika.ir,CCgIG.arvancloud.ir&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-193.228.168.43:5519
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.153.217:443?security=tls&sni=jk.ylka.dpdns.org&type=ws&host=jk.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.153.217:443
+vless://e1155f68-1178-4226-8afc-e26ab1cb4f30@162.159.152.101:443?security=tls&sni=0107-7z4.pages.dev&type=ws&host=0107-7z4.pages.dev&allowInsecure=0#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.152.101:443
+vless://4f8b6d2a-daa9-4b87-87ee-7f058fce85c1@104.18.189.228:443?security=tls&sni=steep-pine-3b0b.facic63646.workers.dev&type=ws&host=steep-pine-3b0b.facic63646.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.18.189.228:443

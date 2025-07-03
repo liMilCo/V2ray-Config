@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-trojan://auto@104.17.148.22:2087?security=tls&sni=abbas.ab841vpn.workers.dev&type=ws&host=abbas.ab841vpn.workers.dev#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.148.22:2087
-trojan://Aimer@185.169.107.15:2053?sni=epccg.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇳🇱 NL-185.169.107.15:2053
 trojan://Aimer@104.19.44.67:443?sni=epccj.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.19.44.67:443
 trojan://Aimer@104.21.24.51:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.21.24.51:443
 trojan://Aimer@104.16.197.190:443?sni=epms.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.197.190:443
@@ -503,3 +501,5 @@ trojan://bpb-trojan@43.206.192.211:443?sni=skwygx.top&type=ws&host=skwygx.top&pa
 trojan://100b5163-fbb8-425d-9621-44d119555aa4@172.67.175.148:2053?security=tls&sni=MaHSA2.cffoRm.SitE&type=ws&host=mahsa2.cfform.site#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.175.148:2053
 trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&sni=jobscareertoday.com&type=ws&host=jobscareertoday.com&path=/6b777a91#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.147.5:443
 trojan://Aimer@104.16.153.48:443?sni=epccf.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.153.48:443
+trojan://x657pOt8KJBW@104.21.96.1:2053?security=tls&sni=tasnim.twn24.ir&type=ws&host=tasnim.twn24.ir&path=/рЯЖФ@M3HDIO1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.96.1:2053
+trojan://Aimer@162.159.153.187:443?sni=epcca.ambercc.filegear-sg.me&type=ws#🔒 TR-WS-NA 🏴‍☠️ NA-162.159.153.187:443

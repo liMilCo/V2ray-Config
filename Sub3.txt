@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://250dd200-2e83-4645-ac1d-6e7c85e91afe@108.165.216.22:443?security=tls&sni=aghayesex.hajalii.com&type=ws&path=%2F&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇺🇸 US-108.165.216.22:443
-vless://d69b938c-cbf4-4b61-aa97-e5762c304a25@5.10.244.109:443?security=tls&sni=madcity2.777999.lol&type=ws&host=madcity2.777999.lol&alpn=h3%2Ch2%2Chttp/1.1&allowInsecure=1#🔒 VL-WS-TLS 🇳🇱 NL-5.10.244.109:443
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@66.81.247.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-NA 🇺🇸 US-66.81.247.177:8880
 vless://0c3ba978-a32b-436e-9abd-89f661101ec3@104.16.66.50:80?security=none&type=xhttp&host=miano.muzikemazanii.ir&path=%2F%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot-%40orangevpns_bot%40orangevpns_bot-%40orangevpns_bot#🔒 VL-XHTTP-NONE 🏴‍☠️ NA-104.16.66.50:80
 vless://e65f0a57-96f4-4c60-b550-d5bd0c20c557@91.99.187.160:3789?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒 VL-TCP-NONE 🇩🇪 DE-91.99.187.160:3789
@@ -503,3 +501,5 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.21.64.10:443?security=tls&sni=x
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.12.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇸🇬 SG-154.194.12.29:8880
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.35.98:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.35.98:443
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.245.229.177:8880?type=ws&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇦🇪 AE-103.245.229.177:8880
+vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.95.229:2083?security=tls&sni=iNvINCiBLe.faFa20.shOp&type=ws&host=iNvINCiBLe.faFa20.shOp&path=%2Fafcier7hminrfcmm%2Fmti5lje1os44nc43mq%3D%3D%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.95.229:2083
+vless://39baadce-3e0b-4322-8de1-797bf7f25b8a@24.144.77.41:1003?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒 VL-TCP-NONE 🇳🇱 NL-24.144.77.41:1003
