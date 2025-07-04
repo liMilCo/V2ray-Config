@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@162.120.94.3:8880?sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇺🇸 US-162.120.94.3:8880
 vless://41abecd9-8096-4142-a75c-4e1d36d990bd@46.254.92.33:443?security=tls&sni=mmdserver.us.kg&type=ws&host=mmdserver.us.kg&path=%2F%3Fed%3D2048fp%3Dios#🔒 VL-WS-TLS 🇷🇺 RU-46.254.92.33:443
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.165.152.59:2087?security=tls&sni=edccq.aimercc.filegear-sg.me&type=ws&host=edccq.aimercc.filegear-sg.me#🔒 VL-WS-TLS 🇺🇸 US-108.165.152.59:2087
 vless://d96ddab8-306d-4a6b-86d9-d8e427316075@104.25.145.143:443?security=tls&sni=calm-bonus-748d.jixosey717.workers.dev&type=ws&host=calm-bonus-748d.jixosey717.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.25.145.143:443
@@ -502,4 +503,3 @@ vless://99f06cc6-a04a-4466-bb58-6b23173b2d0a@173.245.58.100:2086?security=none&t
 vless://8c4df824-560c-45b7-9a71-4595bc9ea543@95.179.159.217:51501?security=tls&sni=hi.forgesis.ir&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1#🔒 VL-TCP-TLS 🇳🇱 NL-95.179.159.217:51501
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.222:8880?type=ws&host=sg.laoyoutiao.link&path=Telegram%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%942%2F%3Fed%3D2048#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.222:8880
 vless://5abe79f6-57c2-4999-b6a0-bb87a9496a37@162.159.57.94:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.57.94:443
-vless://66214617-4e4d-4dc0-baa1-bed80c7b7792@185.124.175.192:443?security=tls&sni=ir.rapido.biseda2.eu&type=xhttp&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-XHTTP-TLS 🇮🇷 IR-185.124.175.192:443

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.138.58:443
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:13204?sni=137.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:13204
 trojan://Aimer@154.197.64.206:443?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇸🇨 SC-154.197.64.206:443
 trojan://Aimer@154.197.64.166:2053?sni=epccf.ambercc.filegear-sg.me&allowInsecure=0#🔒 TR-TCP-NA 🇸🇨 SC-154.197.64.166:2053
@@ -502,4 +503,3 @@ trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.5.134:2083?security=tls&sni
 trojan://9486ff17-2481-40c7-a5c4-d0d307de2509@104.21.58.135:443?security=tls&sni=yyyyyyyyyyy.818185.xyz&type=ws&host=yyyyyyyyyyy.818185.xyz&path=%2FORgwL4kEvW32T1dU239ar&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.58.135:443
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@172.67.110.232:443?sni=vk.ylka.dpdns.org&allowInsecure=0#🔒 TR-TCP-NA 🏴‍☠️ NA-172.67.110.232:443
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:8443?security=tls&sni=INVincIblE.fAfA20.shop&type=ws&host=invincible.fafa20.shop&path=%2FtrYacafkUmerow4kjv%2FNzguNDcuMTU3LjY%3D%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.95.229:8443
-trojan://Aimer@154.197.64.62:2083?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🇸🇨 SC-154.197.64.62:2083

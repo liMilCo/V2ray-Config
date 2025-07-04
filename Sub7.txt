@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5b973531-c165-480e-967e-5259409e644a@104.26.13.8:2096?security=tls&sni=mz.49z.info&type=grpc&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-104.26.13.8:2096
 vless://9fc80977-d06e-42f8-b451-379a9e4c3047@104.16.168.140:443?sni=test.989819.xyz&type=ws&host=test.989819.xyz#🔒 VL-WS-NA 🏴‍☠️ NA-104.16.168.140:443
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.194.53.10:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=/#🔒 VL-HTTPUPGRADE-NONE 🇺🇸 US-45.194.53.10:8880
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@199.34.228.173:2053?security=tls&sni=telnet.akcovufun.ir&type=ws&host=telnet.akcovufun.ir&path=%2F#🔒 VL-WS-TLS 🇺🇸 US-199.34.228.173:2053
@@ -502,4 +503,3 @@ vless://f184c89c-80a4-4a3a-bc67-97db43266c11@5.230.44.117:16771?security=tls&sni
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.142.120.177:8880?sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.142.120.177:8880
 vless://2dc696d0-2c4d-437e-9187-5a78584f0abb@45.32.233.201:63000?security=tls&sni=vkk.wxgqlfx.cn&type=ws&host=vkk.wxgqlfx.cn&path=%2FTG%40wxgqlfx%3Fed%3D2560&fp=random&alpn=http%2F1.1#🔒 VL-WS-TLS 🇳🇱 NL-45.32.233.201:63000
 vless://55520747-311e-4015-83ce-be46e2060ce3@104.16.134.46:443?security=tls&sni=nv.bgm2024.dpdns.org&type=ws&host=nv.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.134.46:443
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.20:8880?sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇧🇦 BA-77.74.228.20:8880

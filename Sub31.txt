@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://vs6f8hvt@162.159.140.159:2087?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-162.159.140.159:2087
 trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#🔒 TR-WS-TLS 🏴‍☠️ NA-104.26.4.60:443
 trojan://2GR07uUhjA@104.21.48.1:2083?security=tls&sni=esna.twn24.ir&type=ws&host=esna.twn24.ir&path=%2Fmehdi&fp=random#🔒 TR-WS-TLS 🏴‍☠️ NA-104.21.48.1:2083
 trojan://71698fa1-5dbc-4a7d-a1f0-6f9f098b0829@62.3.54.31:12106?sni=110.yuanul.com#🔒 TR-TCP-NA 🇯🇵 JP-62.3.54.31:12106
@@ -502,4 +503,3 @@ trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.150.202:443?security=tls&sn
 trojan://vs6f8hvt@104.17.247.203:2083?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org#🔒 TR-WS-TLS 🏴‍☠️ NA-104.17.247.203:2083
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@120.241.226.93:3462?sni=45.32.28.232#🔒 TR-TCP-NA 🇨🇳 CN-120.241.226.93:3462
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.89:2053?security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua&type=grpc#🔒 TR-GRPC-TLS 🏴‍☠️ NA-141.101.120.89:2053
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.138.58:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒 TR-TCP-TLS 🇯🇵 JP-160.16.138.58:443

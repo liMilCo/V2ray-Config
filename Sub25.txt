@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.85.119.156:8880?security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🔒 VL-WS-NONE 🇷🇴 RO-45.85.119.156:8880
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@23.227.60.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇨🇦 CA-23.227.60.13:8880
 vless://ea179d57-abac-444b-8c7c-ac7a2726f55f@104.26.8.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.8.225:443
 vless://ced307a2-af2c-4113-bebc-fb888c702b7d@172.67.170.51:443?security=tls&sni=m4fRt.999182.XYz&type=grpc&serviceName=a2YATZF8eZmxQChjU3X&fp=chrome&alpn=h2#🔒 VL-GRPC-TLS 🏴‍☠️ NA-172.67.170.51:443
@@ -502,4 +503,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.209.12:443?security=tls&sni=
 vless://34462e1f-28f5-4db7-8020-ca15aa1e72fc@162.159.130.234:8443?security=tls&sni=v-2rey-channel.pages.dev&type=ws&host=v-2rey-channel.pages.dev&path=%2FTeleram%3A+%40v_2ray#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.130.234:8443
 vless://e36927d6-1ce7-4beb-bd17-11f78506aff8@151.101.128.84:80?security=none&type=xhttp&host=yyyy-dd-mm-de.global.ssl.fastly.net&path=%2F#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.128.84:80
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@138.199.27.206:8443?security=tls&sni=cdg-1.fromblancwithlove.com&type=tcp&alpn=h2#🔒 VL-TCP-TLS 🇫🇷 FR-138.199.27.206:8443
-vless://82fd9622-83a8-4378-92d6-dcb4a2787d63@129.154.194.191:443?security=tls&sni=qwok.feidyql.dpdns.org&type=ws&host=qwok.feidyql.dpdns.org&allowInsecure=1#🔒 VL-WS-TLS 🇰🇷 KR-129.154.194.191:443
