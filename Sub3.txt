@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.32.1:2087?security=tls&sni=HASti.FReeAirlAINEs.cOm&type=ws&host=HaSti.fReEaIRlAineS.coM&path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2048&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.32.1:2087
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@188.164.159.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇦🇲 AM-188.164.159.254:8880
 vless://200cbed8-9d6b-4c4c-956e-408284a1df05@91.99.193.247:500?type=tcp&host=speedtest.net&headerType=http#🔒 VL-TCP-NA 🇩🇪 DE-91.99.193.247:500
 vless://b8be6118-0dd7-4402-ae1a-69b2816f3a7f@172.66.128.138:80?security=none&sni=br.presskiwi.dpdns.org&type=ws&host=br.presskiwi.dpdns.org&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-172.66.128.138:80
@@ -502,4 +503,3 @@ vless://683c95fa-672b-49a3-bf44-342adfbb7c36@104.26.7.95:443?security=tls&sni=xx
 vless://99727208-0086-43f9-f0ad-9e30f546b822@89.116.180.227:8880?security=none&type=httpupgrade&host=hamidjon.ddigicyber.click.&path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER#🔒 VL-HTTPUPGRADE-NONE 🇱🇹 LT-89.116.180.227:8880
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.193.29.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&allowInsecure=1#🔒 VL-WS-NA 🇬🇧 GB-185.193.29.254:8880
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.170.166.13:8880?sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🇬🇧 GB-185.170.166.13:8880
-vless://7585f059-2c89-4a02-9dff-394bb7913ef5@172.67.89.232:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s09.gatesriver.ir&path=%2F&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.89.232:2096

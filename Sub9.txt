@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@108.162.192.63:8880?sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram🇨🇳&allowInsecure=0#🔒 VL-WS-NA 🏴‍☠️ NA-108.162.192.63:8880
 vless://b66b52ba-9366-440c-9b00-aad81b7dcda4@104.16.29.121:8443?security=tls&sni=f15f03b1064bf452cHaIn.KhOrOsChIi.IR&type=httpupgrade&host=cHaIn.KhOrOsChIi.IR&path=%2Fhttps.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.g2.masterrshed.news%40ipdomein-ipclound-sUpPoRt.ApArAt.COm%3Fed%3D8443#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.16.29.121:8443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-TLS 🏴‍☠️ NA-104.22.22.237:443
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3D2560#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.38.13:443
@@ -502,4 +503,3 @@ vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.149.46:443?sni=xv6.jpmj.dpdn
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.198.242:443?security=tls&sni=rayan-07.parastoo.dpdns.org&type=ws&host=rayan-07.parastoo.dpdns.org&path=%2F%40Rayan_Config&fp=chrome#🔒 VL-WS-TLS 🏴‍☠️ NA-198.41.198.242:443
 vless://3f7fddf9-3fb7-4784-8f23-2b3caf1d850a@62.60.210.121:5126?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-62.60.210.121:5126
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.232.140.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-77.232.140.29:8880
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.245.63:8880?sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#🔒 VL-WS-NA 🇳🇱 NL-5.10.245.63:8880

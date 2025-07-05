@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.214:8880?security=none&type=httpupgrade&host=nufillter.jtip.sbs.&path=%2F#🔒 VL-HTTPUPGRADE-NONE 🇳🇱 NL-5.10.246.214:8880
 vless://3df9e1f8-9d05-4452-b5b6-dede049231a2@104.16.116.19:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-104.16.116.19:443
 vless://948f6596-66f9-4707-aa92-3107a214ce53@119.65.35.44:50000?security=tls&sni=oops.shalamshorba.dpdns.org&type=ws&host=oops.shalamshorba.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒 VL-WS-TLS 🇰🇷 KR-119.65.35.44:50000
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@103.116.7.213:8880?type=ws&host=jp.laoyoutiao.link#🔒 VL-WS-NA 🇺🇸 US-103.116.7.213:8880
@@ -502,4 +503,3 @@ trojan://ttfang@13.228.142.218:443?security=tls&sni=ttfang.fange.me&type=ws&host
 trojan://Aimer@154.211.8.90:443?security=tls&sni=epccs.ambercc.filegear-sg.me&type=tcp#🔒 TR-TCP-TLS 🇺🇸 US-154.211.8.90:443
 trojan://Aimer@104.16.55.132:443?sni=epccv.ambercc.filegear-sg.me#🔒 TR-TCP-NA 🏴‍☠️ NA-104.16.55.132:443
 trojan://Aimer@104.18.173.160:2083?security=tls&sni=agepa.ambercc.filegear-sg.me&type=ws&host=agepa.ambercc.filegear-sg.me#🔒 TR-WS-TLS 🏴‍☠️ NA-104.18.173.160:2083
-trojan://6e5925c0-f39e-4449-93e9-2e2e9772b17b@172.67.197.2:443?security=tls&sni=11q.003330333.Xyz&type=ws&host=11q.003330333.xyz&path=%2Fa4unyD0ay1Vp4fx59ry&fp=chrome&alpn=http%2F1.1#🔒 TR-WS-TLS 🏴‍☠️ NA-172.67.197.2:443

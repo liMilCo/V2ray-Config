@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://897a4bec-26b8-11e8-94be-00505695472c@172.67.157.234:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.67.157.234:443
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80?security=none&sni=dw.alibichareh.dpdns.org&type=ws&host=dw.alibichareh.dpdns.org&path=%2F%3Fed%3D2560&fp=random#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.241.234:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.94:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.120.94:2096
 vless://897a4bec-26b8-11e8-94be-00505695472c@172.64.144.54:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-172.64.144.54:443
@@ -502,4 +503,3 @@ vless://617d5079-9fae-494a-98ca-90da9e10cd70@134.122.102.108:80?security=none&ty
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.193:8880?type=ws&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇹 LT-45.81.58.193:8880
 vless://9d22dd97-583f-49c1-9c09-c8cab019f176@151.101.59.221:80?security=none&type=xhttp&host=Zedmodeonjoininyour-name.global.ssl.fastly.net&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#🔒 VL-XHTTP-NONE 🇺🇸 US-151.101.59.221:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.19.216:80?type=ws&host=redw.pooriam.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🔒 VL-WS-NA 🇭🇰 HK-156.238.19.216:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.219:8880?sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/Channel&allowInsecure=0#🔒 VL-WS-NA 🇷🇺 RU-45.8.211.219:8880

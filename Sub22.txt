@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.100:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.120.100:2096
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.189.161:443?security=tls&sni=pqh36v4.hiddendom.shop&type=grpc&host=pqh36v4.hiddendom.shop&alpn=h2#🔒 VL-GRPC-TLS 🇸🇮 SI-92.53.189.161:443
 vless://376734bc-4db8-4317-b451-af0262cb01c7@104.26.13.38:2096?security=tls&sni=inVINCIble.fAFA20.Shop&type=ws&host=invincible.fafa20.shop&path=%2FyRVRnY2jDtjg67UV%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-104.26.13.38:2096
 vless://fe9518bb-d3d2-428f-9781-b54dc1f73594@91.234.39.27:50063?security=none&type=tcp&host=speedtest.net&path=%2F&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-91.234.39.27:50063
@@ -502,4 +503,3 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.67.223.198:443?security=tls&sni
 vless://ab907599-0072-4118-b696-f308401c6059@162.159.195.178:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960009.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒 VL-WS-TLS 🏴‍☠️ NA-162.159.195.178:443
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@188.42.145.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇱🇺 LU-188.42.145.251:8880
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@91.193.58.155:8880?type=ws&host=steep.skyfigure.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🔒 VL-WS-NA 🇬🇧 GB-91.193.58.155:8880
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@77.75.199.20:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=%2F#🔒 VL-HTTPUPGRADE-NA 🇬🇧 GB-77.75.199.20:8880

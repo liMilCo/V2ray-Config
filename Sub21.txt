@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.233:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.233:80
 vless://897a4bec-26b8-11e8-94be-00505695472c@104.18.93.79:443?sni=xv6.jpmj.dpdns.org&type=ws&host=xv6.jpmj.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🏴‍☠️ NA-104.18.93.79:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.67.72.191:443?security=tls&sni=carlotta.shoorekeeper.cloudns.org&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net&fp=randomized&alpn=http%2F1.1#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.72.191:443
 vless://91d9b8d8-2aab-4e1a-9573-0d59e9cd7f8e@188.114.97.1:8880?security=none&type=ws&host=falcunargo-channel.be3374a836.workers.Dev#🔒 VL-WS-NONE 🏴‍☠️ NA-188.114.97.1:8880
@@ -502,4 +503,3 @@ vless://bb29c155-d55e-4c07-8403-0581e384f7a2@193.227.99.51:2087?security=tls&sni
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.85:8880?security=none&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🔒 VL-WS-NONE 🇬🇧 GB-91.193.58.85:8880
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.0.54.25:443?sni=vv.ylka.dpdns.org&type=ws&host=vv.ylka.dpdns.org&allowInsecure=1#🔒 VL-WS-NA 🇺🇸 US-192.0.54.25:443
 vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@185.162.229.111:443?security=tls&sni=mypHOtoGRAPICpIctUre.iR&type=ws&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&alpn=http%2F1.1#🔒 VL-WS-TLS 🇦🇲 AM-185.162.229.111:443
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.100:2096?security=tls&sni=1749800520363.wk.by.ktff.ss#🔒 VL-TCP-TLS 🏴‍☠️ NA-141.101.120.100:2096

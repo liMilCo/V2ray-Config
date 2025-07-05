@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d4e5f6a7-b8c9-4d0e-9f1a-2b3c4d5e6f7a@185.146.175.17:8443?security=tls&sni=planasli.vpn&type=ws&host=planasli.vpn&fp=chrome#🔒 VL-WS-TLS 🇸🇪 SE-185.146.175.17:8443
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.215.228.109:1001?security=none&type=tcp&headerType=http#🔒 VL-TCP-NONE 🇮🇷 IR-185.215.228.109:1001
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.29:8880?type=ws&host=hk.laoyoutiao.link&path=%2F#🔒 VL-WS-NA 🇺🇸 US-141.193.27.29:8880
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@192.0.63.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram#🔒 VL-WS-NA 🇺🇸 US-192.0.63.247:8880
@@ -502,4 +503,3 @@ vless://b0ed6b6c-9606-4be6-bc53-6a32842e26ea@104.16.185.163:443?security=tls&sni
 vless://34c8b6c9-7a1d-445a-92fb-2f10215d8c94@104.17.147.22:443?security=tls&sni=new2.hosting-mmd.ir.&type=httpupgrade&host=new2.hosting-mmd.ir.&fp=chrome&alpn=h3,h2,http/1.1#🔒 VL-HTTPUPGRADE-TLS 🏴‍☠️ NA-104.17.147.22:443
 vless://ef1e293b-a8c8-46d2-95a2-5be6fdf3b666@102.177.189.29:80?security=none&type=ws&host=wf.misvn.ir&path=%2F%3Fed%3D8443#🔒 VL-WS-NONE 🇬🇧 GB-102.177.189.29:80
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.119:80?sni=redw.pooriam.ir&type=ws&path=Telegram%40WangCai2%2F%3Fed#🔒 VL-WS-NA 🇯🇵 JP-156.238.18.119:80
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.100:80?security=none&sni=cs.laoyoutiao.link&type=ws&host=cs.laoyoutiao.link&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net%2F#🔒 VL-WS-NONE 🇺🇸 US-141.193.213.100:80
