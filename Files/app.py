@@ -97,9 +97,11 @@ def main():
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
+        "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link",
     ]
     dir_links = [
         "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
+        "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
         "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
         "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
@@ -107,7 +109,8 @@ def main():
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
         "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-        "https://mrpooya.top/SuperApi/V7pRO.php"
+        "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
+        "https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt"
     ]
 
     decoded_links = decode_links(links)
