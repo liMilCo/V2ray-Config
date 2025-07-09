@@ -142,6 +142,15 @@ def main():
         for config in merged_configs:
             f.write(config + "\n")
 
+    # Create base64 version of the main file
+    with open(output_filename, "r") as f:
+        main_config_data = f.read()
+    
+    main_base64_filename = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
+    with open(main_base64_filename, "w") as f:
+        encoded_main_config = base64.b64encode(main_config_data.encode()).decode()
+        f.write(encoded_main_config)
+
     # Split merged configs into smaller files (no more than 600 configs per file)
     with open(output_filename, "r") as f:
         lines = f.readlines()
