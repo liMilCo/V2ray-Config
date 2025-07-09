@@ -34,14 +34,15 @@ jobs:
         python app.py
         python sort.py
 
-    - name: Commit and push changes  
-      uses: EndBug/add-and-commit@v7  
+    - name: Commit and push changes
+      uses: EndBug/add-and-commit@v7
       with:
         author_name: "GitHub Actions"
         author_email: "actions@github.com"
-        message: "Automated update: $(date +'%Y-%m-%d %H:%M:%S')"
-        add: "Splitted-By-Protocol/*"
+        message: "Updated 11 minutes Ago🤝"
+        add: "."
         pull: "NO-PULL"
         push: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
