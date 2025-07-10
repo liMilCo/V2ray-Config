@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-0267
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-0265
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0296
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0287
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0262
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0291
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.38:989#%F0%9F%87%B7%F0%9F%87%B4RO-194.14.217.38-0336
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0295
@@ -503,3 +498,8 @@ vless://c3708323-48fe-49c2-aaef-84d0a4cd12ff@170.114.45.159:443?security=tls&sni
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@192.200.160.247:8880?sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=/Telegram🇨🇳&allowInsecure=0#🇸🇬[openproxylist.com]
 vless://4fe84736-3189-4843-a5a1-3c0a7effc425@172.67.157.254:443?security=tls&sni=eeefrgtyui.444752.xyz&type=ws&host=eeefrgtyui.444752.xyz&path=%2F7iU7HTRWfha9VdzfVlCE1GSA&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com]
 vless://bfe995f7-72dd-4e50-8211-e66d466a9c75@194.120.116.106:8880?type=tcp&host=www.speedtest.net&headerType=http#🇳🇱[openproxylist.com]
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?type=grpc#🇺🇸[openproxylist.com]
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.153.7.254:8880?sni=Telegram-channel-WangCai2&type=ws&host=yg.bantony199.top&path=/Telegram🇨🇳&allowInsecure=0#🇸🇬[openproxylist.com]
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@188.164.248.251:8880?type=ws&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🇸🇬[openproxylist.com]
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#🇫🇷[openproxylist.com]
+vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.16.5:443?security=tls&sni=faruzan.changli.ddns-ip.net&type=ws&host=faruzan.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir&fp=randomized&alpn=http%2F1.1#🇸🇬[openproxylist.com]
