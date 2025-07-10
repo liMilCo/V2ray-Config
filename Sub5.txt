@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.251.81.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#ES_speednode_0011
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.251.83.177:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2#ES_speednode_0012
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@141.11.202.78:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#FR_speednode_0013
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@109.176.239.77:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=free.cfdns.online&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0016
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.250:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0017
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.238:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0018
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.195:8880?allowInsecure=1&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome#GB_speednode_0019
