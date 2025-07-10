@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp1.eyucdn.xyz:2056?insecure=1&sni=zp1.eyujichang.xyz#%E4%B8%9C%E4%BA%AC
 hysteria2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp2.eyucdn.xyz:2056?insecure=1&sni=zp2.eyujichang.xyz#%E6%9C%AA%E5%91%BD%E5%90%8D
 hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?insecure=1&sni=www.bing.com#2
 hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443?insecure=1&sni=www.bing.com#2%20%231
