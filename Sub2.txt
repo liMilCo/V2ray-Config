@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#BA_speednode_0012
-vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?allowInsecure=0&sni=pingless.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#BG_speednode_0013
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.133.35.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#BR_speednode_0014
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.244.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#CR_speednode_0015
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.245.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#CR_speednode_0016
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.247.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#CR_speednode_0017
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.246.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#CR_speednode_0018
@@ -503,3 +499,7 @@ hysteria2://b56817ba-de94-486c-8312-de9894b85d21@uk.xn--2vxn29amga.com:21110?mpo
 hysteria2://b56817ba-de94-486c-8312-de9894b85d21@uk.xn--2vxn29amga.com:21130?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%A2%A7%E6%B5%B7%E9%9C%9E%E5%85%89%20%F0%9F%8C%8A
 
 hysteria2://b56817ba-de94-486c-8312-de9894b85d21@uk.xn--2vxn29amga.com:21140?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E6%98%9F%E6%B2%B3%E7%B9%81%E9%83%BD%20%E2%9C%A8
+
+hysteria2://b56817ba-de94-486c-8312-de9894b85d21@uk.xn--2vxn29amga.com:21187?mport=21101-21199&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%E8%8B%B1%E5%9B%BD%E8%B6%85%E9%80%9F%20%E7%83%9F%E9%9B%A8%E5%8F%A4%E9%9F%B5%20%E2%9B%A9%EF%B8%8F
+
+hysteria2://b56817ba-de94-486c-8312-de9894b85d21@us.xn--2vxn29amga.com:21114?mport=21101-21199&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%AE%B9%20%E9%A3%8E%E9%9F%B5%E4%B9%8B%E9%83%BD%20%F0%9F%8D%82

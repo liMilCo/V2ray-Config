@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTUuMTkzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInBzIjogIlRlbGVncmFtIHwgQEZORVQwMFx1ZDgzZFx1ZGNmMSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&encryption=none&type=grpc#12208
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh35v4.gym35fit.shop#%40trust_v2config`
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@pqh41v5.whatstrue.shop:1001?encryption=none&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&headerType=none#%40Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#%`برای
 vless://8ad321e9-7f47-4706-a101-11aefa88723b@104.24.197.20:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-sun.parsa.dpdns.org&fp=chrome&type=ws&sni=rayan-sun.parsa.dpdns.org#@Filter_breaker
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20vpn_Sra%40`
@@ -503,3 +499,7 @@ ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636#%F0%9F%87%AD%F0%9F%87%
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMzguMTQ3LjE4OS4yMzMiLCJwb3J0IjoiMzEwNzYiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWMyMjI4ZjItNzU3Yi00NDQ2LTg2ODItNjhiNjUyYjA1OTkzIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:9141?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:24903?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:41225?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
