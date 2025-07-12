@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d643b9ca-57b7-4cd5-84b8-a77f26b6346e@ns4.cloudflare.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-fg-4.narges.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-4.narges.filegear-sg.me#Rayan%20-%20CF%20-%20WS-108%20-%20C.77
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?security=&encryption=none&type=grpc&sni=pqh35v8.gym35fit.shop#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc&serviceName=#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me%2FConfigsHub`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.158.126.174-0316
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.171:8880?security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
@@ -503,3 +500,6 @@ trojan://652b7eeb-9bfc-4612-8000-5ab327001660@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1
 trojan://652b7eeb-9bfc-4612-8000-5ab327001660@c3b2a1f0e9d8c7b6a5f4e3d2c1b0a9f8.1kmei.com:23525?allowInsecure=0&sni=cn.bing.com#_%E4%B8%AD%E5%9B%BD
 trojan://652b7eeb-9bfc-4612-8000-5ab327001660@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:23526?allowInsecure=0&sni=cn.bing.com#_%E4%B8%AD%E5%9B%BD
 订阅内容解析错误ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@3.39.249.233:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ2OS5oZWR1aWFuLmxpbmsiLCJwb3J0IjoiMzA4MDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9vb29vIiwiaG9zdCI6ImJhaWR1LmNvbSIsInRscyI6IiJ9
+ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMzguMTQ3LjE4OS4yMzMiLCJwb3J0IjoiMzEwNzYiLCJ0eXBlIjoiaHR0cCIsImlkIjoiNWMyMjI4ZjItNzU3Yi00NDQ2LTg2ODItNjhiNjUyYjA1OTkzIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
