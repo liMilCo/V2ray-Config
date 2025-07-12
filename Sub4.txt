@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?security=&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-FR
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.170:8880?security=&encryption=none&type=grpc&sni=pqh35v8.gym35fit.shop#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&authority=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&type=grpc&serviceName=#%5B%F0%9F%87%AC%F0%9F%87%A7%5Dt.me%2FConfigsHub`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.158.126.174-0316
@@ -503,3 +502,4 @@ ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636/?plugin=v2ray-plugin%3B
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:41225?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4445?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg@13.231.80.233:9898#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC5%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.59:16158?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%7C%40ripaojiedian
