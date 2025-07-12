@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.196.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#AU_speednode_0012
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳#AU_speednode_0013
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#BA_speednode_0014
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?allowInsecure=0&sni=pingless.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#BG_speednode_0015
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#BG_speednode_0016
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegramًں‡¨ًں‡³#BR_speednode_0017
@@ -503,3 +500,6 @@ hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:40002/?sni=dxob
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://f901861b-6491-450c-b500-606b2e921625@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+vless://0a9b5598-e5c6-5a96-9c37-2a8f1eee2cce@95.215.8.25:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
