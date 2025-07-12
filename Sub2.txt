@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560fp=random&security=tls#CR_speednode_0020
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/Telegram@V2ray_Alpha/?ed=2560fp=chrome&security=tls#CR_speednode_0021
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/security=tls#CR_speednode_0022
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/Telegram@V2rayN5/?ed=2560fp=chrome&security=tls#CR_speednode_0023
 vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?allowInsecure=0&sni=mylearn-8zx.pages.dev&type=ws&host=mylearn-8zx.pages.dev&path=/fp=chrome&security=tls#CR_speednode_0024
@@ -501,5 +503,3 @@ DØ>ægÀã%Øµ³®ð¶¦GÂ°ï¯RÇ×â{Â¡
 ¨T·ÿ{~Þ&/"ªeFSo³¿"nÄvùíðö¡ÜFñÇêrnÓ4-lÒ¶ã®¶êÈ( áx|¡è Q°©(R×	´¯C%®è±vÝqïÊÿ·ÃNîÙNÃs¿ðQi ²\Q1h$ìÐBÍÔ\¦BôÃ^ò¡dõìiÕihÓØi ±±~¨|bÓô[e»lÙ²Ä<FÃª#8jYlðV|d¾]dÑàÌ&/Ù`Å¯fò¥/ôéQ¢"*õÒ\ô£° h7
 °l3÷÷DÕ³|»Vw/%grxNdä¾°&[·;:@:_èÉàeNI»Ó­ÊJÛ÷¹
 ´S1°U¼c$QV%G¶1gä3u^[ÃMóªhÃSÄ¦=usRü}l0?Aþ¿û×chKò=P¥-5ïNòËt|qº`­o¡[g:~ù{M³³Ì¦%H(õtû'
-M!ÆÜI ¢HbôBAâã`îIÖ]Áp){õ^!ä²ìæ[;RöÑfAù!&uÞ~G±â»¡#çxÁUbgØ?ûös0I+~÷G]"IöLqõ¢>yÓ]N% ÕÍð¡f¹/6nAÆ_iqãvVüe£4ýöB$Óu~ëªå1rVsxø~ÍgÒÙG-û³T¤¹DV¡46¿k1ÝAÎ·GkgÝÅ­f¹XhhyY¡Pýª][-æH¨2EúÍÊ¨¡W\0þÙ¶}Jr
-4)t°«·µL,%-xZ.cý=ßSH¿CC×Í²º©X¼Ôô¤\Qö¦Ð	CÌÍÿãQY÷AÍyç¤·wðãÈîÑø¨vÌD®ºµAeø¯èøðÇ'EYEhºúÇÃsþ$öaå  @§£âMsÚðü´ä¥°l«O»n[D¼ÉÐ/i±ÌWcV!ÿïÒ	|­ÛT@MaÓLf¯3¬bz-£DÒº%OA7U®b@Qºçlñw9hÕz}MýD/¸ùSjÍ0ó>oÒRßßy¯u.³ûûh"â ÖÆ%þÝæ[VYx&-éÿ?¿ú±È
