@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.196.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#AU_speednode_0012
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳#AU_speednode_0013
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#BA_speednode_0014
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?allowInsecure=0&sni=pingless.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#BG_speednode_0015
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#BG_speednode_0016
@@ -503,3 +501,5 @@ hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:37058/?sni=dxobg
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode

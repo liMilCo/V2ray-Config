@@ -4,8 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
@@ -503,3 +501,5 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&se
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@GhatyPatty
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?encryption=none&security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2&type=grpc#Channel%20id%3A%20%40mobilesignal%20%F0%9F%87%AD%F0%9F%87%BA
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.143:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@102.177.176.20:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
