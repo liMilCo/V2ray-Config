@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.199.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#AU_speednode_0011
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#BA_speednode_0012
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?allowInsecure=0&sni=pingless.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#BG_speednode_0013
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.133.35.20:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#BR_speednode_0014
@@ -503,3 +502,4 @@ hysteria2://b56817ba-de94-486c-8312-de9894b85d21@jp.xn--2vxn29amga.com:21132?mpo
 
 hysteria2://b56817ba-de94-486c-8312-de9894b85d21@jp.xn--2vxn29amga.com:21165?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E6%A8%B1%E6%B5%B7%E6%99%95%E6%9F%93%20%F0%9F%8C%B8
 
+hysteria2://b56817ba-de94-486c-8312-de9894b85d21@jp.xn--2vxn29amga.com:21174?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9B%AA%E8%90%BD%E6%97%A0%E5%A3%B0%20%E2%9D%84%EF%B8%8F

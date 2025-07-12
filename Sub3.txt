@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://b56817ba-de94-486c-8312-de9894b85d21@jp.xn--2vxn29amga.com:21174?mport=21101-21199&insecure=0#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%E4%BD%8E%E5%BB%B6%20%E9%9B%AA%E8%90%BD%E6%97%A0%E5%A3%B0%20%E2%9D%84%EF%B8%8F
 
 hysteria2://b56817ba-de94-486c-8312-de9894b85d21@sg.xn--2vxn29amga.com:21117?mport=21101-21199&insecure=0#%F0%9F%87%B8%F0%9F%87%AC%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%A8%B3%20%E7%83%9F%E7%81%AB%E4%BA%BA%E9%97%B4%20%F0%9F%8E%8F
 
@@ -503,3 +502,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?security=&encry
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.59:8880?security=&encryption=none&type=grpc#%F0%9F%87%AC%F0%9F%87%A7%5Bopenproxylist.com%5D%20vless-GB
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=&encryption=none&type=grpc&sni=pqh33v1.cinema33.shop#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%3E%3E%40V2rayNG3%3A%3AGB%3A%3AGB
