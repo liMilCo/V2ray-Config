@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://461558c5-425f-49de-9dad-5a9184e092f9@38.246.249.90:60589/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cisco.com&fp=chrome&security=reality&pbk=g_56k7ui9UrIxf6FL4bc5JJ4tYQ0wwENzddsybcRNHo&sid=11aa857ce52a1392#%F0%9F%AA%9091%40oneclickvpnkeys
 vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=images.apple.com&fp=chrome&security=reality&pbk=nm1ZhMktJbHTcJv0gqV8l0s_c9BWfQe5d02qhpSkKWo&sid=7fd4#%F0%9F%92%8D85%40oneclickvpnkeys
 vless://e97a0128-4785-4323-a2a5-dd01ce49d359@104.19.173.68:443/?type=ws&encryption=none&flow=&host=rayan-fg-7.mohammad-janam.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=rayan-fg-7.mohammad-janam.filegear-sg.me&fp=chrome#%F0%9F%92%8D91%40oneclickvpnkeys
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.251.4:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&fp=chrome#🇺🇸[openproxylist.com]
@@ -503,3 +502,4 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:32765?allowInsecure=1&sn
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4447?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:34719?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
