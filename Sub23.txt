@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@Hddify | چنل هدیفای 🦠
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@KAFING_2
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@Moft_Vpn کانال
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@Selinc
@@ -503,3 +502,4 @@ vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=/ikhocbws&se
 vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?path=/ikhocbws&security=tls&encryption=none&host=638874929583581773.zagreb-prx-dnraaad.info&type=ws&sni=638874929583581773.zagreb-prx-dnraaad.info#🎇Telegram:@V2rayTun0🎇
 vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?security=tls&encryption=none&type=ws&host=638874929583581773.zagreb-prx-dnraaad.info&path=/ikhocbws&sni=638874929583581773.zagreb-prx-dnraaad.info&fp=chrome#@sockss_http 2254
 vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?type=ws&host=638874929583581773.zagreb-prx-dnraaad.info&path=/ikhocbws&security=tls&fp=chrome&sni=638874929583581773.zagreb-prx-dnraaad.info#@VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
+vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?type=ws&host=638874929583581773.zagreb-prx-dnraaad.info&path=/ikhocbws&security=tls&fp=chrome&sni=638874929583581773.zagreb-prx-dnraaad.info#🇨🇦𝐣𝐨𝐢𝐍-@VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd

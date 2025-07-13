@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#@V2RAY_VMESS_free
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:15193?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#@v2rayngsupbot / @ai_duet🚀
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#@v2raying
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
@@ -503,3 +502,4 @@ vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#ᴬᴸᴸ³🇩🇪➣@RK_VPS
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#🌐 @Hddify | چنل هدیفای 👀
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#ᴬᴸᴸ³🇩🇪➣@Cook_Vpn
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560/?BIA_CHANEL@RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#ᴬᴸᴸ³🇩🇪➣@RK_VPS

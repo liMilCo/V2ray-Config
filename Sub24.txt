@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://760d1d5e-6696-49b6-aaed-a6411ccea8db@104.18.26.90:2096?type=ws&host=638874929583581773.zagreb-prx-dnraaad.info&path=/ikhocbws&security=tls&fp=chrome&sni=638874929583581773.zagreb-prx-dnraaad.info#🇨🇦𝐣𝐨𝐢𝐍-@VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://762d4652-2a52-490d-96d0-c18e21bbdf8d@pishgam.sdcards.ir:8880?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=soltan.amirarshia.shop&security=none#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
 vless://763f1554-52fc-466a-b6be-d5ff9eee0fa0@151.101.3.8:80?path=?=9090&security=none&encryption=none&host=External_Net.org&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛🩵
 vless://7648af05-f18f-4d16-ad53-1781370b3596@104.17.148.22:443?encryption=none&security=tls&sni=liNGeRing-scENe-42dd.BoLIj51053.WorkERS.dEv&alpn=h2,http/1.1&fp=chrome&type=ws&host=lingering-scene-42dd.bolij51053.workers.dev&path=/Telegram@V2ray_Alpha/?ed=2560#🇨🇦CA+->+🇸🇪SE+⚡@DeamNet_Proxy
@@ -503,3 +502,4 @@ vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=none&e
 vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#@vpnaloo
 vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🍉 @FreakConfig
 vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=none&encryption=none&host=exo.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASH 💜💙
+vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=none&encryption=none&host=exo.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 💚

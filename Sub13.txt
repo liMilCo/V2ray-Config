@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:8080?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Telegram:@GOLDllVPN 🔥
 vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:8080?security=none&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#🎇Telegram:@V2rayTun0🎇
 vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?encryption=none&security=none&type=tcp&headerType=none#@config_green
 vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?security=&encryption=none&headerType=none&type=tcp#Telegram:@GOLDllVPN 🔥
@@ -503,3 +502,4 @@ vless://267613d7-f53f-4005-b642-d6f1f687b7cf@172.66.47.159:443?path=/tf4C48brjBY
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@172.66.47.159:443?path=/tf4C48brjBYWN3cY?ed=2560&security=tls&encryption=none&host=eNshOlp-91S.PaGEs.dEV&fp=chrome&type=ws&sni=eNshOlp-91S.PaGEs.dEV#ae_proxy
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@172.66.47.159:443?path=/tf4C48brjBYWN3cY?ed=2560&security=tls&encryption=none&host=eNshOlp-91S.PaGEs.dEV&fp=chrome&type=ws&sni=eNshOlp-91S.PaGEs.dEV#✅@AR14N24b
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@172.66.47.159:443?path=/tf4C48brjBYWN3cY?ed=2560&security=tls&encryption=none&host=eNshOlp-91S.PaGEs.dEV&fp=chrome&type=ws&sni=eNshOlp-91S.PaGEs.dEV#✅@parsproxy_ir
+vless://267613d7-f53f-4005-b642-d6f1f687b7cf@172.66.47.159:443?path=/tf4C48brjBYWN3cY?ed=2560&security=tls&encryption=none&host=eNshOlp-91S.PaGEs.dEV&fp=chrome&type=ws&sni=eNshOlp-91S.PaGEs.dEV#✅@v2ray_configs_pools

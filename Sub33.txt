@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c3d4e5f6-7a8b-4c9d-0e1f-2a3b4c5d6e7f@172.67.73.164:8080/?type=ws&encryption=none&flow=&host=M5.nF9JZ2st7N.zULAiR.ORG.#@Filter_breaker | United States
 vless://c3d4e5f6-a7b8-3456-9012-cdef01234567@185.115.36.248:8443?type=ws&encryption=none&host=vpn.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=vpn.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
 vless://c3e86d0c-bfe5-4bb5-a051-5e143df2024d@51.89.229.8:443?type=tcp&headerType=none&security=tls&sni=o2.sigmamessenger.com&alpn=h3,h2,http/1.1&allowInsecure=true#Config🇬🇧@Do_itforyou
 vless://c402bb29-b1ef-4ab9-8c82-730af7464011@speedtest.net:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
@@ -503,3 +502,4 @@ vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?encryption=none&s
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#All🇩🇪@Rk_VPS
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#Telegram:@GOLDllVPN 🔥
+vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#✅@parsproxy_ir

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&encryption=none&host=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&headerType=http&type=tcp# https://t.me/ConfigX2ray
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&encryption=none&host=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&headerType=http&type=tcp#@erfanandroid
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&encryption=none&host=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&headerType=http&type=tcp#https://t.me/V2ry_Proxy
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#(@vmesskhodam)چنلمون
@@ -503,3 +502,4 @@ vless://MdVpnSec@www.parsvds.ir:80?path=MDVPNSEC?ed=80&security=none&encryption=
 vless://MsV2ray-MsV2ray@WwW.Speedtest.Net:8880?path=/@MsV2ray-@MsV2ray-@MsV2ray-@MsV2ray-@MsV2ray-@MsV2ray-@MsV2ray-@MsV2ray?ed=2560&security=none&encryption=none&host=MsV2ray-MsV2ray-Fast.xMsVx.com&type=httpupgrade#🇩🇪 | MsV2ray - All
 vless://Parsashonam-102@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#Telegram:@config_proxy 💦
 vless://Parsashonam-102@104.24.185.137:8080?path=/?ed=2560&security=none&encryption=none&host=digikala.com.arvancloud.ir.farsroid.com.soft98.ir.par30dl.com.flstudio.com.xn--0-ko6ab82c106mda34ulw7efa.blog.shabazian.ir.&type=ws#Telegram:@config_proxy 🔥
+vless://Parsashonam-246@185.146.173.39:8880?path=/&serviceName=🃏Telegram:Joker_v2ray_configs🃏&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#@sockss_http 2329
