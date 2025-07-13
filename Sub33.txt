@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://cc545c0b-6015-4a64-82ea-2bb39575a5b0@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://cc6b985d-0362-4129-8763-38564174fb3e@141.193.213.219:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.121.162:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#@Hope_Net-join-us-on-Telegram
 vless://cc6b985d-0362-4129-8763-38564174fb3e@154.197.121.162:443?security=tls&sni=iryiccyne.wwtraveler.com&type=grpc&serviceName=michi&fp=chrome&alpn=http/1.1,h2#Telegram:@config_proxy 🔥
@@ -503,3 +502,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/?edTeleg
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/proNG1?ed=2048&security=&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@proNG1/parham929292
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect /?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&fp=chrome&type=ws#@erfanandroid
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect /?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&fp=chrome&type=ws#@v2ray313 کانالمون 😖
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=/telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect - telegram: @Eternal_Connect /?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&fp=chrome&type=ws#@v2raying

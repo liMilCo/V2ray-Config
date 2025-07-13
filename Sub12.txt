@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://15ade832-3c17-4b46-9c1c-bc0da3d91c23@mtn.ivy-net.ir:8080?path=/&security=none&encryption=none&host=xsabzdcskljnfsdsladed32edw.okatestoka.ir&type=httpupgrade#@sockss_http 2255
 vless://15ade832-3c17-4b46-9c1c-bc0da3d91c23@mtn.ivy-net.ir:8080?path=/&security=none&encryption=none&host=xsabzdcskljnfsdsladed32edw.okatestoka.ir&type=httpupgrade#جوین شو قطع نشی vless_config@
 vless://15ce70b5-3f28-409a-9626-288cc5b869a4@194.87.148.104:39914/?security=none&encryption=none&headerType=none&type=tcp#✅@v2ray_configs_pools
 vless://15ce70b5-3f28-409a-9626-288cc5b869a4@194.87.148.104:39914?security=none&encryption=none&headerType=none&type=tcp#@sockss_http 2363
@@ -503,3 +502,4 @@ vless://23b4844d-9be6-4a9b-e4e2-86c61cce5390@bmi.raheaiande.ir:1001?security=rea
 vless://23c4b3a7-c254-4f59-b019-c0b50e211c20@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#✅ Telegram | @Green_WPN
 vless://23f05af4-33d7-4a24-ae1e-2140464e627a@bahar.blaackgame.ir:2089/?type=tcp&path=/&host=Fast.com&headerType=http&security=none#✅@v2ray_configs_pools
 vless://23f05af4-33d7-4a24-ae1e-2140464e627a@bahar.blaackgame.ir:2089?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
+vless://23f05af4-33d7-4a24-ae1e-2140464e627a@bahar.blaackgame.ir:2089?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@proxygodratmand سرورای بیشتر با سرعت خوب داخل چنل

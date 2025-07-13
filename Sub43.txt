@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a9c9c197-c626-4667-f219-1575f26715ac@172.66.40.99:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%3E%3E%40v2rayngvpn%3A%3AFI
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=%2F&security=&encryption=none&host=onlytesla1.xz027.com&type=ws#%3E%3E%40v2rayngvpn%3A%3AFI
-vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2025?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#%3E%3E%40v2rayngvpn%3A%3ADE
-vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2026?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#%3E%3E%40v2rayngvpn%3A%3ANL
 vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2027?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#%3E%3E%40v2rayngvpn%3A%3AUS
 vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2028?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#%3E%3E%40v2rayngvpn%3A%3ATR
 vless://393a70c9-d773-4e6f-9e3d-11e886fdaef0@acc.eternalping.ir:989?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=acc.eternalping.ir#%3E%3E%40v2rayngvpn%3A%3AFI
@@ -503,3 +499,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.65.82-0244
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.158.56.123-0245
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0262
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.65.82-0240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.158.56.123-0237
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0277
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0251

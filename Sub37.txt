@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.17.147.22:2087?path=/Erkw2ygbmWGKKrhw/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=&security=tls&encryption=none&host=FReedOm.paNotosU.StORe&fp=chrome&type=ws&sni=FReedOm.paNotosU.StORe# https://t.me/confing_chanel
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.17.147.22:2087?path=/Erkw2ygbmWGKKrhw/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=&security=tls&encryption=none&host=FReedOm.paNotosU.StORe&fp=chrome&type=ws&sni=FReedOm.paNotosU.StORe# vipV2rayNGnp
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.17.147.22:2087?path=/Erkw2ygbmWGKKrhw/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=&security=tls&encryption=none&host=FReedOm.paNotosU.StORe&fp=chrome&type=ws&sni=FReedOm.paNotosU.StORe#@V2RAY_VMESS_free
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.17.147.22:2087?path=/Erkw2ygbmWGKKrhw/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=&security=tls&encryption=none&host=FReedOm.paNotosU.StORe&fp=chrome&type=ws&sni=FReedOm.paNotosU.StORe#@V2ray1_Ng
@@ -503,3 +502,4 @@ vless://f53d5a86-e70a-40d2-84f6-d7572c125b30@filmnet.filimnet.com:80?mode=packet
 vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@85.198.8.108:8000?security=none&encryption=none&type=ws#✅@parsproxy_ir
 vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@85.198.8.108:8000?security=none&encryption=none&type=ws#✅@v2ray_configs_pools
 vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@85.198.8.108:8000?security=none&encryption=none&type=ws#🇺🇸 @AZARBAYJAB1♡USA
+vless://f54940c3-4e20-4d84-97f0-7ead2958fec5@bb.iranlit.ir:9520?mode=gun&security=reality&encryption=none&pbk=3EWvgfHUv-7aKL47dJL1WiIHY43aeWo8QUZRjzCw0RI&fp=chrome&type=grpc&serviceName=9520vless&sni=refersion.com&sid=6f84e8adb893b4bd#@EmpireVpn7 🇩🇪

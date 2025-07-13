@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://5edcc3f4-92bc-4aa8-a1c4-4e7982cd8be5@My.bickio.xyz:2072?security=none&encryption=none&headerType=none&type=tcp#✅ @manzariyeh_rasht  👈👈کانال ما
 vless://5efbe592-3027-417d-8807-47fcddb40549@198.244.193.109:13039?encryption=none&security=none&type=grpc&authority=&serviceName=DarkTeam_VPN&mode=gun#@awlix_ir
 vless://5f0474ab-80a3-4387-aa20-a6c20c1cbece@193.233.133.116:26664?security=reality&sni=www.latimes.com&fp=chrome&pbk=swAA7H_TNvCw9davDq_8yae8ttSs06cyxLFOb7hNi1o&sid=f842990894c78f95&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&type=tcp&encryption=none#k0w84bdw
 vless://5f301a49-f65b-448c-81b0-dd132eb212c0@dL.hamKeTaB.CLouD:2053?path=/?ed=2048&security=tls&alpn=h3,h2&encryption=none&host=time.hamketab.cloud&fp=chrome&type=ws&sni=dL.hamKeTaB.CLoud.#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
@@ -503,3 +502,4 @@ vless://6c198339-837d-4f61-940f-fa4f6776dc07@dd2.atelienaderr.ir:443?path=/&secu
 vless://6c37a0d2-3cc8-48ae-98e3-996f4e4f75dc@31.97.47.248:40444?security=reality&encryption=none&pbk=GJiZKVIVsg4fH4Gdic4WeDqdcA4Rcc3XTQj9QzdLR2E&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=c335ccde845adf#@sockss_http 2283
 vless://6c37a0d2-3cc8-48ae-98e3-996f4e4f75dc@31.97.47.248:40444?security=reality&encryption=none&pbk=GJiZKVIVsg4fH4Gdic4WeDqdcA4Rcc3XTQj9QzdLR2E&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=c335ccde845adf#🇩🇪+prx11+🌺🛡️🌟
 vless://6c64eb8d-81bd-4a9b-932c-a470a15e68e2@84.32.190.251:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#SordoVpn (@Outline_Vpn) free
+vless://6c76ee27-5281-4d1f-9e28-9a33e0bb0820@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SVNTEAN🇩🇪TCP-46

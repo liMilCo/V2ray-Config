@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@sockss_http 2186
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@sockss_http 2201
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#Telegram:@GOLDllVPN 🔥
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#Telegram:@config_proxy 💦
@@ -503,3 +502,4 @@ vless://cc4eb09f-b399-43b6-b6c4-5bcc856d38de@151.101.3.8:80?mode=auto&path=/@Shh
 vless://cc4eb09f-b399-43b6-b6c4-5bcc856d38de@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇮🇹 @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht @manzariyeh_rasht
 vless://cc4eb09f-b399-43b6-b6c4-5bcc856d38de@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇮🇹@Shh_Proxy | All¹
 vless://cc545c0b-6015-4a64-82ea-2bb39575a5b0@151.101.3.8:80?path=/&security=none&encryption=none&host=befreewithus.net&type=ws#@numb_frozen
+vless://cc545c0b-6015-4a64-82ea-2bb39575a5b0@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs

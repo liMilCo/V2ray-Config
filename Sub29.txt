@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@185.155.72.152:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
 vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@en2.fastplus.shop:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
 vless://a11008b4-b942-4163-a85a-bb68b7012ad2@core.parspack.com.tr:4653?mode=stream-up&path=/api/stream&security=reality&encryption=none&extra={  "scMinPostsIntervalMs" : 1,  "noGRPCHeader" : true,  "xPaddingBytes" : "200-2000",  "scMaxEachPostBytes" : 16777216,  "scMaxConcurrentPosts" : 1024}&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=tgju.org&sid=6ba85179e30d4fc2#@Moft_Vpn کانال
 vless://a11008b4-b942-4163-a85a-bb68b7012ad2@core.parspack.com.tr:4653?mode=stream-up&path=/api/stream&security=reality&encryption=none&extra={"scMaxEachPostBytes": 16777216, "scMaxConcurrentPosts": 1024, "scMinPostsIntervalMs": 1, "xPaddingBytes": "200-2000", "noGRPCHeader": true}&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=tgju.org&sid=6ba85179e30d4fc2#🇩🇪🚀 𝗝𝗼𝗶𝗻 ➠ @XPlus_vpn 🚀🇩🇪
@@ -503,3 +502,4 @@ vless://ae7d51f2-fd15-45d2-a77c-590f23788a52@45.76.140.111:443?mode=auto&path=/4
 vless://ae7d51f2-fd15-45d2-a77c-590f23788a52@45.76.140.111:443?mode=auto&path=/443/moment@2.29.4&security=reality&encryption=none&pbk=rPomFaHQdUvIZ1CKylejYHXJ_ygI2rtPIZaVuaRXaVY&host=cdn.skypack.dev&fp=chrome&spx=/chart.js@4.3.2&type=xhttp&sni=cdn.skypack.dev&sid=8a2c6af0c06f#@vpnaloo
 vless://ae7d51f2-fd15-45d2-a77c-590f23788a52@45.76.140.111:443?mode=auto&path=/443/moment@2.29.4&security=reality&encryption=none&pbk=rPomFaHQdUvIZ1CKylejYHXJ_ygI2rtPIZaVuaRXaVY&host=cdn.skypack.dev&fp=chrome&spx=/chart.js@4.3.2&type=xhttp&sni=cdn.skypack.dev&sid=8a2c6af0c06f#irancell @ai_duet
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@185.155.72.101:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@v2ray313 کانالمون 🤗
+vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b60ca649-7b11-43b1-b9e7-99eba427b266@151.101.3.8:80?path=/download?ed=2560&security=&encryption=none&host=melovy.ir&type=ws#🇩🇪All² | @BigSmoke_Config
 vless://b611cdc4-9107-4e5d-aa1d-e494af7fac2e@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey  🇺🇸🇺🇸
 vless://b611cdc4-9207-4e5d-aa1d-e494af7fac2e@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey  🇺🇸🇺🇸
 vless://b6230663-83ad-4b89-9a65-a55369436498@all.golnar-clod.ir:8080?path=/?ed=80&security=none&encryption=none&host=salar.golnar-clod.ir&type=httpupgrade#آلمان 🇩🇪 @V2xay
@@ -503,3 +502,4 @@ vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/TELEGRAM-
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/TELEGRAM-@PRUOXYI&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@Pruoxyi : telgram چنل
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/TELEGRAM-@PRUOXYI&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@sockss_http 2180
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@meli_proxyy
+vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@sockss_http 2186

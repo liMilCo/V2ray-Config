@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://6c76ee27-5281-4d1f-9e28-9a33e0bb0820@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SVNTEAN🇩🇪TCP-46
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&path=/Tel-@V2rayN5/?ed=2560&security=tls&encryption=none&host=bycf.lzjnb.shop&type=ws&sni=bycf.lzjnb.shop#t.me/NasaV2|🏁
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?path=/Tel-@V2rayN5/?ed=2560&security=tls&encryption=none&host=bycf.lzjnb.shop&type=ws&sni=bycf.lzjnb.shop#@V2rayN5  4
 vless://6c7a6a6a-6a6a-4000-8000-000000000002@104.20.2.221:8443?path=/Tel-@V2rayN5/?ed=2560&security=tls&encryption=none&host=bycf.lzjnb.shop&type=ws&sni=bycf.lzjnb.shop#Telegram:@GOLDllVPN 🔥
@@ -503,3 +502,4 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&secu
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@ConfigSuper|
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@Moft_Vpn کانال
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@iProxy_Channel Wifi 23
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=/assets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@mehrosaboran

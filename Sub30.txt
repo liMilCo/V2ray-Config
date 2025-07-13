@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free ایرانسل رایتل
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&fp=chrome&type=tcp#@V2RAY_VMESS_free همراه اول مخابرات
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -503,3 +502,4 @@ vless://b5ae01f4-abcb-4c22-9377-1573ea1a9929@151.101.0.155:80?mode=auto&path=ZED
 vless://b5c1b004-cd05-1ef2-f6ff-edda2e47d538@206.71.158.40:80?security=none&type=ws&path=/Javid-SHAH-KingRezaPahlavi/#@Filter_breaker_206.71.158.40
 vless://b5cdabf0-e048-4fa2-90da-9379b1a4926e@172.67.27.46:80?type=ws#@Filter_breaker | United States
 vless://b5e0289d-1bb7-4c5b-f850-016298066cf8@media.samagazine.ir:8080?security=none&encryption=none&headerType=http&type=tcp#Join to @IRAN_V2RAY1
+vless://b60ca649-7b11-43b1-b9e7-99eba427b266@151.101.3.8:80?path=/download?ed=2560&security=&encryption=none&host=melovy.ir&type=ws#🇩🇪All² | @BigSmoke_Config
