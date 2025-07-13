@@ -3,26 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.18.26.90:443?path=/Join---@MTMVPN---Join---@MTMVPN?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Join---@CGv2rayNG
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.18.26.90:443?path=/Join---@MTMVPN---Join---@MTMVPN?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#https://t.me/V2ry_Proxy
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.18.26.90:443?path=/Join---hibyevpn---Join---hibyevpn?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#All🇩🇪@Rk_VPS
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.18.26.90:443?path=/Join---hibyevpn---Join---hibyevpn?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#⇝@Hddify | چنل هدیفای 💯
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&fp=chrome&type=ws#@V2ray1_Ng
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&fp=chrome&type=ws#@tokavpn
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#.
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#@CaV2ray ⚡️
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#@Free1_Vpn
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#@Selinc
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#@V2RAYNG_1378
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#@bad_raqs
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#@v2ray_cartel
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 100 (@Outline_Vpn) free
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 102 (@Outline_Vpn) free
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 104 (@Outline_Vpn) free
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 161 (@Outline_Vpn) free
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 55 (@Outline_Vpn) free
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#Join To @IRAN_V2RAY1
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#Join To @Iran_v2ray1
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#Join@v2ray_cartel
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#فیلترشکن رایگان👈vpnowl@
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#🇩🇪@AZARBAYJAB1
@@ -174,6 +154,7 @@ vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.0.121:443?encryption=none&sec
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.0.121:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#@meli_proxyy
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.136.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&type=tcp#@meli_proxyy
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.136.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&type=tcp#@vpnv2rayNGv
+vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.136.208:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Haarlem🅿️ping:28.09ms
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@64.176.43.203:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#@meli_proxyy
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@64.176.44.238:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#@HIBYEVPNN
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@64.176.44.238:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#@meli_proxyy
@@ -259,10 +240,8 @@ vless://e97a0128-4785-4323-a2a5-dd01ce49d359@104.21.79.134:443?path=/Telegram@V2
 vless://e9a18104-be21-4612-b2d4-3f02d55170ae@Ws.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://e9a18104-be21-4612-b2d4-3f02d55170ae@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Babakari.ir&type=ws#@NETMelliAnti
 vless://e9a18104-be21-4612-b2d4-3f02d55170ae@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Babakari.ir&type=ws#⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @vpnz4 • 🇩🇪
-vless://e9a18104-be21-4612-b2d4-3f02d55170ae@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Boy9ja.abdo.fr&type=ws#@sockss_http 2007
 vless://e9a18104-be21-4612-b2d4-3f02d55170ae@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Boy9ja.abdo.fr&type=ws#کانالمون در تلگرام 👈NETMelliAnti
 vless://e9a18104-be21-4612-b2d4-3f02d55170ae@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#@NETMelliAnti : چنل کانفیگ
-vless://e9a18104-be21-4612-b2d4-3f02d55170ae@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zenedmm.ir&type=ws#@sockss_http 2012
 vless://e9a18104-be21-4612-b2d4-3f02d55170ae@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Zenedmm.ir&type=ws#✅@v2ray_configs_pools
 vless://e9afe53b-5a16-460b-a8a3-0dd79d3946a5@Hi.somo44.sbs:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#@v2Source🇨🇦
 vless://e9afe53b-5a16-460b-a8a3-0dd79d3946a5@Hi.somo44.sbs:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔
@@ -354,9 +333,9 @@ vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJb
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@V2rayTun0🧟
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@V2rayePro عضو کانال تلگرام نباشی سرور قطع میشه
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@sockss_http 2404
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@sunflowerplato🌻
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#Telegram:@GOLDllVPN 🔥
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#Telegram:@config_proxy 💦
-vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#✅@v2ray_configs_pools
 vless://eb9096dd-2475-4440-aa3b-dd5e0aac9ede@ipv4-1.beraghsa.sbs:43316?type=tcp&headerType=none#@zero_vpn_shop🇳🇱
@@ -503,3 +482,24 @@ vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-Ki
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@sockss_http 2189
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@sockss_http 2204
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#T.ME/Eternal_Connect | 🌍
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#Telegram+:+@Mrsoulb+🏳🏴
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#q_022@numb_frozen
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#✅@v2ray_configs_pools
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#🌟 @server_free2 🌟
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.30:443?type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&fp=chrome&sni=simorgh.hpcode.ir#🇨🇾𝐣𝐨𝐢𝐍-@VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=chrome&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560#@Golestan_VPN - JOIN
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=chrome&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560#🟢 جوین بده کانکت بمونی: @nethers_vpn
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=chrome&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560/?JOKERRVPNTELEGRAM#🚀کانال تلگرام : @InjastVpn
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=chrome&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=@vpnserverrr_vpnserverrr_vpnserverrr#@sockss_http 2342
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=chrome&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=@vpnserverrr_vpnserverrr_vpnserverrr#Telegram: @FarahVPN
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#𝗝𝗼𝗶𝗻 ➠ @Alfa_v2ray_ng | کانال ما 🛸
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@MOFT_VPN کانال
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@meli_proxyy
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@vpnv2rayNGv
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#Bya To @Iran_V2ray1
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#👉🆔@v2ray_configs_pool📡🇨🇾®️Cyprus©️Nicosia🅿️ping:8.36ms
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@CaV2ray ⚡️
