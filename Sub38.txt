@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ebab8eed-707e-4f0b-91ed-e83259d7167d@mtn.venzo.com.tr:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=&encryption=none&host=www.spEedtest.net.jariCopEn.fuN.&type=httpupgrade#🇩🇪 | BinexTify - Free-5m16fw28n
 vless://ebb8e17c-a471-43b1-b964-bdd492ab330e@gr2.ircloudmarket.com:443?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net#@bluVPNir🇩🇪²
 vless://ebb8e17c-a471-43b1-b964-bdd492ab330e@hi.ircloudmarket.com:443?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@bluVPNir🇩🇪¹
 vless://ebc5660f-bb9b-415c-94ab-d3630189ceb9@91.134.66.127:22671?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@V2rayNG3
@@ -502,4 +503,3 @@ vless://f4b02459-fde7-442a-a285-75ed3c318f76@85.133.200.207:2053?security=none&e
 vless://f4ff3635-b7f6-4827-8c52-ecec712aaa24@151.101.3.8:80?path=/&security=none&encryption=none&host=befreewithus.net&type=ws#@numb_frozen
 vless://f4ff3635-b7f6-4827-8c52-ecec712aaa24@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://f514f6c5-33cf-47bf-823d-576eeedfbde7@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@vi
-vless://f514f6c5-33cf-47bf-823d-576eeedfbde7@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪

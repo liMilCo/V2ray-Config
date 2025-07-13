@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ab9f05f2-e2f7-4cea-bf0d-e90f36ff92ac@5.255.120.217:80?type=xhttp&path=/pwp&host=bleep.global.ssl.fastly.net&mode=auto&security=reality&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&fp=chrome&sni=journalofbigdata.springeropen.com&sid=8c&spx=/#@v2raybluecrystal نت ملی 🇳🇱برای اتصال دائمی جوین شو
 vless://abc13300-efa7-48d5-a3a3-0609999a2056@www.speedtest.net:2052?security=none&encryption=none&host=mostaghim-chap.ok-exor.ir&type=httpupgrade#@v2ray313 کانالمون 🥲
 vless://abc1e3f5-7f8a-9b0c-1d2e-3f4a5b6c7d8e@185.199.229.123:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 vless://abccaba-caba-baca-dbac-abcaaaccbbcb@127.0.0.1:1080?security=tls&type=tcp#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&
 vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#Bya To : @Iran_V2ray1
 vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#Bya To @Iran_V2ray1
 vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#https://t.me/V2ry_Proxy
-vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#☁️ @server_free2 ☁️

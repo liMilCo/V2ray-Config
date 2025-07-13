@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?path=/&security=tls&encryption=none&host=111-aw3.pages.dev&type=ws&sni=111-aw3.pages.dev#𝗝𝗼𝗶𝗻 ➠🪂 𝐓𝐞𝐥: @V2rayTun0 🧟
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=111-aw3.pages.dev&type=ws&sni=111-aw3.pages.dev#@HiByeVPNN🧑‍💻
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=111-aw3.pages.dev&type=ws&sni=111-aw3.pages.dev#@kinds_of_vibes 🎵
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.144.212:443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=111-aw3.pages.dev&type=ws&sni=111-aw3.pages.dev#@meli_proxyy
@@ -502,4 +503,3 @@ vless://d14d29dd-826f-4c0d-ad22-5091360f4861@Zula.ir:443?mode=auto&path=/ed?/hjj
 vless://d14d29dd-826f-4c0d-ad22-5091360f4863@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
 vless://d14d29dd-826f-4c0d-ad22-5091360f4863@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
-vless://d14d29dd-826f-4c0d-ad22-5091360f4869@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
