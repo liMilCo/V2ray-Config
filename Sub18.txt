@@ -3,16 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.18.71.245:443?encryption=none&security=tls&sni=rayan-10.parastoo.dpdns.org&fp=chrome&type=ws&host=rayan-10.parastoo.dpdns.org&path=/Tel-@V2ray_Alpha/?ed=2560#@sockss_http 2350
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.18.71.245:443?path=/Tel&security=tls&encryption=none&host=rayan-10.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-10.parastoo.dpdns.org#Telegram:@GOLDllVPN 🔥
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.18.71.245:443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-10.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-10.parastoo.dpdns.org#@meli_proxyy
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.18.71.245:443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-10.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-10.parastoo.dpdns.org#@vpnv2rayNGv
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.18.71.245:443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-10.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-10.parastoo.dpdns.org#🔗 Telegram : @Viturey 🔐
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.1.74:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-09.parastoo.dpdns.org&type=ws&sni=rayan-09.parastoo.dpdns.org#@AZARBAYJAB1
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.81.220:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-08.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-08.parastoo.dpdns.org#@V2RAY_VMESS_free
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.27.71.201:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-11.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-11.parastoo.dpdns.org#@sockss_http 2167
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@162.159.19.5:443?encryption=none&security=tls&sni=rayan-12.parastoo.dpdns.org&fp=chrome&type=ws&host=rayan-12.parastoo.dpdns.org&path=/@Rayan_Config#🚀کانال تلگرام : @InjastVpn
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@162.159.19.5:443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-12.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-12.parastoo.dpdns.org#@meli_proxyy
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@162.159.19.5:443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-12.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-12.parastoo.dpdns.org#@vpnv2rayNGv
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.67.145.189:443?path=/TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI?ed=2560&security=tls&encryption=none&host=rayan-08.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-08.parastoo.dpdns.org#@MARAMBASHI 🌟🌀
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.67.145.189:443?path=/TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI---TELEGRAM---MARAMBASHI?ed=2560&security=tls&encryption=none&host=rayan-08.parastoo.dpdns.org&fp=chrome&type=ws&sni=rayan-08.parastoo.dpdns.org#@NIM_VPN_ir
@@ -503,3 +493,13 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam/@proNG1/@p
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam/@proNG1/@parham92929292/@proNG1/@parham92929292/@proNG1/@parham92929292@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Filter_breaker | Netherlands
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#@sockss_http 2033
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#Telegram:@GOLDllVPN 🔥
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#Telegram:@proxy_daemi 🔥
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=&encryption=none&host=redfree8.pooriashop.ir&type=ws#t.me/iProxy_Channel 8
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@ConfigSuper
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@meli_proxyy
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@v2ray313 کانالمون 🤐
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@vpnv2rayNGv
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#خرید @Orange_support
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam🇨🇳@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram:@Selinc/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Selinc
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram:@V2RAYNG_1378/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@V2RAYNG_1378
