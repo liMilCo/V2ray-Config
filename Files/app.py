@@ -103,7 +103,6 @@ def main():
     dir_links = [
         "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix",
         "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt",
-        "https://raw.githubusercontent.com/tkamirparsa/Javid-shah/refs/heads/main/Sub.text",
         "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
         "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
         "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
