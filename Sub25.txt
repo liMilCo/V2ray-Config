@@ -3,19 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@TeLPJ+تمام+نت+ها+🟦🟨
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=none&encryption=none&host=my.ski1plag.ir&type=ws#LexerNet
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=none&encryption=none&host=my.ski1plag.ir&type=ws#ae_proxy
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=none&encryption=none&host=my.ski1plag.ir&type=ws#🇩🇪All² | @BigSmoke_Config
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download/?JOKERRVPNBIA_CHANEL@JOKERRVPN&security=none&encryption=none&host=my.ski1plag.ir&type=ws#ᴬᴸᴸ⁷🇩🇪➣@JOKERRVPN
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?security=none&encryption=none&host=my.ski1plag.ir&type=ws#🚀کانال تلگرام : injastvpn@
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?type=ws&host=my.ski1plag.ir&path=/download#✈️ @unlimiteddev-2
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:80?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@bored_vpn
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:80?path=/upload/?JOKERRVPNBIA_CHANEL@JOKERRVPN&security=none&encryption=none&host=my.ski1plag.ir&type=ws#ᴬᴸᴸ⁶🇩🇪➣@JOKERRVPN
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#https://t.me/V2ry_Proxy
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@Config_Rayegan&security=tls&encryption=none&alpn=h2,http/1.1&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#https://t.me/V2ry_Proxy
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@Selinc&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@Selinc
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2Rez&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@v2rez
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2Rez@V2Rez@V2Rez@V2Rez@V2Rez@V2Rez@V2Rez@V2Rez&security=tls&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#Telegram@V2Rez
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@CaV2ray ⚡️
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@KAFING_2
@@ -503,3 +490,16 @@ vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#Telegram:@plusmeli
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#Telegram:@proxy_daemi 🔥
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#v2ray_configs_pools
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#اسکی
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#کانالمون در تلگرام 👈🛜@V2ray_Kuhneh
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#کانالمون در تلگرام 👈🥂@Vodka_confing
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#☁️ @server_free2 ☁️
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#✅ @vistav2ray  👈👈کانال ما
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#✅@parsproxy_ir
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#✅@v2r_ayorg
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#✅@v2ray_configs_pools
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#✅سرورهایبیشتردرکانال:prrofile_purple@✅
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#⤿
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @vpnz4 • 🇨🇿
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @alfa_v2ray_ng | کانال ما 🛸
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
