@@ -11,8 +11,8 @@ TIMEOUT = 20  # seconds
 fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 """
 
 # Base64 decoding function
@@ -164,13 +164,13 @@ def main():
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
 
     for i in range(num_files):
-        profile_title = f"🆓 Git:barry-far | Sub{i+1} 🔥"
+        profile_title = f"🆓 Git:liMilCo | Sub{i+1} 🔥"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 """
 
         input_filename = os.path.join(output_folder, f"Sub{i + 1}.txt")
