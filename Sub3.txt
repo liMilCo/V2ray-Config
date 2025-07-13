@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none=&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%40mehrosaboran
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#%F0%9F%9F%A3%F0%9F%94%A5%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF%20%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%40ParsiV2ray%20%D9%BE%D8%B1%20%D8%B3%D8%B1%D8%B9%D8%AA
-vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#@meli_proxyy
 vless://591a0afd-924a-4a71-8063-10aac246bb65@www.speedtest.net:8443?encryption=none&security=tls&sni=uSer2-P2L.PAGes.Dev&alpn=http%2F1.1&fp=chrome&type=ws&host=user2-p2l.pages.dev&path=%2F4Nc6Idp9GW3U1xOc%3Fed%3D2560#@meli_proxyy
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#@meli_proxyy
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#@meli_proxyy
@@ -84,8 +81,18 @@ vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZk
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTIsMTN86Z+p5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYyOC5oZWR1aWFuLmxpbmsiLCAicG9ydCI6ICIzMDgyOCIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIiwgImhvc3QiOiAib2NiYy5jb20iLCAicGF0aCI6ICIvb29vbyJ9
 vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY28J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMnzwn4e68J+HuDExIHwgIDQuN01CL3MiLCAiYWRkIjogIjE2OS4xNTAuMjA4LjgzIiwgInBvcnQiOiAxODAwMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSJ9
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4p2MIEVycm9yOiBmaSBub3QgZm91bmQiLCJzY3kiOiJhdXRvIiwic25pIjoiZXJyb3IuZXJyb3IiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ0Lm1lL0BHaGV5Y2hpQW1vb3plc2jinIUiLCJhaWQiOiIwIiwiaG9zdCI6ImVycm9yLmVycm9yIiwiaWQiOiIxYzkwYWMzMi02NTg0LTQ5YzMtYjk2MC01NjJlY2YwMGRhYWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZXJyb3IiLCJwb3J0IjoiMCIsInBzIjoi4pyFIC06IEBHaGV5Y2hpQW1vb3plc2gg2qnYp9mG2KfZhCDYqtmE2q/YsdmFIiwic2N5IjoiYXV0byIsInNuaSI6ImVycm9yLmVycm9yIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#00✅-تلگرام ما را دنبال کنید
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#00✅-@GheychiAmoozesh
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#00✅-زن-زندگی-آزادی
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#01 ✂️-🇬🇧GB-7 of 14 total=2042(@GheychiAmoozesh)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#02 ✂️-🇺🇸US-7 of 14 total=2042(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1jZmI6MjE3MGY4@45.55.2.232:14293#03 ✂️-🇺🇸US-7 of 14 total=2042(@GheychiAmoozesh)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#04 ✂️-🇱🇹LT-7 of 14 total=2042(@GheychiAmoozesh)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#05 ✂️-🇫🇷FR-7 of 14 total=2042(@GheychiAmoozesh)
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#06 ✂️-🇫🇷FR-7 of 14 total=2042(@GheychiAmoozesh)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#07 ✂️-🇫🇷FR-7 of 14 total=2042(@GheychiAmoozesh)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#08 ✂️-🇫🇷FR-7 of 14 total=2042(@GheychiAmoozesh)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#09 ✂️-🇱🇹LT-7 of 14 total=2042(@GheychiAmoozesh)
 hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.121.211:30300/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66 🇨🇦
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy17.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.apple.com.cn#🇯🇵日本
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy2.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.tesla.cn#🇭🇰香港
@@ -496,10 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#@NetAcco
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#@Pruoxyi : telgram چنل
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#@sunflowerplato🌻
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#✅@v2ray_configs_pools
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllMzhkMWQ2ZGIxNGI0@157.173.109.231:11107#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc=@144.126.146.38:30789#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc=@144.126.146.38:30789#IRAN 69 (@Outline_Vpn) free
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ODVlOWExZmNmODFiY2Rh@195.7.6.214:47598#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d1lzbHAwUktzcGowS3B1a0Vsand3@h110vpnus.outlinekeys.net:9483#آمریکا 🇺🇸 @V2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Join---@CGv2rayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Telegram+:+@Mrsoulb+🏳🏴
