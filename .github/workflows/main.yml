@@ -39,7 +39,7 @@ jobs:
       with:
         author_name: "GitHub Actions"
         author_email: "actions@github.com"
-        message: "Updated 11 minutes Ago🤝"
+        message: "Auto Update @ 👉"
         add: "."
         pull: "NO-PULL"
         push: true
