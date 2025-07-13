@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMzYg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6bGlNaWxDbyB8IFN1YjM2IPCflKU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 104 (@Outline_Vpn) free
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 161 (@Outline_Vpn) free
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#IRAN 55 (@Outline_Vpn) free

@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNDMg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6bGlNaWxDbyB8IFN1YjQzIPCflKU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 
 vless://961248bd-f5a9-4373-a2ff-6a3b9f81a7df@nl-1-rvp.medicaldream.ir:443?security=tls&sni=nl-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=nl-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20NL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 

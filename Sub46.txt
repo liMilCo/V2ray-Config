@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNDYg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6bGlNaWxDbyB8IFN1YjQ2IPCflKU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@184.174.80.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0300
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.148.104.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0301
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@192.0.63.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0302

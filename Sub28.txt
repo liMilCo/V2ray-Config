@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMjgg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6bGlNaWxDbyB8IFN1YjI4IPCflKU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=/?edTelegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#Telegram@ConfingV2RaayNG
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=/proNG1?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@proNG1/parham929292
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.24.195:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&type=ws&host=kawaiifreevpn-7ds.pages.dev#🇨🇦CA+->+🇸🇪SE+⚡@DeamNet_Proxy

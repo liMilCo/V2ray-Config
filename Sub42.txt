@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNDIg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6bGlNaWxDbyB8IFN1YjQyIPCflKU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 🇨🇵
 vmess://eyJhZGQiOiIxOTMuMjMzLjEzMy41OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXB0dnMuY29tIiwiaWQiOiIwZGMwZDIyYy02OGU1LTQ0MGEtOTQ2NS05N2NhZDhkMWNmMzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMyIsInBzIjoi8J+Hs/Cfh7FAdnBuX2lvc3Mg4pm777iPINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==

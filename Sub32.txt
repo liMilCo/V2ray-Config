@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMzIg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6bGlNaWxDbyB8IFN1YjMyIPCflKU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 vless://c1fee588-e43f-4bbd-90d0-c5b5f3b817f1@7.shecanmarket.com:8443?security=none&encryption=none&host=head.shecanmarket.com&headerType=http&type=tcp#@V2xay VIP ALL🇳🇱
 vless://c2122a8d-914b-414b-e6b5-c1575c2b09e0@zula.ir:80?security=none&encryption=none&type=ws&host=44-rEFaQaT.yArAyaragAHi12.info&path=/df38fGe9tgDG0dkg84LsdfOdjg8.#Awlix_ir
 vless://c226ac5d-65e9-4379-95c3-fb542bc242d8@172.67.130.204:443?type=ws&host=hhhhhhhhhhh.777198.xyz&path=/OjdW89Bpg4ykd4O&security=tls&fp=chrome&sni=HHhhhHhhhhH.777198.xYz&alpn=http/1.1#@configMs

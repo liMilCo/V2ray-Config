@@ -1,8 +1,8 @@
-#profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMjIg8J+UpQ==
+#profile-title: base64:8J+GkyBHaXQ6bGlNaWxDbyB8IFN1YjIyIPCflKU=
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?type=ws&path=/containers/de&security=tls&sni=ah15.ai351.com&allowInsecure=true#Config🇫🇮@Do_itforyou
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@pishgam.sdcards.ir:2053?path=/containers/de&security=tls&encryption=none&host=ah15.ai351.com&fp=chrome&type=ws&sni=ah15.ai351.com#q_088@numb_frozen
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=/v2ray_configs_pools/&security=tls&encryption=none&type=ws&sni=pq.chile1.09vpn.com#@v2Source🇨🇱
