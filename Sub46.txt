@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:32765?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@bowen.ns.cloudflare.com:443?sni=si.ylka.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD16
 trojan://tg-fq521free@194.76.18.129:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A512
 
 hysteria2://dongtaiwang.com@hy2-1.694463.xyz:4489?insecure=1&fp=&sni=www.bing.com&obfs=&obfs-password=#%F0%9F%87%AB%F0%9F%87%B71%20%7C%20%203.4MB/s%7C15%25%7COpenai
@@ -503,3 +501,5 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@63.141.128.186:8880?allowInsecure=0
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@135.84.75.3:8880?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/TelegramU0001F1E8U0001F1F3#US_speednode_0246
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?allowInsecure=0&sni=ghh.wsthh.site&type=ws&host=ghh.wsthh.site&path=/?ed=2560fp=chrome&security=tls#US_speednode_0247
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@66.235.200.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0248
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@23.94.240.147:443?allowInsecure=1&sni=edmx.ambercc.filegear-sg.me&type=ws&host=edmx.ambercc.filegear-sg.me&path=/?ed=2560fp=chrome&security=tls#US_speednode_0249
+vless://8b5cf811-af1f-475a-9e61-28b93c38d309@188.114.98.131:443?allowInsecure=0&sni=vpn.6662221.xyz&type=ws&host=vpn.6662221.xyz&path=/?ed=2560fp=random&security=tls#US_speednode_0250

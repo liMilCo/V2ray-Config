@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@23.94.240.147:443?allowInsecure=1&sni=edmx.ambercc.filegear-sg.me&type=ws&host=edmx.ambercc.filegear-sg.me&path=/?ed=2560fp=chrome&security=tls#US_speednode_0249
-vless://8b5cf811-af1f-475a-9e61-28b93c38d309@188.114.98.131:443?allowInsecure=0&sni=vpn.6662221.xyz&type=ws&host=vpn.6662221.xyz&path=/?ed=2560fp=random&security=tls#US_speednode_0250
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.167.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#US_speednode_0251
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@www.glassdoor.com:443?allowInsecure=1&sni=lp.ylks0033.dpdns.org&type=ws&host=lp.ylks0033.dpdns.org&path=/?ed=2560security=tls#US_speednode_0252
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@66.81.247.88:2083?allowInsecure=1&sni=edmz.ambercc.filegear-sg.me&type=ws&host=edmz.ambercc.filegear-sg.me&path=/?ed=2560fp=chrome&security=tls#US_speednode_0253
