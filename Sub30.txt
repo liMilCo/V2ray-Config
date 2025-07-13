@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://aa2e8771-c340-4f4e-cd4a-f862d4925c3c@Www.speedtest.net:80?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#=/@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&security=none&encryption=none&host=www.speedtest.net.XpnviP.ir.&type=ws#@bored_vpn
 vless://aa2ebacc-cec7-45d3-8787-5a12ea7dc1d4@sv9.takdataco.top:56345?security=none&encryption=none&host=P30afzar.com&headerType=http&type=tcp#@vpnv2rayNGv
 vless://aa4d632b-c750-4b92-9604-c8e32ff2ddcc@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?path=/path&security=none&encryption=none&host=google.com&type=ws#@CaV2ray ⚡️
@@ -503,3 +502,4 @@ vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&secu
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&security=none&encryption=none&host=onlytesla4.sarasimano.com&type=ws#@V2RAYROZ
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&security=none&encryption=none&host=onlytesla4.sarasimano.com&type=ws#@V2ray_Alpha-34
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&security=none&encryption=none&host=onlytesla4.sarasimano.com&type=ws#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@cloud.sarasimano.com:80?path=/&security=none&encryption=none&host=onlytesla4.sarasimano.com&type=ws#@meli_proxyy

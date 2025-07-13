@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://28ee9a-a7e2-4b3b-ac93-5052dd7b53ac@91.107.180.100:45489?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#SOB!X SHOP 🚀-@SobyV2ray
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none&host=joinshhproxybede.com&type=xhttp#t.me/NasaV2|🇺🇸
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#t.me/NasaV2|🇺🇸
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&path=...&security=&encryption=none&host=joinshhproxybede.com&type=xhttp#Telegram:@GOLDllVPN 🔥
@@ -503,3 +502,4 @@ vless://3130e111-a06c-4388-aeda-4b43f6e8e51f@104.26.13.31:443?path=/Tel-@V2ray_A
 vless://3130e111-a06c-4388-aeda-4b43f6e8e51f@104.26.13.31:443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=finland-a3r.pages.dev&type=ws&sni=FinLAnd-A3r.pAgES.dEv#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥: @V2rayTun0 مخصوص نت ملی🇮🇷
 vless://3130e111-a06c-4388-aeda-4b43f6e8e51f@104.26.13.31:443?path=/Tel-@v2ray_configs_pools/?ed=2560&security=tls&encryption=none&host=finland-a3r.pages.dev&type=ws&sni=FinLAnd-A3r.pAgES.dEv#✅@v2ray_configs_pools
 vless://3130e111-a06c-4388-aeda-4b43f6e8e51f@104.26.13.31:443?path=/Tel-@v2ray_configs_pools/?ed=2560&security=tls&encryption=none&host=finland-a3r.pages.dev&type=ws&sni=FinLAnd-A3r.pAgES.dEv#𝗝𝗼𝗶𝗻 ➠ @vpns_land | کانال ما 🛸
+vless://31346165-6265-4438-a535-633530636532@81.12.92.152:3128/?security=none&allowInsecure=1&type=ws&path=/fr/l/w/aG6m0Q4gFnsv9vsF?ed=2047&host=mail.nic.ir#فرانسه 🇫🇷

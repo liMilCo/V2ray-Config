@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://e24d4ed7-66b2-402f-fd3e-96c8cfe79943@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://e2510eb2-41fe-4593-bc5b-4c9015b6c873@speedtest.net:80?mode=auto&path=@BeFreeWithUs&security=none&encryption=none&host=befreewithus4your-name.global.ssl.fastly.net&type=xhttp#@numb_frozen
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.205:443?path=/XRAYVPNHTTPUPGRADE&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=de1.blackismyfavorite.ir&fp=chrome&type=httpupgrade&sni=de1.blackismyfavorite.ir#Telegram: @ai_duet✅
 vless://e28cf77c-be33-4f99-be90-54b90994b4a8@65.109.203.70:443/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=chrome&security=reality&pbk=NVOzqrT9fAAQzV1t5AQQMgQ-Q4y_Szgyxe14qG3rMS0&sid=16c0b704e4#Telegram:@config_proxy 🔥
@@ -503,3 +502,4 @@ vless://e9f0g1h2-9012-3abc-4def-567890abcdef@45.76.123.380:8443?security=tls&typ
 vless://e9f1a3c5-8f9a-1b2c-3d4e-6f5a7b8c9d0e@91.107.238.107:443?security=tls&sni=v2ray-config.sohala.uk&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands
 vless://eAA14Oaf-47Da-4201-A1E2-004833106835@www.speedtest.net:443/?type=ws&host=r2.saman.dpdns.org&path=/?ed=2540&security=tls&fp=chrome&sni=r2.saman.dpdns.org&alpn=h3,h2,http/1.1#@Filter_breaker | Netherlands
 vless://ea1ace01-6b6e-4401-bc84-e6fab15283fa@covh.blanku.me:443?path=/8SgHUCa9rohiCVOzju871XiFr9&security=tls&alpn=http/1.1&encryption=none&host=covh.blanku.me&fp=chrome&type=httpupgrade&sni=covh.blanku.me#فیلترشکن رایگان👈vpnowl@
+vless://ea286109-d02f-415e-849e-4af20ab04b65@135.148.152.110:443?security=tls&sni=147135001197.sec22org.com&type=tcp&fp=chrome #[@Filter_breaker] vless-US

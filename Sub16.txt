@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK5H01?ed&security=tls&encryption=none&host=S4.MaiN-2.WORkErS.Dev&fp=chrome&type=ws&sni=S4.MaiN-2.WORkErS.Dev#@numb_frozen_09
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK5H01?ed&security=tls&encryption=none&host=s4.main-2.workers.dev&fp=chrome&type=ws&sni=s4.main-2.workers.dev#@V2RAY_VMESS_free Mtn
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK5H01?ed/?Bya_telegram_@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=s4.main-2.workers.dev&fp=chrome&type=ws&sni=S4.MaiN-2.WORkErS.Dev#@CaV2ray ⚡️
 vless://382c44c1-0293-48e4-a85e-091d126480f1@151.101.3.8:80?mode=auto&path=/smxshayan?ed=2560&security=&encryption=none&host=barsa.ir&type=xhttp#[⚡️] ➠@V2ray_official
@@ -503,3 +502,4 @@ vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2028?mode=gun&securi
 vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2028?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#Pruoxyi : telgram 3
 vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2028?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#Telegram:@GOLDllVPN 🔥
 vless://417e0f23-34b1-45c6-803d-4b596c502672@parrot-love.ir:2028?mode=gun&security=reality&encryption=none&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&fp=chrome&type=grpc&serviceName=sadf2341sad&sni=journalofbigdata.springeropen.com#خرید @Orange_support
+vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.233.176:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#@v2ray313 کانالمون 😙

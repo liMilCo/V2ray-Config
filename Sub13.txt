@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://1fb52030-a522-4665-8a35-09b6710b062d@51.89.175.150:2053?security=reality&sni=sourceforge.net&type=grpc&serviceName=2053vless&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#@Hope_Net-join-us-on-Telegram
 vless://1ff9dc4a-4853-4790-a81c-13e195c957e8@ov-germany6.09vpn.com:8443?path=/v2ray_configs_pools/&security=tls&encryption=none&type=ws#✅@parsproxy_ir
 vless://1ff9dc4a-4853-4790-a81c-13e195c957e8@ov-germany6.09vpn.com:8443?path=/v2ray_configs_pools/&security=tls&encryption=none&type=ws#✅@v2ray_configs_pools
 vless://1ff9dc4a-4853-4790-a81c-13e195c957e8@ov-germany6.09vpn.com:8443?path=/vless/&security=tls&encryption=none&type=ws#@meli_proxyy
@@ -503,3 +502,4 @@ vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?type=ws&host=xcvf
 vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.83.113:443?type=ws&host=xscdfr.859886.xyz&path=/e49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&fp=chrome&sni=XsCdFr.859886.xYZ&alpn=http/1.1#@configMs
 vless://28ab1cf6-72bd-46ae-9ea2-a9cf22d4374a@77.110.124.63:25360?security=reality&encryption=none&pbk=9_cr-sx-RroefcaUkifm7u6dn4udl7E4aPp_dN8QOig&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=7d#IRAN 60 (@Outline_Vpn) free
 vless://28cfee9a-a7e2-4b3b-ac93-5052dd7b53ac@91.107.180.100:45489?security=&type=tcp&path=/&headerType=http&host=speedtest.net&encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://28ee9a-a7e2-4b3b-ac93-5052dd7b53ac@91.107.180.100:45489?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#SOB!X SHOP 🚀-@SobyV2ray

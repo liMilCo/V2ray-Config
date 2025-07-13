@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://31346165-6265-4438-a535-633530636532@81.12.92.152:3128/?security=none&allowInsecure=1&type=ws&path=/fr/l/w/aG6m0Q4gFnsv9vsF?ed=2047&host=mail.nic.ir#فرانسه 🇫🇷
 vless://31369ef4-edde-4050-91fc-82ae3017ea8b@ir-tunnel-ipv4-1.beraghsa.ir:43313?type=tcp&headerType=none&security=none#zero vpn shop 🇺🇸2
 vless://31369ef4-edde-4050-91fc-82ae3017ea8b@ir-tunnel-ipv4-2.beraghsa.ir:43310?type=tcp&headerType=none&security=none#zero vpn shop 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://31369ef4-edde-4050-91fc-82ae3017ea8b@ir-tunnel-ipv4-2.beraghsa.ir:43312?type=tcp&headerType=none&security=none#Zero vpn shop 🇺🇸
@@ -503,3 +502,4 @@ vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK5H01?ed&security=tls&alpn=http/1.1&encryption=none&host=s4.main-2.workers.dev&fp=chrome&type=ws&sni=S4.MaiN-2.WORkErS.Dev#🇩🇪All³ | @BigSmoke_Config
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK5H01?ed&security=tls&encryption=none&host=S4.MaiN-2.WORkErS.Dev&fp=chrome&type=ws&sni=S4.MaiN-2.WORkErS.Dev#@V2RAY_VMESS_free
 vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK5H01?ed&security=tls&encryption=none&host=S4.MaiN-2.WORkErS.Dev&fp=chrome&type=ws&sni=S4.MaiN-2.WORkErS.Dev#@numb_frozen_03
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@104.18.26.90:443?path=/kBoXBiT5qlTK5H01?ed&security=tls&encryption=none&host=S4.MaiN-2.WORkErS.Dev&fp=chrome&type=ws&sni=S4.MaiN-2.WORkErS.Dev#@numb_frozen_09

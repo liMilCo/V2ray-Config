@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://ea286109-d02f-415e-849e-4af20ab04b65@135.148.152.110:443?security=tls&sni=147135001197.sec22org.com&type=tcp&fp=chrome #[@Filter_breaker] vless-US
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#@V2RAY_VMESS_free
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135001195.sec22org.com&alpn=h2,http/1.1#Telegram:@config_proxy 🔥
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.106:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@V2rayN5  3
@@ -503,3 +502,4 @@ vless://f27c4a6f-feb0-463b-b515-b97de9899be3@grs.zdshop.ir:80?mode=packet-up&pat
 vless://f27c4a6f-feb0-463b-b515-b97de9899be3@grs.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=autolife.ir&type=xhttp#@v2raying
 vless://f27c4a6f-feb0-463b-b515-b97de9899be3@grs.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=autolife.ir&type=xhttp#@vipV2rayNGnp
 vless://f27c4a6f-feb0-463b-b515-b97de9899be3@grs.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=autolife.ir&type=xhttp#@vpnaloo
+vless://f27c4a6f-feb0-463b-b515-b97de9899be3@grs.zdshop.ir:80?mode=packet-up&path=/category/music?ed=8880&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=autolife.ir&type=xhttp#@vpnv2rayNGv

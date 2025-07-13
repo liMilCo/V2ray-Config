@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.66.132.196:443?path=/Tel-@V2ray_Alpha=?ed=2560&security=tls&encryption=none&host=ey.nazanin.dpdns.org&type=ws&sni=ey.nazanin.dpdns.org#موقت
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.67.186.221:80?path=?ed=2560&security=&encryption=none&host=ey.nazanin.dpdns.org&type=ws#@iProxy_Channel Wifi 29
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.67.186.221:80?path=?ed=2560&security=none&encryption=none&host=ey.nazanin.dpdns.org&fp=chrome&type=ws&sni=ey.nazanin.dpdns.org#فیلترشکن رایگان👈vpnowl@
 vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.67.186.221:80?path=?ed=2560&security=none&encryption=none&host=ey.nazanin.dpdns.org&type=ws#IRAN 213 (@Outline_Vpn) free
@@ -503,3 +502,4 @@ vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@151.101.3.8:80?path=/download&secur
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@151.101.64.155:80?path=/download&security=none&encryption=none&host=Nazan.com&type=ws#@Spdvpnbot | خرید اشتراک
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@biography.com:80?path=/download&security=none&encryption=none&host=Nazan.com&type=ws#@Spdvpnbot | خرید اشتراک
 vless://d86ca3ed-1c63-42b0-bfac-4385e1aeaceb@oland.hamrahconfig.ir:4471?security=none&encryption=none&headerType=http&type=tcp#@spdvpnbot | خرید اشتراک
+vless://d86d2702-bfdc-48aa-9c5a-4a05115a8f72@151.101.3.8:80?mode=auto&path=@BeFreeWithUs&security=none&encryption=none&host=befreewithus3your-name.global.ssl.fastly.net&type=xhttp#@numb_frozen

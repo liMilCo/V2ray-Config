@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.123:80?path=/&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#🫀⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ip6proxy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.123:80?security=&type=ws&path=/&host=reedfree8mahsang2.redorg.ir&encryption=none#ae_proxy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#🇰🇿KZ+->+🇩🇪DE+⚡@DeamNet_Proxy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@198.41.223.20:8880?encryption=none&security=none&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#🇨🇦CA+->+🇦🇿AZ+⚡@DeamNet_Proxy
@@ -503,3 +502,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=r
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=redfree8mahsang6.redfree8.ir&path=/?ed=2560&security=none#@V2ray_cartel
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=redfree8mahsang6.redfree8.ir&path=/?ed=2560&security=none#v2ray_cartel
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&host=redfree8mahsang6.redfree8.ir&path=/?ed=2560@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪@EVAY_VPN
+vless://5410f85d-82c0-4c8a-a5e5-1ed80755eaf5@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
