@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#%3E%3E%40FreakConfig%3A%3AUS
+vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?encryption=none&security=tls&sni=638874929583333723.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638874929583333723.zagreb-prx-dnraaad.info&path=/aucvumws#%3E%3E%40DailyV2RY%3A%3AFR
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=51PsHq6RqP.vPbEtHoRvP002.iNfO&type=ws&alpn=h3h2&host=51PsHq6RqP.vPbEtHoRvP002.iNfO&path=/#%3E%3E%40DailyV2RY%3A%3AGB
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.137.247.92:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%3E%3E%40v2ray_configs_pool%3A%3ATW
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%3E%3E%40ip_cf%3A%3ANL
@@ -501,5 +503,3 @@ hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:37058/?sni=dxobg
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
