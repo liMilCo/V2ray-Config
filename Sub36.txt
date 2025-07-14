@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed=2560&security=&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#Telegram:@GOLDllVPN 🔥
 vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed=2560&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#@CanfigVip+🍕
 vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed=2560&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed=2560&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#@aurora_vpn
@@ -502,4 +503,3 @@ vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI3OS4xNzUuMTMxLjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmRiYzNjYWRlZmVjNDk4YmJmYzhiNGRhOGQ4ZGMxNmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDYiLCJwcyI6IvCflJJAdjJyYXluZ3N1cGJvdCDwn4eu8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI3YmVmOGM2N2IzYWE0OTYxLmhlbmRlc2h3ZWIuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjU3ZDZiNTUtYzI0MS00M2Q2LThlODUtNmFkYTIzZGZlMTlkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDA5IiwicHMiOiLwn4eu8J+Hs3RlbGVncmFtIOKeoCBAdjJyYXlOR19NYXRzdXJpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4LjIxMC4xMjguMTQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM0YWU4OTBjLWVhZGEtNDE2MC1mN2JhLWEyZDlmYmEyMTVhZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzY3ODgiLCJwcyI6IvCfh63wn4ewSEstOC4yMTAuMTI4LjE0Ni0wMTYzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI4MS4xMi4zMi4xMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmJhZWZjZjktZTRmZC00OTVlLWExNTYtMmI0MWQ2ZGUxMmJiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDEwIiwicHMiOiLwn4ep8J+HqiB8IEBWMlJheV9UeiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

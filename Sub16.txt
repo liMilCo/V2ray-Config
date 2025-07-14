@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://48eccebc-1e36-4c60-b088-55fb793f6688@108.162.195.168:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@128.1.132.82:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@128.1.132.82:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=/?ed=2560#t.me/entryNET/config=1837623696587466
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@141.11.86.109:8080?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -502,4 +503,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/?ed=2560&sec
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#T.me/Asak_Vpn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram:@Selinc/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@Selinc
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@Config_Rayegan/?ed=2560&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@iProxy_Channel 4
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/Telegram@Config_Rayegan/?ed=2560&security=&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@iProxy_Channel 6

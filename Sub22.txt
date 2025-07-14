@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://7c6452c0-eca6-4835-8998-d4418aca7f48@173.245.59.132:8080?path=/@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR-@MaHDiSeRVeR?ed=2048&security=none&encryption=none&host=mahdiserver.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator @MaHDiSeRVeR
 vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#✅@parsproxy_ir
 vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#✅@v2ray_configs_pools
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@TeLPJ+تمام+نت+ها+🟦🟨
@@ -502,4 +503,3 @@ vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.5:19151?security=none&e
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@Selinc
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#tun - @im_soon
 vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.6:19151?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#✅@FreakConfig
-vless://84e7d7ea-fbb8-4a62-b3c6-a22165a21bee@185.133.125.8:19151?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#فرانسه 🇫🇷 @V2xay

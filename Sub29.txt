@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://bfd74a45-19a2-44e3-8196-0f53a87264cf@v2rex.sanaei.milxbywkaiwnx.xyz:14985?security=none&encryption=none&headerType=none&type=tcp#🇹🇷 قطع شدی بیا چنل  @proxygodratmand
 vless://bfd74a45-19a2-44e3-8196-0f53a87264cf@v2rex.sanaei.milxbywkaiwnx.xyz:14985?type=tcp&security=none#✅@v2ray_configs_pools
 vless://bfd74a45-19a2-44e3-8196-0f53a87264cf@v2xay.sanaei.milxbywkaiwnx.xyz:14985?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
 vless://bfff033b-6f6b-4c24-fd6c-5b7d6cf9b3cd@45.133.36.230:443?security=reality&encryption=none&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8&headerType=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&fp=chrome&spx=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&type=tcp&sni=www.latimes.com#@bored_vpn
@@ -502,4 +503,3 @@ vless://cb024589-f32e-4022-b325-56ab0eeff33f@188.227.84.173:8443?security=&encry
 vless://cb024589-f32e-4022-b325-56ab0eeff33f@188.227.84.173:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://cb024589-f32e-4022-b325-56ab0eeff33f@188.227.84.173:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#✅@v2ray_configs_pools
 vless://cb024589-f32e-4022-b325-56ab0eeff33f@188.227.84.173:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪All¹ | @BigSmoke_Config
-vless://cb024589-f32e-4022-b325-56ab0eeff33f@188.227.84.173:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇳🇱@antimeli-AllNet-NL🔥

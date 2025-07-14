@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@5.253.41.139:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.253.41.139&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20JP%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@www.speedtest.net:443?security=tls&sni=jp-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=jp-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20JP%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
 vless://a5374b23-3d6b-5b29-81d8-60c6990fcf34@45.12.139.51:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.139.51&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20LU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
@@ -500,6 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?path=%2FYnqGMcAt%2F&security=tls&encryption=none&host=abc.vpneee.top&type=ws&sni=abc.vpneee.top#IR-%40V2ray_Alpha-65
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?security=&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#Telegram%3A%20%40v2node
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@135.148.74.145:443?security=tls&encryption=none&headerType=&type=tcp&sni=147135004002.sec20org.com#Telegram%3A%20%40v2node
-vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443/?type=ws&encryption=none&flow=&host=F1.paRsa.fiLegEar-Sg.Me&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&allowInsecure=1#%F0%9F%A7%A255%40oneclickvpnkeys
