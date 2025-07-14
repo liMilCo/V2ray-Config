@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-directvpn@18.192.160.68:22222?security=tls&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@18.193.215.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.194.185.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.195.157.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -502,4 +503,3 @@ vless://099b4185-8f96-483a-9c4f-1d595f9bbe88@142.132.227.65:33036?security=none&
 vless://09a5ff31-f245-432d-bffd-8eda890c7f68@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-rycsetwgp
 vless://09b6caf6-0c74-65b0-0eaf-b7c22c185619@154.213.191.115:2093?security=reality&flow=xtls-rprx-vision&sni=refersion.com&type=tcp&fp=chrome&pbk=83nOCehIOZZFqH0TjezNRMlu_pu069x5ep9BhopvyWM#@Hope_Net-join-us-on-Telegram
 vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#@meli_proxyy
-vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#@vpnv2rayNGv

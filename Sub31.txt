@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
 vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d15a8968-954d-4315-9ea2-b8147908e688@matrix4.mobindvil.shop:18764?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://d1821c66-378e-4a7c-abc0-52cabab11887@104.248.91.139:18461?security=&encryption=none&host=fast.com&headerType=http&type=tcp#🇩🇪All² | @BigSmoke_Config
@@ -502,4 +503,3 @@ vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?security=&encrypt
 vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇮🇷2@Evay_vpn
 vless://d99c54fb-2cba-4b0e-b140-beee2fd6ea7b@nv163.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv163.momdping.com#@ai_duet
 vless://d9ac6451-6a5d-486b-bfe2-bd64b28e3922@fi.liteingshop.com:2052?security=&encryption=none&headerType=none&type=tcp#@TeLPJ+تمام+نت+ها+🟦🟨
-vless://d9ac6451-6a5d-486b-bfe2-bd64b28e3922@gr.liteingshop.com:2082?security=&encryption=none&headerType=none&type=tcp#@Capoit

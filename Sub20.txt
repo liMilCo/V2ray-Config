@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=/?ed=2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=/?ed=2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#@icv2ray
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=/?ed=2560&security=&encryption=none&host=barayeiranmahsang.varzesh.dpdns.org&type=ws#Telegram:@GOLDllVPN 🔥
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=/?ed=2560&security=&encryption=none&host=barayeiranmahsang.varzesh.dpdns.org&type=ws#✅@v2ray_configs_pools
@@ -502,4 +503,3 @@ vless://738c5a04-817a-4f50-b327-893595010155@all32-vip.f-sub.com:2434?security=r
 vless://73a13d40-ff1f-4c61-b40a-43c2977ab3c0@172.64.35.157:443?security=tls&sni=ulnq7g.payperflower.com&type=ws&host=ulnq7g.payperflower.com&path=/wss&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pingless.com&pbk=y_kHGyJmpYqiGgeh5gTgDRda0d_l6p-_2at2HHBrWEU&sid=700c1d3ddf2f99&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 @EVAY_VPN
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&headerType=none&type=tcp#@varn_Net
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&headerType=none&type=tcp#Telegram:@GOLDllVPN 🔥

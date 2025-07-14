@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e1dbdac2-ba11-415e-80ec-f295169a3728@85.198.10.188:8080?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 💦
 vless://e1dbdac2-ba11-415e-80ec-f295169a3728@85.198.10.188:8080?security=none&encryption=none&headerType=none&type=tcp#✅@v2ray_configs_pools
 vless://e1dbdac2-ba11-415e-80ec-f295169a3728@85.198.10.93:8080?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://e1dbdac2-ba11-415e-80ec-f295169a3728@85.198.10.93:8080?security=none&encryption=none&headerType=none&type=tcp#@vpnv2rayNGv
@@ -502,4 +503,3 @@ vless://e9b14780-abea-464a-b271-d8482a217ecd@151.101.3.8:80?path=/download&secur
 vless://e9b14780-abea-464a-b271-d8482a217ecd@151.101.3.8:80?path=/download&security=none&encryption=none&host=speedfastly.net&type=ws#SPDNET ❤️
 vless://e9b4bdbd-cc5b-4a90-9616-ea0f1092ec7c@172.67.162.74:443?path=/lmBCBsFSWDrTMywp5KKSues&security=tls&encryption=none&host=p09.iran.pp.ua&type=ws&sni=p09.IRAN.Pp.Ua#@warp_city
 vless://e9ba241a-ec77-4465-9940-afad79de4e3e@188.114.97.0:8080?type=httpupgrade&path=/telegram-TwixService,telegram-TwixService,telegram-TwixService,telegram-TwixService,telegram-TwixService?ed=8080&host=google.com.irancell.com.mci.ir.speedtest.ne.soft98.ir.cafebazaar.ir.zeblibala.site.&security=none#kwmvy9m31
-vless://e9ca2a59-8d6c-4ce0-cdf3-aec198132d40@91.99.188.218:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=chrome&spx=/&type=tcp&sni=ea.com&sid=c7bc4d#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
