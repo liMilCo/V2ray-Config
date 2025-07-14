@@ -3,14 +3,30 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-hy2://dongtaiwang.com@46.17.41.5:12904?insecure=1&sni=apple.com#70 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
-hy2://dongtaiwang.com@108.181.5.130:4710?insecure=1&sni=apple.com#71 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
-hy2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#72 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
-hy2://dongtaiwang.com@45.129.2.108:50850?insecure=1&sni=www.bing.com#73 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
-hy2://nfsn666@45.207.222.138:8888?sni=hk.nfsn666.gq&insecure=1#74 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
-hy2://dongtaiwang.com@46.17.41.217:30033?insecure=1&sni=www.bing.com#75 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
-hy2://dongtaiwang.com@45.129.2.108:50850?insecure=1#76 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
-hy2://dongtaiwang.com@108.181.5.130:4710?insecure=1#77 ✂️-🏴‍☠️-last 14 total=6221(@GheychiAmoozesh)
+trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#67 ✂️-🇨🇳CN-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://4e399fb9-5a4c-49cd-9849-2051512f4c6c@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none&fp=chrome&allowInsecure=1#68 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://5e2ce79c-170e-484a-8802-40584a1a3a12@naiu-us.05vr9nyqg5.download:13020?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com&type=tcp&headerType=none&fp=chrome&allowInsecure=1#69 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none&fp=chrome&allowInsecure=1#70 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://26e159d2-ec3a-4005-97c7-eb480bab096d@aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&headerType=none&fp=chrome&allowInsecure=1#71 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp&fp=chrome&allowInsecure=1#72 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://telegram-id-privatevpns@13.38.213.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome&allowInsecure=1#73 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz&allowInsecure=1#74 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://8ce449a0-29cc-11f0-b43f-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&fp=chrome&allowInsecure=1#75 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://e712da60-2132-11f0-ba9b-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&fp=chrome&allowInsecure=1#76 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://telegram-id-directvpn@18.184.243.220:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&fp=chrome&allowInsecure=1#77 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://RlzoEILU@36.151.251.59:7815?allowInsecure=1&fp=chrome#78 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://Aimer@162.159.133.68:443?sni=epccu.ambercc.filegear-sg.me&fp=chrome&allowInsecure=1#79 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp&fp=chrome&allowInsecure=1#80 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://361ddf70-1af3-11f0-9a84-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&fp=chrome&allowInsecure=1#81 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://a8664a30-29cc-11f0-92d4-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&fp=chrome&allowInsecure=1#82 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://V_kT5VVzTK4gfCCxQipNAA@server2.cactusrobot.ir:8608?security=none&headerType=http&type=tcp&fp=chrome&allowInsecure=1#83 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://afd7d730-2132-11f0-af80-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&fp=chrome&allowInsecure=1#84 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&type=tcp&headerType=none&fp=chrome&allowInsecure=1#85 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp&fp=chrome&allowInsecure=1#86 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://Aimer@154.211.8.209:8443?allowInsecure=0&sni=epccn.ambercc.filegear-sg.me&fp=chrome#87 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&sni=z-v2-077787.kailib.com&allowInsecure=1&type=tcp&fp=chrome#88 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://installshield@38.180.249.177:8443?security=tls&headerType=none&type=tcp&sni=38.180.249.177&fp=chrome&allowInsecure=1#89 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
+trojan://5af7fa3a-ad9c-4346-ba7f-184e89c91758@lm.kaiqsz.com:51075?security=tls&sni=mmbiz10.redapricotcloud.com&type=tcp&headerType=none&fp=chrome&allowInsecure=1#90 ✂️-🏴‍☠️-13 of 14 total=2164(@GheychiAmoozesh)
 hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.121.211:30300/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66 🇨🇦
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy17.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.apple.com.cn#🇯🇵日本
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy2.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.tesla.cn#🇭🇰香港
@@ -252,7 +268,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#🇺🇸𝚙𝚒𝚗𝚐: 206.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#🍒 @FreeVirGoolNet 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#🇺🇸𝚙𝚒𝚗𝚐: 202.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:31.31ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@awlix_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@warp_city
@@ -272,7 +287,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDJkYTlmYzEyNjI4ZGZhQDE1Ny4xNzMuMTIzLjU6NDU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZDJkYTlmYzEyNjI4ZGZhQDE1Ny4xNzMuMTIzLjU6NDUzOTU=#🇩🇪TM-@AZARBAYJAB1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172#@KAFING_2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172#@KAFING_2🇮🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#@MARAMBASHI 🐳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#@V2rayN5  4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#@shh_proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#@v2rayngzendegimamad🕊️
@@ -293,11 +307,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#Join To @Iran_v2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#https://t.me/V2ry_Proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#سوئد 🇸🇪 @V2xay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#کانفیگ رایگان Pruoxyi@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#𝗝𝗼𝗶𝗻 ➠🚀 𝐓𝐞𝐥: @V2rayTun0❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🇩🇪+@CanfigVip+🍕
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azad.net.vpn.digipedia.shop:48172#AZADNET ❤️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azad.net.vpn.digipedia.shop:48172#✅@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@pewezavpn.1.digipedia.shop:48172#@PewezaVPN (Outline)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#@warp_city
@@ -437,7 +449,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#@Hope_Net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#🇩🇪All² | @BigSmoke_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#🚀کانال تلگرام : injastvpn@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#@meli_proxyy
@@ -492,14 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@Pa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@V2ray1_Ng ALL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@V2rayePro عضو کانال تلگرام نباشی سرور قطع میشه
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@confegraigan | نت ملی
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@sunflowerplato🌻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@v2rayng_fars 🚀 Telegram
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@varn_Net
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#@vipV2rayNGnp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#T.ME/Eternal_Connect | 🌍
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#Telegram 🌬️: @v2ryNG01__🌋
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#Telegram+:+@Mrsoulb+🏳🏴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#Telegram+@vmessorg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#Telegram@ConfingV2RaayNG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#https://t.me/V2ry_Proxy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#t.me/iProxy_Channel ⚪ WiFi 1
