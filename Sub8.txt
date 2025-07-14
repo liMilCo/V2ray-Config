@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.370:443#@Filter_breaker | United States
-ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.380:443#@Filter_breaker | United States
-ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.420:443#@Filter_breaker | United States
-ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.440:443#@Filter_breaker | United States
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.450:443#@Filter_breaker | United States
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.470:443#@Filter_breaker | United States
 ss://chacha20-ietf-poly1305:shadowsocks@104.21.25.480:443#@Filter_breaker | United States
@@ -503,3 +499,7 @@ trojan://xOWvsJYC58@91.99.234.241:47428?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2
 trojan://xOWvsJYC58@91.99.234.241:47428?mode=auto&path=/&security=none&type=xhttp#8888-d9dv0wi1
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2rayNG3
 trojan://y9z0a1b2-5678-9abc-def0-1234567890ab@104.21.25.540:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=tpmwh.phooeyunfold.com#@V2rayNG3
+trojan://z4a5b6c7-5678-9abc-def0-1234567890ab@104.21.25.380:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
+vless://---Parsashonam--10-@www.speedtest.net:8080?path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam&security=none&encryption=none&host=test1.我们累了.website&type=ws#@sockss_http 2252
+vless://---Telegram---V2rayNGcloud---@pishgam.sdcards.ir:8080?type=ws&path=/@V2rayNGcloud---Telegram---v2rayNGcloud---@V2rayNGcloud---Telegram---@V2rayNGcloud---Telegram---@V2rayNGcloud---@V2rayNGcloud---Telegram---v2rayNGcloud---@V2rayNGcloud---Telegram---@V2rayNGcloud---Telegram---@V2rayNGcloud?ed=2087&host=amir.pmme.top&security=none#@V2rayNGcloud
