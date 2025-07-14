@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:🏂@SkiVpn🏂⁵🚀
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:🏂@SkiVpn🏂⁷
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#🇷🇺@AZARBAYJAB1
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.8ms
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -500,6 +503,3 @@ vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?type=tcp&header
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147.135.1.195:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@V2rayNG3
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?encryption=none&security=tls&fp=chrome&type=raw&headertype=none#🇺🇸US+->+🇺🇸US+⚡@DeamNet_Proxy
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp#@V2rayNG3
-vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&type=tcp#@V2rayNG3
-vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@Asak_Vpn🇺🇸
-vless://ea286109-d20f-415e-849e-4af20ab04b65@47.251.95.178:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@V2ray1_Ng

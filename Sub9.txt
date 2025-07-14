@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
+trojan://telegram-id-directvpn@18.195.157.38:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@18.196.7.59:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@18.197.173.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-directvpn@3.124.76.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -500,6 +503,3 @@ vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?security=real
 vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#azadiiivpn mtn 🎀
 vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.104:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.105:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#@meli_proxyy
-vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.105:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#@vpnv2rayNGv
-vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.105:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#Telegram:@GOLDllVPN 🔥
-vless://09bacf09-4366-4f6f-8f7f-dfd74c554744@195.254.165.105:42157?security=reality&encryption=none&pbk=BGuiNH22mgDMwT7N7HBICAPw0zJ6luzC-NwS0DaS5TM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=cd4457b1#🇩🇪𝚙𝚒𝚗𝚐: 210.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
