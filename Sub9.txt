@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://telegram-id-directvpn@3.78.152.130:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.78.4.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.156.118.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.180.106.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -502,4 +503,3 @@ vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=/Telegram@V
 vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=chrome&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#@aurora_vpn
 vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=chrome&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#@vipV2rayNGnp
 vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=chrome&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#@vpnaloo
-vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.zistarvinbiotech.ir&fp=chrome&type=ws&sni=FREEDOm.ZiStarvInbioTeCh.ir#🌀Telegram= @vaslvip 🌀

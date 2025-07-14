@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?encryption=none&security=tls&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org&fp=random&type=ws&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%9F%A2%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%AF%D9%87%20%DA%A9%D8%A7%D9%86%DA%A9%D8%AA%20%D8%A8%D9%85%D9%88%D9%86%DB%8C%3A%20%40v2ray_configs_pools
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=MAxNETvipAp-cloUD252.nEtKh3.site&type=ws&sni=MAxNETvipAp-cloUD252.nEtKh3.site#%40TeLPJ+%D8%AA%D9%85%D8%A7%D9%85+%D9%86%D8%AA+%D9%87%D8%A7+%F0%9F%9F%A6%F0%9F%9F%A8
 vless://b28eb861-1748-4200-ba72-278669edc33b@104.18.26.90:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=barayeiranmahsang.mahmoodchitooz.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.mahmoodchitooz.dpdns.org#%40configfree20255
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&security=none&encryption=none&type=grpc#
@@ -502,4 +503,3 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:32765?allowInsecure=1&sn
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wg5paw5Yqg5Z2hM3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoiZ2hpa2tkZzIubWkwMDAxLnh5eiIsInBvcnQiOiIzMTAxNCIsInR5cGUiOiJub25lIiwiaWQiOiI4MDNkZmIzNS0wYWU2LTQ1NDAtOTcxNS03MTgyZmMwNDMxODciLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiZ2hpa2tkZzIubWkwMDAxLnh5eiIsInRscyI6IiJ9
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:4447?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:34719?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
