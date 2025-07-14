@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8301?allowInsecure=0&sni=hk-1-560.flztjc.net#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8307?allowInsecure=0&sni=hk-7-564.flztjc.net#_%E4%B8%AD%E5%9B%BD
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:8303?allowInsecure=0&sni=hk-3-562.flztjc.net#_%E4%B8%AD%E5%9B%BD
 trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@104.21.30.167:443?allowInsecure=0&sni=TttTtTYU.2032.PP.UA#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@gtm-sg-cc548rhv90k.spirtless.top:5304?allowInsecure=0&sni=tw-04-590.flztjc.net#_%E4%B8%AD%E5%9B%BD
@@ -503,3 +501,5 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.11.203.177:8880?allowInsecure=0
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.11.203.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#FR_speednode_0040
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.16.110.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#FR_speednode_0041
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.199.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0042
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.25.25.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0043
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.193.29.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#GB_speednode_0044
