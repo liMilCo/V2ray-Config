@@ -3,32 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#%F0%9F%87%BA%F0%9F%87%BE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=%2FTel-%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=random&type=ws&sni=faruzan.changli.ddns-ip.net#%F0%9F%87%A6%F0%9F%87%B2%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://521def48-9d70-4032-af12-814a02352f14@94.141.123.233:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=fc7a526a7e61ba3b#%F0%9F%87%A8%F0%9F%87%A6%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7fms5Xlm70xIHwg4qyH77iPIDIuM01CL3MiLCJhZGQiOiIxNzIuNjcuMTk4LjE4NyIsInBvcnQiOjQ0MywiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhtaXZpZGVvLmNmZCIsInBhdGgiOiIvbGlua3dzIiwiaG9zdCI6InhtaXZpZGVvLmNmZCJ9
-🇬🇧ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=%2Ftelegram%40%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ggggr.pages.dev&fp=randomized&type=ws&sni=GgGgr.PaGES.dEV#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#%F0%9F%87%AC%F0%9F%87%A7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#%F0%9F%87%AC%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://521def48-9d70-4032-af12-814a02352f14@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=fc7a526a7e61ba3b#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://01e3cb69-c63c-49d4-b652-cc98ae4a6ea5@85.133.238.84:9089?path=%2F&security=none&encryption=none&host=zula.ir&type=ws#iSeqaro
-نسخه ۲.۴۷ از فیلترشکن #oblivionDesktop برای سیستم‌عامل‌های ویندوز، لینوکس و مک منتشر شد. هسته وارپ‌پلاس در این‌آپدیت به نگارش ۱.۲.۵ آپدیت شده، تا مشکل اتصال کاربران برطرف بشه. 🧑‍🦱 github.com/bepass-org/oblivion-desktop/releases         
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#%F0%9F%87%AC%F0%9F%87%B1%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638874929583954786.zagreb-prx-dnraaad.info&type=ws&sni=638874929583954786.zagreb-prx-dnraaad.info#%F0%9F%87%B9%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#%F0%9F%87%B9%F0%9F%87%B4%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xMyB8IOKsh++4jyAxLjhNQi9zIiwiYWRkIjoieGMxMjUtMS5tZWl6aWJhNTU2Ni5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNmI5NWQzNDAtMzBhNS00N2JkLWFjNTMtNDk1ODRlNWQ0ZGRmIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4YzEyNS0xLm1laXppYmE1NTY2LmNvbSIsInBhdGgiOiIvNmI5NWQzNDAiLCJob3N0IjoieGMxMjUtMS5tZWl6aWJhNTU2Ni5jb20ifQ==
-آموزش اشتراک‌گذاری اینترنت بدون فیلتر از نسخه ویندوز #oblivionDesktop، بر روی سایر دستگاه‌ها ...💡 telegra.ph/Enable-and-Share-VPN-Internet-from-Your-Laptop-06-21© Amirhossein.J🧑‍🦱 iSegaro
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xMCB8IOKsh++4jyA0LjlNQi9zIiwiYWRkIjoid3d3LnduMDMuY2MiLCJwb3J0Ijo4MCwiaWQiOiIyZjM4Zjg0OC1hODk5LTRjODctOTgwNy0yMDdhNDE2MTVlM2MiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6IiIsInBhdGgiOiIvcm9uZ3NldmVuP2VkPTIwNDgiLCJob3N0IjoidXMuZnJlZXl5ZHMuZHBkbnMub3JnIn0=
-vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=%2FbDUGlAj9BFG7zebG%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#%F0%9F%87%A6%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%AB%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2FTELEGRAM-%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#%F0%9F%87%A6%F0%9F%87%A9%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#%F0%9F%87%A8%F0%9F%87%A6%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=reality&encryption=none&pbk=v3EwzA9RIIh5Ndxm-gypRY6RCJhOpQ-2WO7KaH8nsC8&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=eab26c4a32#%F0%9F%87%A8%F0%9F%87%A6%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-عشقای دلم سرور و پروکسی های عمومی رو براتون بارگذاری کردیم✅حجم هر کدوم از سرور ها 200 گیگ هستش♻️لطفا از دانلود کردن خودداری کنید❌در صورت امکان از ما حمایت و ما رو به دوستان خود معرفی کنید🙏🆔@vpn_ioss🆔@vpn_ioss
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70yMSB8IOKsh++4jyAyLjJNQi9zIiwiYWRkIjoieGMxMTUtMS5tZWl6aWJhNTU2Ni5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZjQwYThkNjUtYTlhYy00MmNlLWViY2MtOWU2NDQ3YTk4NjZkIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4YzExNS0xLm1laXppYmE1NTY2LmNvbSIsInBhdGgiOiIvZjQwYThkNjUifQ==
-🇧🇷ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xOSB8IOKsh++4jyAyLjFNQi9zIiwiYWRkIjoieGNmMDM2LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiOTZjNTg1ZGUtYzdlNC00MWNiLWEyMzItOWFiYTUzNWVhOWFjIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMzYuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvOTZjNTg1ZGUifQ==
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=%2Fazadnet-7py.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=randomized&type=ws&sni=azadnet-7py.pages.dev#%F0%9F%87%AB%F0%9F%87%AE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+یه سری کانفیگ بهتون میدمبیشتر رو سیمکارت سامانتل کار میکنهسرعتشم خوبه👌اگه برا شما هم کار کرد ری اکشن بدید❤️ 
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#%F0%9F%87%B9%F0%9F%87%B4%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%F0%9F%87%AF%F0%9F%87%B5%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xNyB8IOKsh++4jyA0LjRNQi9zIiwiYWRkIjoieGMwMTEtMi5tZWl6aWJhNTU2Ni5jb20iLCJwb3J0Ijo0NDMsImlkIjoiNDI1NzZhMDQtNWE0ZC00YzdlLWZjYjQtYTg1ODJhYjQ2MDMxIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4YzAxMS0yLm1laXppYmE1NTY2LmNvbSIsInBhdGgiOiIveGMxMjM0IiwiaG9zdCI6InhjMDExLTIubWVpemliYTU1NjYuY29tIn0=
+🇦🇲
+vmess://eyJhZGQiOiIxOTMuMjMzLjEzMy41OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXB0dnMuY29tIiwiaWQiOiIwZGMwZDIyYy02OGU1LTQ0MGEtOTQ2NS05N2NhZDhkMWNmMzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzMyIsInBzIjoi8J+Hs/Cfh7FAdnBuX2lvc3Mg4pm777iPINi52LbZiCDYtNmIIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vless://b96981a2-a6aa-44c0-b21f-88328379ec33@91.99.150.157:2182?mode=gun&security=reality&encryption=none&pbk=hLNxB1vjLv1XhgKvh99s9_0f6qHw50Mrf8B109Hd21I&fp=chrome&type=grpc&serviceName=chessgame&sni=chess.com#SamanTel%205
+vmess://eyJhZGQiOiI2Mi42MC4xODYuMjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy52YXJ6ZXNoMy5jb20iLCJpZCI6IjBkYzBkMjJjLTY4ZTUtNDQwYS05NDY1LTk3Y2FkOGQxY2YzMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ1IiwicHMiOiLwn4es8J+Hp0B2cG5faW9zcyDimbvvuI8g2LnYttmIINi02YgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%3E%3E%40Outline_Vpn%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%3E%3E%40Outline_Vpn%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%3E%3E%40v2ray1_ng%3A%3AGB
@@ -503,3 +490,16 @@ hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:37058/?sni=dxobg
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
+
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:40002/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
