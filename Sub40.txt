@@ -3,82 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
-//support-url: https://t.me/Chat_Support_Configs
-//profile-web-page-url: https://t.me/Rayan_Config
-
-vless://021c3e15-6361-5107-b463-8062d99dbd79@38.76.247.230:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.230&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20SG%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-vless://021c3e15-6361-5107-b463-8062d99dbd79@www.speedtest.net:443?security=tls&sni=sg-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20SG%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://178004b4-2750-4ad6-b4ba-b6a2354b93de@ca-1-rvp.medicaldream.ir:443?security=tls&sni=ca-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=ca-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20CA%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://1e2c0b2f-bc2c-595a-93e5-2579e980e530@77.91.100.41:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=77.91.100.41&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20BG%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-vless://1e2c0b2f-bc2c-595a-93e5-2579e980e530@www.speedtest.net:443?security=tls&sni=bg-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=bg-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20BG%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://2ed6a813-be48-548f-a8dd-8b23eb6c7133@45.82.246.106:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.82.246.106&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20KR%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-vless://2ed6a813-be48-548f-a8dd-8b23eb6c7133@www.speedtest.net:443?security=tls&sni=kr-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=kr-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20KR%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://31303020-3130-4120-b939-203532203536@gb-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20GB%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://31303020-3535-4035-b320-343920393920@ee-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20EE%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://31303120-3532-4035-b620-313030203938@us-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20US%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://31303220-3533-4035-b620-353520313031@sg-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20SG%20-%20II%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@95.215.8.25:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@www.speedtest.net:443?security=tls&sni=nl-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20NL%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://34382031-3030-4035-b520-353620313030@de-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20DE%20-%20II%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://34392039-3920-4939-a034-392035322035@fr-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20FR%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35302035-3020-4130-b220-353420393820@au-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20AU%20-%20II%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35302035-3620-4130-b220-393820353520@tr-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20TR%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35312031-3030-4035-b220-353520393820@fr-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20FR%20-%20II%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35322039-3720-4535-a035-312031303220@pt-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20PT%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35332031-3031-4035-b720-353220313030@ca-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20CA%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35332039-3820-4439-a035-342035362031@au-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20AU%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35342035-3220-4130-b120-313032203535@de-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20DE%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35352035-3420-4938-a035-362035312039@sg-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20SG%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35352039-3820-4535-a039-372031303220@sg-4-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20SG%20-%20IV%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://35372035-3020-4531-a035-322035312035@ae-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20AE%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://37fea7dc-269d-539c-892f-3cd04260fd4b@45.88.182.15:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.88.182.15&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20KR%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-vless://37fea7dc-269d-539c-892f-3cd04260fd4b@www.speedtest.net:443?security=tls&sni=kr-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=kr-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20KR%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://38d9faca-1083-4d4b-bc0a-b7f69d782837@nl-2-rvp.medicaldream.ir:443?security=tls&sni=nl-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=nl-2-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20WSCT%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-
-vless://39372035-3620-4130-b120-393820393820@de-3-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20DE%20-%20III%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://39382031-3031-4034-b820-313030203531@sg-3-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20SG%20-%20III%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://39392035-3120-4530-a035-312035322035@us-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20US%20-%20II%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://39392035-3220-4130-b220-313030203532@us-4-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20US%20-%20IV%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://39392035-3520-4534-a031-303220393820@pl-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20PL%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://39392035-3520-4535-a031-303220313031@nl-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20NL%20-%20I%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://407fcb9c-021f-5f2c-bf6c-a58f72d1f5fc@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20SE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-vless://407fcb9c-021f-5f2c-bf6c-a58f72d1f5fc@www.speedtest.net:443?security=tls&sni=se-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20SE%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
-
-vless://409dae9c-e37b-5b6d-b70b-9f358074b51b@45.8.145.3:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.8.145.3&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20NL%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 
 vless://409dae9c-e37b-5b6d-b70b-9f358074b51b@www.speedtest.net:443?security=tls&sni=nl-2-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20NL%20-%20II%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 
@@ -362,7 +286,7 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyhl.flylink.cyou:35250/?insec
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyjnd.flylink.cyou:35280/?insecure=1&sni=flyjnd.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A828.74%20GB
+hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A828.68%20GB
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
 
@@ -377,12 +301,6 @@ hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyxg.flylink.cyou:35290/?insec
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyxghy.flylink.cyou:35260/?insecure=1&sni=flyxghy.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E9%A6%99%E6%B8%AF
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyyg.flylink.cyou:35240/?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E8%8B%B1%E5%9B%BD
-
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
-
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:37058/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@23.132.228.217:43721/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:56704/?sni=dxobg4azmk.gafnode.sbs#Marseille-GetAFreeNode
 
@@ -448,6 +366,24 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdmdmZ3l1Z2l1Z3Z1aXU=@sg-2-sst.medic
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwteXRqdHJ5cmV3Z3R0aGVocnJ0eQ==@au-1-sst.medicaldream.ir:8444#Rayan%20-%20SST%20-%20AU%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHU1MjY5XHU0ZjU5XHU2ZDQxXHU5MWNmXHVmZjFhMTAwIEdCIiwiYWRkIjoiMTc1MDE1ODc0MS50ZW5jZW50YXBwLmNuIiwicG9ydCI6IjQ0MyIsImlkIjoiYmU2ODRlZTktNDIyYS00MzA3LThiYzYtNDNiYTA3OTdjOTFiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IndzIiwiaG9zdCI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic25pIjoiZnJlZTEubG9vcHljbG91ZGNmamlhc3VjZG4udXMua2cifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU1OTU3XHU5OTEwXHU1MjMwXHU2NzFmXHVmZjFhMjAyNS0wOS0xNCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNjg0ZWU5LTQyMmEtNDMwNy04YmM2LTQzYmEwNzk3YzkxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiJmcmVlMS5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNuaSI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU2NWIwXHU1MmEwXHU1NzYxXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjLUNETiB8IDF4IiwiYWRkIjoiMTc1MDE1ODc0MS50ZW5jZW50YXBwLmNuIiwicG9ydCI6IjQ0MyIsImlkIjoiYmU2ODRlZTktNDIyYS00MzA3LThiYzYtNDNiYTA3OTdjOTFiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IndzIiwiaG9zdCI6ImZyZWU2Lmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic25pIjoiZnJlZTYubG9vcHljbG91ZGNmamlhc3VjZG4udXMua2cifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU3ZjhlXHU1NmZkXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4LVx1NWUwM1x1NmNkNVx1N2Y1Ny1DRE4gfCAxeCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNjg0ZWU5LTQyMmEtNDMwNy04YmM2LTQzYmEwNzk3YzkxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiJmcmVlMS5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNuaSI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU3ZjhlXHU1NmZkXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4LVx1OTYzZlx1NGVjMFx1NjcyYy1DRE4gfCAxeCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNjg0ZWU5LTQyMmEtNDMwNy04YmM2LTQzYmEwNzk3YzkxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiJmcmVlMi5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNuaSI6ImZyZWUyLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU4MmYxXHU1NmZkXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3LVx1NGYyNlx1NjU2Ni1DRE4gfCAxeCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNjg0ZWU5LTQyMmEtNDMwNy04YmM2LTQzYmEwNzk3YzkxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiJmcmVlNC5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNuaSI6ImZyZWU0Lmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU4Mzc3XHU1MTcwXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxLVx1OTYzZlx1NTljNi1DRE4gfCAxeCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNjg0ZWU5LTQyMmEtNDMwNy04YmM2LTQzYmEwNzk3YzkxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiJmcmVlMy5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNuaSI6ImZyZWUzLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU4ZGRkXHU3OWJiXHU0ZTBiXHU2YjIxXHU5MWNkXHU3ZjZlXHU1MjY5XHU0ZjU5XHVmZjFhMTcgXHU1OTI5IiwiYWRkIjoiMTc1MDE1ODc0MS50ZW5jZW50YXBwLmNuIiwicG9ydCI6IjQ0MyIsImlkIjoiYmU2ODRlZTktNDIyYS00MzA3LThiYzYtNDNiYTA3OTdjOTFiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IndzIiwiaG9zdCI6ImZyZWUxLmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIiwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic25pIjoiZnJlZTEubG9vcHljbG91ZGNmamlhc3VjZG4udXMua2cifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU5OTk5XHU2ZTJmXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwLVx1NGU1ZFx1OWY5OS1DRE4gfCAxeCIsImFkZCI6IjE3NTAxNTg3NDEudGVuY2VudGFwcC5jbiIsInBvcnQiOiI0NDMiLCJpZCI6ImJlNjg0ZWU5LTQyMmEtNDMwNy04YmM2LTQzYmEwNzk3YzkxYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiJmcmVlNS5sb29weWNsb3VkY2ZqaWFzdWNkbi51cy5rZyIsInBhdGgiOiJcLyIsInRscyI6InRscyIsInNuaSI6ImZyZWU1Lmxvb3B5Y2xvdWRjZmppYXN1Y2RuLnVzLmtnIn0=
+
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiY2EtMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNTMzMjAzMS0zMDMxLTQwMzUtYjcyMC0zNTMyMjAzMTMwMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBDQSAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6ImNhLTEtc3N0Lm1lZGljYWxkcmVhbS5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiYWUtMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzNTM3MjAzNS0zMDIwLTQ1MzEtYTAzNS0zMjIwMzUzMTIwMzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBBRSAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6ImFFLTEtc1N0Lm1FZGljYUxkcmVBbS5JciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -503,3 +439,67 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#%F0%9F%87%BA%F
 vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy02ODc0IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#%F0%9F%87%BA%F0%9F%87%B8US-173.244.56.9-0239
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.130-0246
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.132-0243
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.100.205.48:989#%F0%9F%87%AC%F0%9F%87%A7GB-62.100.205.48-0219
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.129-0222
+ssr://NjIuMTAwLjIwNS40ODo5ODk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpqaG1OMkZEZW1OUVMySnpSamh3TXc9PS8/b2Jmc3BhcmFtPSZyZW1hcmtzPThKJTJCSHJQQ2ZoNmRIUWkwMk1pNHhNREF1TWpBMUxqUTRMVFE1TURJJTNEJnByb3RvcGFyYW09
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.164-0247
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.70-0232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.69-0371
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0223
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.188-0237
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0360
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.132-0241
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.166-0236
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0245
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.146-0238
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1NL-103.104.247.47-0229
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.28-0387
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.157-0226
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-0240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0248
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.110-0233
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.181-0230
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#%F0%9F%87%B3%F0%9F%87%B1NL-103.104.247.49-0250
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.66-0294
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.92-0235
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.199-0234
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.17.169-0297
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.141-0295
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.65-0227
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.192-0244
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0289
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.138-0228
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.136-0224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0225
+vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjg4NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#%F0%9F%87%A9%F0%9F%87%AADE-138.124.115.157-0352
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-4842
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0299
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-74.177.164.151-0262
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0266
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.250.233.247-0265
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-85.210.119.103-0252
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1NL-92.112.126.90-0351
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-0274
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.194-0100
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.193-0273
+vmess://ewogICAgImFkZCI6ICIxMzcuMTc1LjQwLjIwMSIsCiAgICAiYWlkIjogNjQsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9wYXRoLzE3MDczMzEzMjIzMyIsCiAgICAicG9ydCI6IDM4MDAzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTM3LjE3NS40MC4yMDEtMDk5NiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.250.233.247-0269
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.250.233.247-0257
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.68.43-0264
+vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTMxLjI3IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsCiAgICAiaWQiOiAiMzUwZTJiMDEtZDQxMC00NGE2LTkwYmEtNjQ4M2YxMDYyOTcyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwNTMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xMzEuMjctMDI1MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInJhazJkNC44OTA2MDAwNC54eXoiCn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-0270
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.68.43-0258
+vmess://ewogICAgImFkZCI6ICJvcnZwczIuaG9yc2VubWEubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsCiAgICAiaWQiOiAiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2hvcnNlbiIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xOTMuNTAtMDY5MSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.250.233.247-0268
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0278
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0267
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-194.87.31.68-0284
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0272
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.250.233.247-0279
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.197-0263
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0282
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-51.142.68.43-0276
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0255
