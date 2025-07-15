@@ -4,8 +4,6 @@
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-12
-
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E7%BE%8E%E5%9B%BD
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A28%20%E5%A4%A9
@@ -503,3 +501,5 @@ vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@91.107.254.5:80?security=&type=ws&p
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=%2FFREEV2RNGTELEGRAM----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#%F0%9F%87%A9%F0%9F%87%AAMtn%20%7C%20telegram--vpnfreak
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?path=%2FBarayeiranmahsang%2Fv2ray_configs_poolsTELEGRAM----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.juveitaly.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.juveitaly.dpdns.org#V2p%20%7C%7C%20TELEGRAM--vpnfreak
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2FFREEV2RNGTELEGRAM----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG----%40FREEV2RNG%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#m%F0%9F%87%A9%F0%9F%87%AA%20vpnfreak
+vless://8ca4ca74-fa0c-4c18-86c5-ce6d0382ff14@104.21.32.1:2096?path=%2F&security=tls&encryption=none&host=DO-iTforyOu-E1P.PAgeS.dEV&fp=chrome&type=ws&sni=DO-iTforyOu-E1P.PAgeS.dEV#✅@v2ray_configs_pools
+vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40v2ray_configs_pools&headerType=none&type=tcp#✅@v2ray_configs_pools`
