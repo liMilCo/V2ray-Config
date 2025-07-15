@@ -3,6 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&fp=chrome&type=tcp&allowInsecure=1#41 ✂️-🇭🇰HK-last 14 total=6221(@GheychiAmoozesh)
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&sni=155.117.228.70&fp=chrome&type=tcp&allowInsecure=1#42 ✂️-🇭🇰HK-last 14 total=6221(@GheychiAmoozesh)
+trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir&fp=chrome&type=tcp&allowInsecure=1#43 ✂️-🇫🇷FR-last 14 total=6221(@GheychiAmoozesh)
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@pt.mjt000.com:443?security=tls&sni=pt.mjt000.com&fp=chrome&type=tcp&allowInsecure=1#44 ✂️-🇭🇰HK-last 14 total=6221(@GheychiAmoozesh)
+trojan://172b2279-f7f5-4542-ab6c-9e96ad7dd5be@ni.mjt000.com:443?security=tls&sni=ni.mjt000.com&fp=chrome&type=tcp&allowInsecure=1#45 ✂️-🇭🇰HK-last 14 total=6221(@GheychiAmoozesh)
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@it.mjt000.com:443?security=tls&sni=it.mjt000.com&fp=chrome&type=tcp&allowInsecure=1#46 ✂️-🇭🇰HK-last 14 total=6221(@GheychiAmoozesh)
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#47 ✂️-🇲🇳MN-last 14 total=6221(@GheychiAmoozesh)
+trojan://b341f309-7e2b-45c4-a316-9e23037e3711@sg.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#48 ✂️-🇸🇬SG-last 14 total=6221(@GheychiAmoozesh)
+trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#49 ✂️-🇸🇬SG-last 14 total=6221(@GheychiAmoozesh)
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls&fp=chrome&type=tcp&allowInsecure=1#50 ✂️-🇹🇼TW-last 14 total=6221(@GheychiAmoozesh)
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls&fp=chrome&type=tcp&allowInsecure=1#51 ✂️-🇨🇳CN-last 14 total=6221(@GheychiAmoozesh)
 trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#52 ✂️-🇸🇬SG-last 14 total=6221(@GheychiAmoozesh)
 trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#53 ✂️-🇸🇬SG-last 14 total=6221(@GheychiAmoozesh)
 trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#54 ✂️-🇸🇬SG-last 14 total=6221(@GheychiAmoozesh)
@@ -492,14 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.162.130:443#@Ca
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@74.177.240.238:443#@CaV2ray ⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@AYMH19+کانال+تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@CaV2ray ⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@EXPRESSVPN_420
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@EXPRESSVPN_420 👈🏻 کانال‌ ما All
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@EXPRESSVPN_420🏂🌐
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Hddify | چنل هدیفای 🍑
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Hddify •||• نت ملی 💤
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Hddify •|• چنل هدیفای 🌷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Hddify •|• چنل هدیفای 😙
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Hddify •|• چنل هدیفای 🫢
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@HiByeVPNN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Irv2rey
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Moft_Vpn کانال
