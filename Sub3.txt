@@ -70,6 +70,7 @@ hy2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443/?mport=55000-56000&
 hy2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66 🇨🇦
 hy2://dongtaiwang.com@108.181.5.130:4710/?insecure=1&sni=apple.com#Channel id: @ShadowProxy66 🇺🇸
 hy2://dongtaiwang.com@108.181.5.130:4710/?insecure=1&sni=apple.com#✅@v2ray_configs_pools
+hy2://dongtaiwang.com@45.129.2.108:50850/?insecure=1&sni=google.com#Telegram:@config_proxy 😍
 hy2://dongtaiwang.com@45.129.2.108:50850/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66 🇷🇺
 hy2://dongtaiwang.com@46.17.41.217:30033/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66 🇷🇺
 hy2://dongtaiwang.com@46.17.41.217:30033/?insecure=1&sni=www.bing.com#✅@v2ray_configs_pools
@@ -199,8 +200,6 @@ hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=appl
 hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=apple.com#hibyevpn--IR-16 @HiByeVPNN
 hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=apple.com#سرورهای رایگان و پرسرعت : v2ryNG01@
 hysteria2://dongtaiwang.com@51.159.111.32:31180?security=tls&insecure=1&sni=apple.com#⚜️Telegram: @IP_CF
-hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1&security=tls#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:60.23ms
-hysteria2://dongtaiwang.com@51.159.111.32:31180?sni=apple.com&insecure=1&security=tls#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Paris🅿️ping:61.55ms
 hysteria2://e9f0g1h2-3456-7bcd-8abc-9012abcdef34@185.146.173.2450:443?insecure=0&sni=hysteria.de.vpnfree.org#@Filter_breaker | Germany
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
 hysteria2://jvTJxLMlcl@p4.3dfigures.ir:20627?security=tls&obfs=salamander&obfs-password=v2raybluecrystal2&insecure=1#@v2ray313 کانالمون 🧠
@@ -233,7 +232,6 @@ hysteria://195.154.200.178:46938?upmbps=11&downmbps=55&auth=dongtaiwang.com&inse
 hysteria://195.154.200.40:15010/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel id: @ShadowProxy66 🇫🇷
 hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel id: @ShadowProxy66 🇷🇺
 hysteria://208.87.243.187:40528/?insecure=1&peer=apple.com&auth=dongtaiwang.com&upmbps=100&downmbps=100&alpn=h3#Channel id: @ShadowProxy66 🇺🇸
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R1dNYjRRcEcrbzJkeUc3UU96aS9sYXpqOHY1RTFvV2lWTC9UM0NMSFU0ST06NUxBU0wwa3pQdHo4VW1KbWVoK1NrekpvL1NQdDRhTkMrN01GbnRjSVc1RT0=@80.209.239.158:53755#t.me/entryNET/config=1837771421690652
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10145#@ev2rayy
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10147#@ev2rayy
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10149#@ev2rayy
@@ -360,6 +358,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#Telegram+:+@Mrsoulb+🏳🏳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#Telegram+:+@Mrsoulb+🏳🏴
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#Telegram+@vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#[🇬🇧]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#موقت
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇨🇦کانفیگ های بیشتر: @VPNBUFF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🇫🇮سرور های بیشتر: @Tel : VPNBUFF🪄
@@ -503,3 +502,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@EXPRESSVPN_420
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@EXPRESSVPN_420 👈🏻 کانال‌ ما All
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@EXPRESSVPN_420🏂🌐
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#@Hddify | چنل هدیفای 🍑
