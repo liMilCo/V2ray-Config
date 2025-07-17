@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0fe270d2-ddae-4d90-b415-818c57710cc5@91.99.7.227:44666?security=reality&type=xhttp&headerType=&path=/Telegram@Merlin_ViP&host=google.com&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=www.yahoo.com&fp=chrome&pbk=IoFzzRce9vslGGZsfrwzoIbgv_OglekC2xAhwiMhewg&sid=2fb7c7018a233465#Telegram:@Merlin_ViP v.1
+vless://100cdf1b-cb71-4770-a945-45982107a6c0@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#📗 Telegram | @Green_WPN
+vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=/?ed=2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#@Alfa_v2ray_ng
+vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=/?ed=2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#@varn_Net
 vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=/?ed=2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#✅@v2ray_configs_pools
 vless://10221e99-bb18-4d22-87ea-daa48470d098@www.speedtest.net:8880?host=fr2.vlessx.xyz&security=none&type=ws&path=/?ed=2048&encryption=none#@configraygan+یه+سر+به+کانال+بزن
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.18.181.3:443?security=tls&alpn=h2,http/1.1&encryption=none&host=zyzzzoao.putata.eu.org&type=ws&sni=ZyZZZOAO.PutaTa.EU.oRG#@warp_city
@@ -499,7 +503,3 @@ vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80?path=/&security=
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80?path=/&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://255928a1-5b47-4e6d-b364-3c138dc9fffa@142.132.227.65:31151?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://255928a1-5b47-4e6d-b364-3c138dc9fffa@142.132.227.65:31151?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 💦
-vless://255928a1-5b47-4e6d-b364-3c138dc9fffa@142.132.227.65:31151?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://255b378e-cf94-4b7e-816b-d8d882583214@151.101.3.8:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
-vless://258c38df-a253-49d6-fe96-229ccae2ea2a@212.80.9.68:5468?security=none&encryption=none&headerType=http&type=tcp#🇻🇦@SimChin_iR جوین شید
-vless://259923b6-756d-4b33-9ea9-73e55378018a@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#All² @ghalagyann 🇮🇹

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#Telegram : @Mrsoulb 🏳🏴
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#Telegram : CaptalVpn🏴‍☠️
-hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?security=tls&insecure=1&sni=www.bing.com#Telegram@vmessorg
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979?security=tls&insecure=1&sni=www.bing.com#⚜️Telegram: @IP_CF
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443/?sni=www.google.com&obfs=salamander&obfs-password=VpnHubMarKeT&insecure=1#🇹🇷¹ @VpnHubMarKeT
 hysteria2://dbe172973c29534833c6fae3d706d9e7@91.217.119.51:443/?sni=www.google.com&obfs=salamander&obfs-password=VpnHubMarKeT&insecure=1#🇹🇷¹ @VpnHubMarKeT  @VpnHubMarKeT ⚡️
@@ -503,3 +500,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#@V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#@V2ray1_Ng  trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#@v2ray_configs_pools
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#@vasl_bashim
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#آلمان 🇩🇪 @V2xay
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#کانفینگ بیشتر = @MoneySeae سرعت بسیار بالا

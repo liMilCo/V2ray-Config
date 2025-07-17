@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
+trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
+trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
+trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@kp.mjt000.com:443/?type=tcp&security=tls&sni=kp.mjt000.com#✅@v2ray_configs_pools
 trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@waphk.mjt000.com:443/?type=tcp&security=tls&sni=waphk.mjt000.com#✅@v2ray_configs_pools
 trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.143.250:443/?type=tcp&security=tls&sni=C1wSdm.777162.Xyz#✅@v2ray_configs_pools
 trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
@@ -499,7 +503,3 @@ vless://0fe270d2-ddae-4d90-b415-818c57710cc5@151.101.195.8:80?mode=auto&path=/Te
 vless://0fe270d2-ddae-4d90-b415-818c57710cc5@151.101.195.8:80?mode=auto&path=/Telegram@Merlin_ViP&security=none&encryption=none&host=althoughoutmanoeuvreforenenst.global.ssl.fastly.net&type=xhttp#@vasl_bashim
 vless://0fe270d2-ddae-4d90-b415-818c57710cc5@151.101.195.8:80?security=none&type=xhttp&headerType=&path=/Telegram@Merlin_ViP&host=althoughoutmanoeuvreforenenst.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#Telegram:@Merlin_ViP v.2
 vless://0fe270d2-ddae-4d90-b415-818c57710cc5@91.99.7.227:44666?mode=auto&path=/Telegram@Merlin_ViP&security=reality&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=IoFzzRce9vslGGZsfrwzoIbgv_OglekC2xAhwiMhewg&host=google.com&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=2fb7c7018a233465#Telegram : @Confingman🎀2️⃣‌‌
-vless://0fe270d2-ddae-4d90-b415-818c57710cc5@91.99.7.227:44666?security=reality&type=xhttp&headerType=&path=/Telegram@Merlin_ViP&host=google.com&mode=auto&extra={"scMaxEachPostBytes":+1000000,+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=www.yahoo.com&fp=chrome&pbk=IoFzzRce9vslGGZsfrwzoIbgv_OglekC2xAhwiMhewg&sid=2fb7c7018a233465#Telegram:@Merlin_ViP v.1
-vless://100cdf1b-cb71-4770-a945-45982107a6c0@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#📗 Telegram | @Green_WPN
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=/?ed=2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#@Alfa_v2ray_ng
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=/?ed=2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=chrome&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#@varn_Net

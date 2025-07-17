@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://b6c8e0a2-5f6a-7b8c-9d0e-1f2a3b4c5d6e@103.195.103.92:8443?security=tls&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Singapore
-vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=/websocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#@V2rayNG3
-vless://b6f9d277-a1e0-4ca1-8742-c5cc86697fa5@91.107.170.231:42370/?type=grpc&serviceName=@ZedBaz_vpn&authority=&security=reality&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&sni=yahoo.com&sid=479f4834&spx=/#@zedbaz_vpn
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@Iran.v2sub.online:80?mode=auto&path=/&security=none&encryption=none&host=portalo.com&type=xhttp#لطفا وصل بشید و بروزرسانی اشتراک کنید
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@fast.v2sub.online:80?mode=auto&path=/&security=none&encryption=none&host=portalo.com&type=xhttp#25 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@fast.v2sub.online:80?mode=auto&path=/&security=none&encryption=none&host=portalo.com&type=xhttp#27 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
@@ -503,3 +500,6 @@ vless://cc5eaf33-cfce-4177-ff9c-a46b06ace9f7@www.speedtest.net:2086?path=/@spike
 vless://cc8f73a6-d35b-4358-98fb-351869dabe59@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🟩 Telegram | @Green_WPN
 vless://cca9d837-6818-4f96-b70b-92303222fe3c@rc.mci.riashop.ir:18117?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#tel: @bad_raqs
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray ⚡️
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@V2RAYNG_1378
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@V2ray1_Ng
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@ai_duet @v2rayngsupbot🛡️
