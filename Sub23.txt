@@ -419,7 +419,7 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@check-host.net:443?security=tls&sni
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@digitalocean.com:443?security=tls&sni=rAyAn-08.LeIlA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-08.leila.dpdns.org&encryption=none#@Rayan_Config%20-%20EU-2
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@fonts.net:443?security=tls&sni=rAyAn-uS-2.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-2.MeDiCaLhIsToRy.iR&encryption=none#@Rayan_Config%20-%20EU-6
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@fonts.net:443?security=tls&sni=rAyan-uS-2.MediCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyan-uS-2.MediCaLhIsToRy.iR&encryption=none#@Rayan_Config%20-%20EU-6
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@homestead.com:443?security=tls&sni=rAyAn-uS-1.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR&encryption=none#@Rayan_Config%20-%20EU-5
 
@@ -445,7 +445,7 @@ vless://8ef363bd-f272-40e0-8c13-c260907ac575@1750158741.tencentapp.cn:443?mode=m
 
 vless://8ef363bd-f272-40e0-8c13-c260907ac575@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=1750158741.tencentapp.cn&path=%2F&host=1750158741.tencentapp.cn#%F0%9F%8F%81%E9%80%9A%E7%9F%A5%EF%BC%9A%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E8%AF%B7%E6%9B%B4%E6%96%B0%E8%AE%A2%E9%98%85
 
-vless://8ef363bd-f272-40e0-8c13-c260907ac575@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free1.loopycloudcfjiasucdn.us.kg&path=%2F&host=free1.loopycloudcfjiasucdn.us.kg#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A99.82+GB
+vless://8ef363bd-f272-40e0-8c13-c260907ac575@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free1.loopycloudcfjiasucdn.us.kg&path=%2F&host=free1.loopycloudcfjiasucdn.us.kg#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A99.25+GB
 
 vless://8ef363bd-f272-40e0-8c13-c260907ac575@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=free1.loopycloudcfjiasucdn.us.kg&path=%2F&host=free1.loopycloudcfjiasucdn.us.kg#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-14
 
