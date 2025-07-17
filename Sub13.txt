@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@XpnTeam 🇩🇪 کانفیگ تلگرام
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪Germany-@Filter_breaker
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@G0Dv2ray
@@ -503,3 +502,4 @@ vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.58.254:80?path=/RAMgamevpnTE
 vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.18.58.254:80?path=/VPNserverrrTELEGRAM---@ramgamevpn&security=&encryption=none&host=barayeiranmahsang.bahareh.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.bahareh.dpdns.org#mtnᴬᴸᴸ⁴🇩🇪𝐣𝐨𝐢𝐍-@ramgamevpn
 vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#Channel : @ai_duet
+vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#Channel : Telegram : @CaptalVpn

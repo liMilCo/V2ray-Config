@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#Channel : Telegram : @CaptalVpn
 vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=By6ie-4h9.com&type=ws#Channel@vmessorg
 vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?type=ws&host=By6ie-4h9.com&path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none#@vipV2rayNGnp
 vless://8c203f81-3c3a-4f5b-84b1-df22a19dee33@power.teampluss.ir:80?type=ws&host=By6ie-4h9.com&path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none#Channel : @Unlimiteddev ✅
@@ -503,3 +502,4 @@ vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=/?ed&security=
 vless://9fd0fe69-1952-443c-ba36-9df800300c8d@46.31.76.99:47663/?type=grpc&serviceName=&authority=&security=reality&pbk=rhGH20kTQph0aZhK5gZwWqPxX8WBNGqNAU_l0o-p3ws&fp=chrome&sni=yahoo.com&sid=2ed8afea0d27&spx=/#t.me/entryNET/config=1837912539622776
 vless://9fd7188a-7f79-4bb5-a29e-ba544899042d@194.135.46.24:443?security=none&encryption=none&headerType=none&type=tcp#🔗 Telegram : @Viturey 🔐
 vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?security=reality&encryption=none&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f2#@Anty_Vpn سرورای بیشتر
+vless://Anty_Vpn-Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#F-@Anty_Vpn سرورها
