@@ -4,6 +4,18 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://31303020-3937-4034-b920-313030203937@us-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20US%20-%20II%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+
+vless://31303020-3938-4035-b420-353420353420@gb-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20GB%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+
+vless://31303120-3130-4220-b534-203534203130@ae-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20AE%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+
+vless://31303220-3533-4035-b620-353520313031@sg-2-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20SG%20-%20II%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
+
+vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@95.215.8.25:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20NL%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+
+vless://31d40cc1-b8d0-55d5-a333-a309c9879b3e@www.speedtest.net:443?security=tls&sni=nl-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=nl-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20NL%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
+
 vless://34382034-3820-4130-b220-353720353020@fr-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20FR%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
 
 vless://34382034-3920-4533-a031-303120393820@tr-1-sst.medicaldream.ir:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#Rayan%20-%20SST%20-%20TR%20-%20I%20-%20%F0%9F%8F%B5%20t.me/Rayan_Config
@@ -491,15 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.66-0288
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.178-0218
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#%F0%9F%87%BA%F0%9F%87%B8US-104.192.226.106-0163
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.70-0287
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.202-0326
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#%F0%9F%87%BA%F0%9F%87%B8US-212.102.47.129-0161
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0199
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.189-0179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.138-0244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.69-0286
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.192-0194
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.65-0285
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.136-0187
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%B3%F0%9F%87%B1NL-92.112.126.90-0210
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0189
