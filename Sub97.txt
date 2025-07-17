@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#%3E%3E%40free4allVPN%3A%3AJP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#%3E%3E%40ultrasurf_12%3A%3AGB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#%3E%3E%40free4allVPN%3A%3AJP
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.166:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=none&encryption=none&host=sg.laoyoutiao.link&type=ws#%3E%3E%40free4allVPN%3A%3AUS
@@ -502,4 +503,3 @@ vless://c7597b19-5a9b-5a45-b576-0ccd561d0c01@www.speedtest.net:443?security=tls&
 vless://cd7dc1d5-629b-4fc9-9d4e-13ca7254d059@83.147.18.200:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=83.147.18.200&encryption=none#Rayan%20-%20CBT%20-%20WSDR%20-%20UK%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 
 vless://cd7dc1d5-629b-4fc9-9d4e-13ca7254d059@www.speedtest.net:2087?security=tls&sni=uk-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20WSCT%20-%20UK%20-%20I%20-%20%E2%9A%BD%EF%B8%8F%20t.me/Rayan_Config
-

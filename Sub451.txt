@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@config_v2ray_vpn👈سرورهای‌ بیشتر
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@proNG1/@parham929292
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@proNG1/@parham929292 دیروز یک مشکلی پیش اومد من نتونستم کانفیگ بزارم اما این بهترین کانفیگ کاناله @proNG1
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools
@@ -502,4 +503,3 @@ vless://884bead8-301f-4be8-a40a-1e273d2d0fe3@[0000:0000:0000:0000:0000:ffff:5b63
 vless://886f39d6-ec2d-4516-be9e-926f416dbb9c@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@v
 vless://886f39d6-ec2d-4516-be9e-926f416dbb9c@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪
 vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?security=reality&encryption=none&pbk=Pbw9c39ihEuOP53vnsbivCHh6Y11TdzYrfJ9RGVix1Y&headerType=none&fp=chrome&spx=/&type=tcp&sni=zula.ir&sid=281409ed#⚜️Telegram: @IP_CF
-vless://88a30915-d01f-4d8d-9b83-7cd9985e9a71@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Telegram:@config_proxy 🔥

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#@Moft_Vpn کانال
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#@Selinc
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#@v2rayng_fars 🚀 Telegram
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -502,4 +503,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.25.200:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.195:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn⁹🎀
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=&type=grpc&encryption=none#@awlix_ir

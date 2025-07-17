@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://b6c7d8e9-9012-3bcd-4abc-5678abcdef56@185.146.173.2400:443?type=ws&host=trojan.de.vpnfree.org&path=/trojan#@Filter_breaker | Germany
 trojan://b6f0c135-043a-40e3-863a-08fba589034c@109.230.91.202:443?mode=gun&security=tls&type=grpc&serviceName=gr1.grtj.sulindac.top&sni=gr1.grtj.sulindac.top#28 | @ConfigFast 🇮🇷💔 عضو بشید تلگرام و ایتا
 trojan://b8808043-6566-4923-9195-e66bfb553d57@51.38.99.96:443?security=tls&sni=ba24.ir&fp=chrome&type=tcp&allowInsecure=1#✅@v2ray_configs_pools
 trojan://bce0c7cb-08d1-46a7-b77b-7bff8b46252f@172.67.220.140:443?path=/x9F83IcyjcEyBXZBROjL3Q5vTymr&security=tls&alpn=http/1.1&host=iiiiiiiiii.000890604.xyz&fp=chrome&type=ws&sni=iIIIiIIIii.000890604.xyZ#@warp_city 594
@@ -502,4 +503,3 @@ vless://0f2a843c-bbfb-4a94-bc6a-9110ddc7e947@5.75.202.170:2052?security=none&enc
 vless://0f2a843c-bbfb-4a94-bc6a-9110ddc7e947@5.75.202.170:2052?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://0f4af021-a22a-41f4-8d9d-08e486a923c2@212.33.206.204:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#@bored_vpn
 vless://0f677eb7-bd99-4939-9327-a5d0334d4e04@104.16.68.37:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=calm-bonus-748d.jixosey717.workers.dev&fp=chrome&type=ws&sni=calm-bonus-748d.jixosey717.workers.dev#Telegram:@config_proxy 🔥
-vless://0f677eb7-bd99-4939-9327-a5d0334d4e04@104.20.74.195:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=calm-bonus-748d.jixosey717.workers.dev&fp=chrome&type=ws&sni=calm-bonus-748d.jixosey717.workers.dev#Telegram:@config_proxy 🔥

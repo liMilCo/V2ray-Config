@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#ae_proxy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🇫🇷@AZARBAYJAB1
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🇹🇷@AZARBAYJAB1
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -502,4 +503,3 @@ vless://e1974bcc-264f-4c51-bdc1-43d1560bf67c@de4.ircloudmarket.com:2008?security
 vless://e1974bcc-264f-4c51-bdc1-43d1560bf67c@de5.ircloudmarket.com:9460?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org#@bluVPNir🇩🇪²
 vless://e1b121b5-9969-4634-8b86-b8d8623355ea@91.107.174.135:21238?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#@varn_Net
 vless://e1b121b5-9969-4634-8b86-b8d8623355ea@91.107.174.135:21238?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🛡️ @FreakConfig
-vless://e1dbdac2-ba11-415e-80ec-f295169a3728@85.198.10.93:8080?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?security=none&encryption=none&headerType=none&type=tcp#✅@v2ray_configs_pools
 vless://7bb9c746-42f0-48ad-b404-1236f0c44042@65.109.208.147:30652?type=tcp&path=/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray&host=radar.arvancloud.ir&headerType=http&security=none#@BanV2ray🇫🇮
 vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&encryption=none&headerType=none&type=tcp#Telegram@ConfingV2RaayNG
 vless://7bd61408-ba77-4f18-8c78-41da6b4d90dc@all2.golnar-clod.ir:8880?path=/?ed=80&security=none&encryption=none&host=top.golnar-clod.ir&type=httpupgrade#Telegram : @AZARBAYJAB1MCI
@@ -502,4 +503,3 @@ vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.245.147:443?path=/?ed=2560&s
 vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.245.64:443?path=/?ed=2560&security=tls&encryption=none&host=lv.2138937.xyz&fp=chrome&type=ws&sni=lv.2138937.xyz#@XpnTeam 🇩🇪 کانفیگ تلگرام
 vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=lv.2138937.xyz#@CaV2ray ⚡️
 vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=lv.2138937.xyz#📦@FreakConfig
-vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&encryption=none&type=ws&host=c1c569fc.irani-eub.pages.dev&path=/?ed=2048&sni=c1c569fc.irani-eub.pages.dev&fp=chrome#Awlix_ir

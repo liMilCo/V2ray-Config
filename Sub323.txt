@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#@CanfigVip+🍕
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://05471638-53a5-4033-8d47-3716f2e7ddb9@subseven.iranfreedomserver.com:20340?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#ae_proxy
 vless://05471638-53a5-4033-8d47-3716f2e7ddb9@subseven.iranfreedomserver.com:20340?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=speedtest.net&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO | کانال ما 🫆
@@ -502,4 +503,3 @@ vless://18f59918-6f50-4e80-81f2-ba0ed6ed3a47@151.101.64.155:80?type=ws&path=/@Xp
 vless://19015e0f-a4c2-4af3-bfa5-773fb99b95bf@91.99.95.198:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@HiByeVPNN
 vless://196954c9-8836-49a3-8f97-861d1c455afb@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-oadni6wza
 vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&host=/?Bya_telegram_@JOKERRVPN&headerType=none&fp=chrome&spx=/Bya_telegram_@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=21181028b56c8702#@CaV2ray ⚡️
-vless://19859922-a02c-4f4c-a081-ee59535910f7@EXPRESSVPN_420.fastly80-3.hosting-ip.com:80?security=none&type=ws&headerType=&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&host=taxi.ir#🇩🇪@EXPRESSVPN_420 | جوین شو

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?security=&type=ws&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#@vipV2rayNGnp
 vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080?security=&type=ws&path=/@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools?ed=2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#✅@v2ray_configs_pools
 vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#@bored_vpn
 vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080?path=/@v2ray_configs_pools----@v2ray_configs_pools?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#✅@v2ray_configs_pools
@@ -502,4 +503,3 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&se
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@bored_vpn

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.170.56:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@AZARBAYJAB1
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede@v2xay-join-bede&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
@@ -502,4 +503,3 @@ vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?path=/?ed=2048&se
 vless://389134b2-25d4-4caf-88a7-25841f97b1a9@officiallythestateofpalestine.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/#🦥 Telegram: @SaghiVpnX
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@V2rayNG3
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&encryption=none&type=ws&host=jd.wxgqlfx.top&path=/?ed=2048&sni=jd.wxgqlfx.top&fp=chrome#mci-mtn🇬🇧[Awlix_ir]
-vless://38e6d66d-89b4-4a1a-b0fc-b8e8f2b510d9@nim.france-learns.ir:42535?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇩🇪🇮🇷@ai_duet

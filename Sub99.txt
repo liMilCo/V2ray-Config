@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=%2Ftel-%40v2ray_alpha%3D%3Fed%3D2560&security=tls&encryption=none&host=mmd-p9k.PagEs.Dev&fp=chrome&type=ws&sni=mmd-p9k.PagEs.Dev#
 vless://b8ea183a-0aa8-48e5-9e68-04c7cf9e5e3b@152.42.136.175:433?security=reality&encryption=none&pbk=njS5Tdx6sQV0zCwFACf1uikWDSud9HqjS03WvH3_YAg&headerType=none&fp=safari&spx=%2FVPN_WOLFI-VPN_WOLFI-VPN_WOLFI-VPN_WOLFI-VPN_WOLFI-VPN_WOLFI&type=tcp&flow=xtls-rprx-vision&sni=eur-lex.europa.eu&sid=82df26bf775f55#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#✅@v2ray_configs_pools
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?path=%2Fv2ray_configs_poolsTELEGRAM----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools----%40v2ray_configs_pools%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#✅@v2ray_configs_pools
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNiQHRyLnZwbnNwYXJ0YS5wcm8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4MS4xMTkuMzAuMjA6OTkw#%F0%9F%87%A8%F0%9F%87%B4CO-181.119.30.20-0275
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AzOC4xNjUuMjMzLjkzOjk4OQ==#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.93-0272
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxODUuMTg5LjE2MC45ODo2NDc1OQ==#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.98-0262
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOEA4MC45Mi4yMDQuMTA2OjkwOTc=#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-0276

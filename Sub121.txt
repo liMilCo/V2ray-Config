@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://243418d0-bf94-4710-8311-7507778a4cc2@168.119.184.138:25093?mode=gun&security=reality&encryption=none&pbk=Y6NKkoTdEh7XQpLP0NrLTpwEWyEyL3E7PouAC4ShTXY&fp=firefox&spx=%2F&type=grpc&serviceName=%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn-%40V_2rayngVpn&sni=joinv_2rayngvpn.v2rayvpn2.sbs&sid=48d69fd8#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40v2ray_inter%20%7C%208
 vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=%2Fwp-admin%3Fed%3D2048&security=none&encryption=none&host=getasa.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2ray_iran88%20%7C%209
 vmess://eyJ2IjoiMiIsImFkZCI6InRyMS5pcmFuei5tZSIsInBvcnQiOiI0NDMiLCJpZCI6IjExNDViOGYxLTcyYjktNGUzYy1hZWRlLTFiODg0ZjU2NTM3ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InRyMS5pcmFuei5tZSIsInRscyI6InRscyIsInBzIjoiXHUyNzU0IFhYIHwgXHVkODNkXHVkZDM0IHwgdm1lc3MgfCBAdjJyYXlfbiB8IDE5In0
 vless://8ae88ee2-2f11-46ad-8302-ba388712196a@discord.com:2053?encryption=none&type=ws&host=cdn.biglog.sbs&path=%2F&security=tls&sni=cdn.biglog.sbs&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40v2ray_reality_new%20%7C%208
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmb0tlcURPVjlOQ2lETU1XVGlET29R@62.60.216.61:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHBDakxLVWF1RGlPclBTSWt5bUV0@81.19.141.45:443#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg==@83.147.18.163:8388#%3E%3E%40ShadowsocksM%3A%3AGB
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80/?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%3E%3E%40ShadowsocksM%3A%3AUS
-trojan://telegram-id-privatevpns@3.68.174.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40PrivateVPNs%3A%3ADE

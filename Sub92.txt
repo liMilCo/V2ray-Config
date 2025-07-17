@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d6aa457d-8214-40d0-b5fe-3f7b551cb1c6@de.pixvpn.app:8443/?type=grpc&encryption=none&flow=&serviceName=grpc-jd&sni=jd.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=c13a37127db7ebd0#Telegram:@config_proxy 🔥
 vless://d6aa457d-8214-40d0-b5fe-3f7b551cb1c6@de.pixvpn.app:8443?encryption=none&security=reality&sni=jd.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=c13a37127db7ebd0&allowInsecure=1&type=grpc&authority=&serviceName=grpc-jd&mode=gun#✅@v2ray_configs_pools
 vless://d6acae1a-cc46-430d-a7ae-88571965c00b@193.24.103.12:35459?mode=gun&security=none&encryption=none&type=grpc&serviceName=Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-#@V2Ray_Rollyاختصاصی 100گیگ
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@162.159.152.2:443?path=/Telegram@V2ray_Alpha/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=vle.amclubsvip.dpdns.org&fp=chrome&type=ws&sni=vle.amclubsvip.dpdns.org#@CaV2ray ⚡️
@@ -502,4 +503,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc#☁️ @server_free2 ☁️
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 @AZARBAYJAB1☆USA
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?security=&type=grpc&encryption=none#ae_proxy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?type=grpc&mode=gun#@configMs

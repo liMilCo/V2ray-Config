@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram:@config_proxy 💦
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇲TM-@AZARBAYJAB1(GPRS)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=//v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0---v2rayng_free0&type=grpc#ae_proxy
@@ -502,4 +503,3 @@ vless://f27c4a6f-feb0-463b-b515-b97de9899be3@system.zdshop.ir:2095?path=/&securi
 vless://f27c4a6f-feb0-463b-b515-b97de9899be3@system.zdshop.ir:2095?path=/&security=none&encryption=none&host=tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlin-tadrisonlinCD1.spEeDGo.IR.&type=httpupgrade#@Filter_breaker_system.zdshop.ir
 vless://f27c4a6f-feb0-463b-b515-b97de9899be3@trgrns.vertalist.ir:7005?security=reality&encryption=none&pbk=BEgwKAxJOC_U3JNvu1psNSkcbSUL9p8g5nMEOtHY4Sc&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=c3537867431956f6#@Filter_breaker_trgrns.vertalist.ir
 vless://f27c4a6f-feb0-463b-b515-b97de9899be3@trgrns.vertalist.ir:7005?security=reality&encryption=none&pbk=BEgwKAxJOC_U3JNvu1psNSkcbSUL9p8g5nMEOtHY4Sc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=c3537867431956f6#@MARAMBASHI 🇧🇷🌀
-vless://f2806d75-82b6-4983-897e-29171592a589@viop.fast.hosting-ip.com:80?mode=auto&path=/abcd?ed=2048&security=&encryption=none&host=cdnfastlyyour-name.global.ssl.fastly.net&type=xhttp#@varn_Net

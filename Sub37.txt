@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&fp=chrome&type=ws&sni=profit.fullmargintraders.com#Telegram : @Mrsoulb 🏳🏴
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&encryption=none&host=profit.fullmargintraders.com&fp=chrome&type=ws&sni=profit.fullmargintraders.com#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://6f6e8f09-c1b3-48fd-ab00-18f921d875ef@104.21.36.57:443?type=ws&host=profit.fullmargintraders.com&path=/wsv/6f6e8f09-c1b3-48fd-ab00-18f921d875ef&security=tls&fp=chrome&sni=profit.fullmargintraders.com#Telegram : @CaptalVpn🏴‍☠️
 vless://6f78276b-ec7b-446f-a643-1c563224258a@speedtest.net:80?type=ws&host=befreewithus.com&path=/&security=none#Channel:@BeFreeWithUs
@@ -502,4 +503,3 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&enc
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#Telegram:@config_proxy 🔥
-vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇩🇪

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@Selinc
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@config_v2ray_vpn👈سرورهای‌
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@config_v2ray_vpn👈سرورهای‌ بیشتر
@@ -502,4 +503,3 @@ vless://42ab76bc-9e33-49f6-a999-d0a4398467d0@138.199.168.187:28153?mode=auto&pat
 vless://42ab76bc-9e33-49f6-a999-d0a4398467d0@138.199.168.187:28153?type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE&sid=b6f9&spx=/#MdVpnSec
 vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=/&security=none&encryption=none&type=ws#3@ai_duet
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=/?ed=2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛

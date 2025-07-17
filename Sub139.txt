@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@wWw.SpeedTest.Net:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@188.121.104.160:443?path=@bypass_filter/&security=tls&encryption=none&host=melli.srytmtqa.workers.dev&type=ws&sni=melli.srytmtqa.workers.dev#telegram+👉@bypass_filter👈
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@188.121.104.160:443?path=@bypass_filter/&security=tls&encryption=none&host=melli2.gwhgc.workers.dev&type=ws&sni=melli2.gwhgc.workers.dev#telegram+👉@bypass_filter👈
@@ -502,4 +503,3 @@ vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=/test
 vless://c6bd1c56-bc9e-4bd7-8247-e84f0c061b9d@7we2v1o4b1.the-dark-night.top:6585?security=none&encryption=none&headerType=http&type=tcp#Telegram : Prime_Verse
 vless://c6bd1c56-bc9e-4bd7-8247-e84f0c061b9d@7we2v1o4b1.the-dark-night.top:6987?security=none&encryption=none&headerType=http&type=tcp#Telegram : Prime_Verse
 vless://c6d3fbea-72d5-46c9-a6a1-1225ed8ff6f7@as6.irantls.com:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✔︎𝐜
-vless://c6d3fbea-72d5-46c9-a6a1-1225ed8ff6f7@as6.irantls.com:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree

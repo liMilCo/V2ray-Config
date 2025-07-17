@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?path=/?ed=2048&security=tls&encryption=none&host=jd.wxgqlfx.top&type=ws&sni=jd.wxgqlfx.top#@V2rayNG3
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@198.41.198.76:443?security=tls&encryption=none&type=ws&host=jd.wxgqlfx.top&path=/?ed=2048&sni=jd.wxgqlfx.top&fp=chrome#mci-mtn🇬🇧[Awlix_ir]
 vless://38e6d66d-89b4-4a1a-b0fc-b8e8f2b510d9@nim.france-learns.ir:42535?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇩🇪🇮🇷@ai_duet
 vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@gb01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#انگلیس 🇬🇧 @V2xay
@@ -502,4 +503,3 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.18.71.245:443?path=/Tel-@V2ray_
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.1.74:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-09.parastoo.dpdns.org&type=ws&sni=rayan-09.parastoo.dpdns.org#@AZARBAYJAB1
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.67.145.189:443?type=ws&host=rayan-08.parastoo.dpdns.org&path=/&security=tls&fp=chrome&sni=rayan-08.parastoo.dpdns.org#@configMs
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@alhilal.com:443?path=/@warp_city&security=tls&encryption=none&host=rayan-11.parastoo.dpdns.org&fp=chrome&type=ws&sni=rAyAn-11.PaRaStOo.dPdNs.oRg#@warp_city
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visa.com.br:443?path=/@warp_city&security=tls&encryption=none&host=rayan-09.parastoo.dpdns.org&fp=chrome&type=ws&sni=RayAN-09.pAraStOo.DpdNs.oRg#@MoneySeae عضو شو

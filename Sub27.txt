@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.149.12.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳#NL_speednode_0065
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.149.12.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#NL_speednode_0066
 vless://daf24a6d-2f78-4cab-867a-4da0f4c91cff@45.131.210.157:80?allowInsecure=0&sni=1224.j9q1xuv8.workers.dev&type=ws&host=1224.j9q1xuv8.workers.dev&path=/Telegram#NL_speednode_0067
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.131.6.124:2053?allowInsecure=0&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560fp=randomized&security=tls#NL_speednode_0068
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#@v2rayNGcloud🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#@varn_Net
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#Power🔥@antimeli-AllNet-🇸🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowdGNickgwR1FObUdKeEdNNWRrZURo@46.246.90.6:8443#Telegram : @Confingman🇸🇪

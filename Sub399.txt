@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#[🇹🇷]ae_proxy
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#آلمان 🇩🇪 @V2xay
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#🇨🇦𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
@@ -502,4 +503,3 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?security=none&type=ws
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=/?ed=2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.65.119:80?type=ws&host=edge.validbv3528.ir&path=/vless-ws/@Azarbayjab1@Azarbayjab1@Azarbayjab1@Azarbayjab1@Azarbayja1/?ed=2560#t.me/entryNET/config=1837882340294452
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
-vless://42fca25b-adcf-4b7f-a7e3-522ba1d16c87@151.101.69.69:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=none&encryption=none&host=joinbedeZEDMODEONyour-name.global.ssl.fastly.net&type=xhttp#آلمان 🇩🇪 @V2xay

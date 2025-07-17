@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080/?type=ws&encryption=none&flow=&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=/Telegram@Filter_breaker/?ed=2048#Telegram:@config_proxy 🔥
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080?path=/Telegram@Filter_breaker/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@HiByeVPNN ❤️‍🔥🌋🔥چنل تلگرام جوین شو
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080?path=/Telegram@Filter_breaker/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@vasl_bashim
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080?path=/Telegram@Filter_breaker/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@vipV2rayNGnp
@@ -502,4 +503,3 @@ vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.24.248.141:80?path=/Barayeiranm
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@G0Dv2ray
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@Selinc
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@V2RAYNG_1378
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@bad_raqs

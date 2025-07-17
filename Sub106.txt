@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#@CanfigVip+🍕
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#Channel : @CaptalVpn 🏴
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#Channel@vmessorg
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
@@ -502,4 +503,3 @@ vless://2dc62e43-90f5-4d72-815b-c64b40d19088@194.182.79.72:32826?mode=gun&securi
 vless://2dc62e43-90f5-4d72-815b-c64b40d19088@194.182.79.72:32826?mode=gun&security=reality&encryption=none&pbk=viVxJfUpCBYia6ZwmuHkuS19C1ARC3OCaaRG9VvOIhg&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&sni=sourceforge.net&sid=e8f24f79#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://2dc62e43-90f5-4d72-815b-c64b40d19088@194.182.79.72:32826?mode=gun&security=reality&encryption=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&pbk=viVxJfUpCBYia6ZwmuHkuS19C1ARC3OCaaRG9VvOIhg&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&sni=sourceforge.net&sid=e8f24f79#@bored_vpn
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?security=&type=ws&path=/&encryption=none#@awlix_ir
-vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=/Zjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#@Filter_breaker-US

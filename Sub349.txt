@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://212f3cb2-7bac-4321-a0a8-3a10896290fe@dl.soundhub.me:7000?security=reality&encryption=none&pbk=ioE61VC3V30U7IdRmQ3bjhOq2ij9tPhVIgAD4JZ4YRY&headerType=none&fp=chrome&type=tcp&sni=www.unpkg.com&sid=0b5922be64fc5713#@Filter_breaker | Unknown
 vless://2141e98f-f729-406c-bd42-27e8eac45339@Ip2.yw5jk.org:80?mode=auto&path=/&security=none&encryption=none&host=hhoseeh.global.ssl.fastly.net&type=xhttp#All @FergalVpnMod
 vless://2145b240-0c69-4ed3-b363-ea9a5a6da3a4@185.92.183.58:17541?type=tcp&security=none#@vpnnewz کانال تلگرام
 vless://215520bc-6898-44bf-8198-02f8ffad6fd7@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=wreraservis.global.ssl.fastly.net&type=xhttp#hamrah1188
@@ -502,4 +503,3 @@ vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?security=none&encry
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@HiByeVPNN
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.51.186:80?type=tcp&path=/&host=zula.ir&headerType=http&security=none#✅@v2ray_configs_pools
 vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.53.13:1743?type=tcp&path=/&host=zula.ir&headerType=http&security=noneتعداد#✅@v2ray_configs_pools
-vless://31cebb90-917e-4bf4-9f2c-8ec4e35b286d@5.223.53.13:1743?type=tcp&path=/&host=zula.ir&headerType=http&security=noneتعدادتعداد#✅@v2ray_configs_pools

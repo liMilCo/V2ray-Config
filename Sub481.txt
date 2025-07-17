@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@Alfa_v2ray_ng 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#Telegram@ConfingV2RaayNG
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Alfa_v2ray_ng کانالمون 👽
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@HiByeVPNN🌀
@@ -502,4 +503,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?security=none&typ
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=/34COh9NCiin5SJMk?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@AblNet7 🌪️
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=/34COh9NCiin5SJMk?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@HIBYEVPNN
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=/34COh9NCiin5SJMk?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram@ramgamevpn
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=/34COh9NCiin5SJMk?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram@vpnserverrr

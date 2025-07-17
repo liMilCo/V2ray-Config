@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@Selinc
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@V2RAYNG_1378
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@bad_raqs
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#@Selinc
@@ -502,4 +503,3 @@ vless://ec184209-a546-4375-b77d-c6a567485d0b@s4.sariii.site:10242?security=none&
 vless://ec442af6-d565-4032-a37c-b60c7d4f3048@104.248.100.191:1286?security=none&type=tcp&host=speedtest.net&headerType=http#Telegram:@config_proxy 🔥
 vless://ec442af6-d565-4032-a37c-b60c7d4f3048@209.38.113.139:1286?type=tcp&host=speedtest.net&headerType=http#Telegram:@config_proxy 🔥
 vless://ec46cba7-458c-81b1-ade9-5471757087d1@cdn3.myandroidplus2.ir:2894?path=/&security=&encryption=none&host=bama.ir&type=ws#وصل شید و بروزرسانی اشتراک کنید
-vless://ec46cba7-458c-81b1-ade9-5471757087d1@cdn3.myandroidplus2.ir:2894?path=/&security=none&encryption=none&host=bama.ir&type=ws#وصل شید و بروزرسانی اشتراک کنید

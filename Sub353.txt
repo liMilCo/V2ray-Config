@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://6199b420-6037-4513-bb15-0e625ec393c2@91.149.254.149:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#@AblNet7 ⚡Финляндия 🇫🇮
 vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@GR.LoadBalance.LAT:9559?security=none&encryption=none&host=Journalofbigdata.springeropen.com&headerType=http&type=tcp#🇮🇷🇩🇪 وصل شید و بروزرسانی اشتراک کنید
 vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@RU.LoadBalance.LAT:1320?security=none&encryption=none&host=Journalofbigdata.springeropen.com&headerType=http&type=tcp#🇷🇺 وصل شید و بروزرسانی اشتراک کنید
 vless://61ea20dc-2022-4215-924c-99198157d0a7@85.133.249.58:29294?security=none&encryption=none&headerType=none&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
@@ -502,4 +503,3 @@ vless://7b1897d8-9509-4be7-97c4-e3ed44c77154@tunell-rezidental.az9x99.ir:2070?ty
 vless://7b1897d8-9509-4be7-97c4-e3ed44c77154@tunell.mov.soft98speedtest.ir:2080?type=tcp&headerType=http&host=http://SpaceNetwork.divarcdn.com&path=/&security=none#245 | ⚡️🇮🇷-IR  •  ES-🇪🇸-Saghi 🇪🇸
 vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087?path=/?ed=2560&security=tls&encryption=none&host=fandouhuayuan.pages.dev&type=ws&sni=fandouhuayuan.pages.dev#🔥@AblNet7 🇮🇷 نت ملی 🔥
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@XpnTeam 🇩🇪 کانفیگ تلگرام
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪Germany-@Filter_breaker

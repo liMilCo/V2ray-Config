@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&fp=chrome&type=ws&sni=tannaz.juveitaly.dpdns.org#@bad_raqs
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#@Selinc
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=/?ed=2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#@V2RAYNG_1378
 vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=&encryption=none&host=tgju.org&headerType=http&type=tcp#@varn_Net
@@ -502,4 +503,3 @@ vless://e9f0a1b2-c3d4-9012-5678-89abcdef0123@104.19.45.192:443?type=ws&encryptio
 vless://e9f0g1h2-9012-3abc-4def-567890abcdef@45.76.123.380:8443?security=tls&type=ws&path=/vless#@Filter_breaker | Singapore
 vless://e9f1a3c5-8f9a-1b2c-3d4e-6f5a7b8c9d0e@91.107.238.107:443?security=tls&sni=v2ray-config.sohala.uk&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands
 vless://eAA14Oaf-47Da-4201-A1E2-004833106835@www.speedtest.net:443/?type=ws&host=r2.saman.dpdns.org&path=/?ed=2540&security=tls&fp=chrome&sni=r2.saman.dpdns.org&alpn=h3,h2,http/1.1#@Filter_breaker | Netherlands
-vless://ea0fdf53-a676-4149-ec11-b727e921fb13@bmi.raheaiande.ir:1001?type=tcp&path=/&headerType=http&security=reality&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&fp=chrome&sni=ea.com&sid=c7bc4d&spx=/join_telegram-@vpnserverrr/join_telegram-@vpnserverrr+join_telegram-@vpnserverrr#@vpnserverrr جوین بده لنگ نمونی

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@varn_Net
 vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Filter_breaker-US
 vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram@ConfingV2RaayNG
 vless://0e979d5b-13ad-4d15-8cdc-d92fe1bb1f56@216.22.5.70:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -502,4 +503,3 @@ vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=realit
 vless://2345a78a-4900-4819-a11a-721c1fdd4b59@45.77.137.98:8880?mode=auto&path=/&security=reality&encryption=none&pbk=mlPSdTwmHcAaNeQICN46i7YauUB8WPdJXzp2vb_JXWQ&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=8b#@Capoit
 vless://2345a78a-4900-4819-a11a-721c1fdd4b59@45.77.137.98:8880?mode=auto&path=/&security=reality&encryption=none&pbk=mlPSdTwmHcAaNeQICN46i7YauUB8WPdJXzp2vb_JXWQ&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=8b#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://2345a78a-4900-4819-a11a-721c1fdd4b59@45.77.137.98:8880?mode=auto&path=/&security=reality&encryption=none&pbk=mlPSdTwmHcAaNeQICN46i7YauUB8WPdJXzp2vb_JXWQ&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=8b#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://237349a7-9bc4-4606-9cb0-244d35cddc64@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=none&encryption=none&host=zedmodeon237.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN

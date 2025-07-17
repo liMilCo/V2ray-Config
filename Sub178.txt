@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#@varn_Net
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?encryption=none&security=none&type=tcp&headerType=none#HiByeVPNN
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#@CanfigVip+🍕
@@ -502,4 +503,3 @@ vless://18722220-9249-0051-5849-e8a8f1f76424@158.178.212.171:25247?security=tls&
 vless://18722220-9249-0051-5849-e8a8f1f76424@162.159.243.107:443?security=tls&sni=ji.aapplees.com&type=grpc&serviceName=#Telegram:@config_proxy 🔥
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪 Germany 1
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
-vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay

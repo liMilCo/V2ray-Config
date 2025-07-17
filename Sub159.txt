@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=/&security=none&encryption=none&type=ws#@warp_city
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=/&security=none&encryption=none&type=ws#mobinnet/hamrah @ai_duet
 vless://5e251be5-4736-49ff-80cf-b41639949a4d@5.255.124.97:26066?path=/&security=none&encryption=none&type=ws#🇷🇺Russia-@Filter_breaker
 vless://5e2d1a2a-9570-4fd7-9d17-12d10bebd62d@78.157.44.169:5261?security=none&type=tcp&headerType=http#@Filter_breaker | Iran
@@ -502,4 +503,3 @@ vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@Moft_Vpn کانال
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@vasl_bashim
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
-vless://7813173f-3529-6446-940f-ef74acaa0aff@gbtunnel.adm-cll.ir:11005?security=reality&encryption=none&pbk=q_f43mbNxDk4iROMnRG1DJ2iquavtR5NAao5__KB_XI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=5f0e0fb6d23d14#@Selinc-@V2RAYNG_1378
