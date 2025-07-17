@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=/mmdhmrws&security=tls&encryption=none&host=638868951946670036.amsterdam-prx-dnraaal.info&type=ws&sni=638868951946670036.amsterdam-prx-dnraaal.info#Telegram+:+@Mrsoulb+🏳🏴
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?path=/mmdhmrws&security=tls&encryption=none&host=638868951946670036.amsterdam-prx-dnraaal.info&type=ws&sni=638868951946670036.amsterdam-prx-dnraaal.info#ae_proxy
+vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?type=ws&host=638868951946670036.amsterdam-prx-dnraaal.info&path=/mmdhmrws&security=tls&sni=638868951946670036.amsterdam-prx-dnraaal.info#@free_vpn02
+vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Capoit
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇫🇷@SimChin_iR جوین شید
@@ -499,7 +503,3 @@ vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=n
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-5.webnama.com.tr:4928?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇳🇱
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@warp_city
-vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&path=/@saeedtelcom?ed=2048&host=unitedkingdom.iranfastspeed.net&security=tls&fp=chrome&alpn=h2,http/1.1&sni=unitedkingdom.iranfastspeed.net#@CaV2ray ⚡️
-vless://d85090ca-3504-4a1e-8bb1-0c2ed3fc74b0@p1.3dfigures.ir:80?mode=auto&path=/v2raybluecrystal&security=reality&encryption=none&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&host=pouria.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=9fd097cb4d#🇺🇸 @Moft_Vpn کانال
-vless://d85090ca-3504-4a1e-8bb1-0c2ed3fc74b0@p1.3dfigures.ir:80?mode=auto&path=/v2raybluecrystal&security=reality&encryption=none&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&host=pouria.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=9fd097cb4d#🇺🇸 @server01012 کانال
-vless://d85090ca-3504-4a1e-8bb1-0c2ed3fc74b0@p1.3dfigures.ir:80?type=xhttp&path=/v2raybluecrystal&host=pouria.global.ssl.fastly.net&mode=auto&security=reality&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&fp=chrome&sni=journalofbigdata.springeropen.com&sid=9fd097cb4d&spx=/#@Alfa_v2ray_ng نت ملی 🇺🇸برای اتصال دائمی جوین شو

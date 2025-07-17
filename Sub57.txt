@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@Selinc
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@config_v2ray_vpn👈سرورهای‌
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@config_v2ray_vpn👈سرورهای‌ بیشتر
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@vasl_bashim
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#Dalton
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#HiByeVPNN
@@ -499,7 +503,3 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.101.76:80?security=none&type
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42fca25b-adcf-4b7f-a7e3-522ba1d16c87@151.101.69.69:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=none&encryption=none&host=joinbedeZEDMODEONyour-name.global.ssl.fastly.net&type=xhttp#آلمان 🇩🇪 @V2xay
 vless://430c0401-d924-415c-a340-bdfee623e7d0@Www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=aMAZED-Essay.oneeat.Co.&type=ws# vipV2rayNGnp
-vless://430c0401-d924-415c-a340-bdfee623e7d0@Www.speedtest.net:80?path=/?ed=2048&security=none&encryption=none&host=aMAZED-Essay.oneeat.Co.&type=ws#@V2ray1_Ng
-vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443?security=tls&sni=us.cishanjichang.me&fp=chrome&type=ws&path=/swordnewnewnew&host=us.cishanjichang.me&encryption=none#@awlix_ir
-vless://438f29a7-d37f-442a-b790-945efe41394e@mmdamin.5.dragonspeed.top:2619?security=none&type=tcp&headerType=http&host=refersion.com,fast.com,P30afzar.com&packetEncoding=xudp&encryption=none#@NetAccount
-vless://4391ee83-1a5b-488d-9b04-44b825b2137f@78.39.9.168:5151?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇬🇧@EXPRESSVPN_420
