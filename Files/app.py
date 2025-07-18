@@ -97,7 +97,6 @@ def main():
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
         "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link",
-        "https://v2.alicivil.workers.dev",
         "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed"
     ]
     dir_links = [
