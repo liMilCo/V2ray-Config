@@ -5,7 +5,7 @@ import binascii
 import os
 
 # Define a fixed timeout for HTTP requests
-TIMEOUT = 20  # seconds
+TIMEOUT = 15  # seconds
 
 # Define the fixed text for the initial configuration
 fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
