@@ -3,17 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#%3E%3E%40ShadowsocksM%3A%3ANL
-vless://43e99f82-3f83-49d6-a625-2d420f6aa317@www.speedtest.net:80?security=none&type=ws&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed%3D80&host=www.speedtest.net.c.1.avaacado.ir&packetEncoding=xudp&encryption=none#%3E%3E%40ShadowsocksM%3A%3ADE
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880/?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AUS
-vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080/?path=%2Fkhkdjhsd%3Fed%3D2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#%3E%3E%40ShadowsocksM%3A%3ANL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg==@ca.opensocks.site:8388#%3E%3E%40ShadowsocksM%3A%3ACA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPR1U1Wg==@ca.opensocks.site:1443#%3E%3E%40ShadowsocksM%3A%3ACA
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096/?path=%2F&security=tls&encryption=none&host=DcQu6VaQaY.vPbEtHoRvP002.iNfO&type=ws&sni=DcQu6VaQaY.vPbEtHoRvP002.iNfO#%3E%3E%40ShadowsocksM%3A%3ANL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880/?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVG5RZGdtMm1WSlFidVNDWG1SNVZj@81.19.141.45:443#%3E%3E%40ShadowsocksM%3A%3ADE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%3E%3E%40ShadowsocksM%3A%3AES
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpseVc0THVEV0pnSERBbkMzWkRadHNW@81.19.141.45:443#%3E%3E%40ShadowsocksM%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg==@uk.opensocks.site:1443#%3E%3E%40ShadowsocksM%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg==@83.147.18.163:8388#%3E%3E%40ShadowsocksM%3A%3AGB
@@ -503,3 +492,14 @@ hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:56704/?sni=dxob
 
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:44594/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
+hysteria2://f901861b-6491-450c-b500-606b2e921625@23.132.228.217:52281/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-3
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#Server-4
+
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJob3N0IjoiYWUtMS1zc3QubWVkaWNhbGRyZWFtLmlyIiwiaWQiOiIzMTMwMzEyMC0zMTMwLTQyMjAtYjUzNC0yMDM1MzQyMDMxMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoiUmF5YW4gLSBTU1QgLSBBRSAtIEkgLSDwn5KuIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5Ijoibm9uZSIsInNuaSI6ImFFLTEtc1N0Lm1FZGljYUxkcmVBbS5JciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
