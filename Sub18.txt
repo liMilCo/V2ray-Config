@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
-vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
-vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
-vless://d16407ba-e859-4a02-a15b-fa88b791ebae@193.5.44.197:2070?security=&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng سرورای بیشتر با سرعت خوب داخل چنل
 vless://d174050d-d8ed-4278-b2b7-35cc962dadc0@themob.amirtoqi.ir:11460?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=&encryption=none&type=ws#Channel id: @ShadowProxy66 🇨🇦
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=none&encryption=none&type=ws#@Merlin_ViP L8
@@ -202,6 +198,7 @@ vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?flow=xtls-rprx
 vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?security=reality&encryption=none&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=server-11769.prod.hosts.ooklaserver.net&sid=982264#@UCIRANIR
 vless://d70422cc-4f4a-4caa-b060-87fc836ee877@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=asjdfbnsjkbfskjdfb.com&type=xhttp#Telegram : Prime_Verse
 vless://d709ab3c-0346-4059-aaff-fcf76567ee93@h1d3.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#@ai_duet / @v2rayngsupbot
+vless://d71357cc-638a-0b8a-ac7d-dd580e294281@103.175.79.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&type=raw&headertype=none#Telegram:@config_proxy 🔥
 vless://d741cd4e-f631-4569-9a92-455901a4e34a@142.93.231.14:38116?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/#@EVAY_VPN🇳🇱
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?encryption=none&security=none&type=grpc#@awlix_ir
 vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?host=france24.com&type=tcp&security=none&encryption=none&headerType=http#@vmesskhodam
@@ -290,7 +287,6 @@ vless://dc13ded4-f5a6-781c-a168-6ec47b8a8579@151.101.128.223:80?security=none&ty
 vless://dc13ded4-f5a6-781c-a168-6ec47b8a8579@151.101.192.223:80?security=none&type=ws&host=xn--2b5aaaa.speedtest.net.dribbble.comapi.Ru.&path=/FastLy?ed=1024#Telegram:@config_proxy 🔥
 vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@146.190.17.238:59365?mode=gun&security=reality&encryption=none&authority=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#@HiByeVPNN❤️‍🔥🌋
 vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@146.190.17.238:59365?mode=gun&security=reality&encryption=none&authority=/JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#⁹𝗝𝗼𝗶𝗻➠@Alfa_v2ray_ng
-vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@146.190.17.238:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/&type=grpc&serviceName=t.me/entryNET&sni=cloudflare.com&sid=1e#t.me/entryNET/config=1838107132639082
 vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#Telegram: @FergalVpnMod 🇳🇱
 vless://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?mode=gun&security=reality&encryption=none&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/&type=grpc&serviceName=Telegram:@FergalVpnMod&sni=cloudflare.com&sid=1e#آلمان 🇩🇪 @V2xay
@@ -446,6 +442,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷TM-@AZARBAYJAB1(GPRS)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#@NetAccount
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&mode=gun&security=none#Telegram:@config_proxy 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=&encryption=none&type=grpc#@varn_Net
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@config_proxy 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
@@ -503,3 +500,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.56:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=&encryption=none&type=grpc#@varn_Net
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&type=grpc#@EmpireVpn7 🇫🇷 FR
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?security=none&encryption=none&type=grpc#Config🇫🇷@Do_itforyou
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&mode=gun&serviceName=&authority=#Config%25F0%259F%2587%25AB%25F0%259F%2587%25B7@Do_itforyou
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&mode=gun&serviceName=&authority=#Config%F0%9F%87%AB%F0%9F%87%B7@Do_itforyou
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&mode=gun&serviceName=&authority=#Config🇫🇷@Do_itforyou
