@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://8a9d20f7-21b5-4f31-a6bb-c93894388514@fin01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2ray_confing33
 vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?path=/?ed=2560&security=&encryption=none&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&type=ws#🔒 VL-WS-NONE 🏴‍☠️ NA-104.16.233.169:80@ff_kikor
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@104.26.6.89:8443?path=/&security=tls&encryption=none&host=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#Telegram 🆔️ff_kikor 😎
@@ -502,4 +503,3 @@ trojan://telegram-id-directvpn@18.197.77.20:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@63.176.8.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838003197441479
 trojan://telegram-id-privatevpns@18.197.77.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838000177611612
-trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&ws=1&wspath=/#t.me/entryNET/config=1838002763725269

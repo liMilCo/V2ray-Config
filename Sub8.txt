@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://24329cb2-7c78-41d8-93b8-2cc60344d254@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey  🇺🇸🇺🇸
 vless://2466eb01-4400-4281-9c1a-1cb96f9a5083@good.srvice.shop:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram+@vmessorg
 vless://2484153e-cdc0-4538-9d24-351de5c00d87@nl1vip.vnetplus.click:20054?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@varn_Net
 vless://2484153e-cdc0-4538-9d24-351de5c00d87@nl1vip.vnetplus.click:20054?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@confing_chanel
@@ -502,4 +503,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zan
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/original_pound
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram @v2rayng_fars
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🟢 @server_free2 🟢
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?sni=carlotta.shoorekeeper.cloudns.org&host=carlotta.shoorekeeper.cloudns.org&security=tls&path=/proxyip=zani.yaemiko.ggff.net&encryption=none&fp=chrome&alpn=http/1.1&type=ws#Channel :@vmesskhodam

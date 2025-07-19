@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#🟢 @server_free2 🟢
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?security=tls&encryption=none&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&sni=simorgh.hpcode.ir&fp=chrome#King_v2raay
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=@vpnserverrr_vpnserverrr_vpnserverrr&security=tls&fp=chrome&sni=simorgh.hpcode.ir#@FREE_VPN02-@FREE_VPN02
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&security=tls&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&host=simorgh.hpcode.ir&fp=chrome&sni=simorgh.hpcode.ir#🇸🇪|@V2BUX
@@ -502,4 +503,3 @@ vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@full.VIGIlantecOllecTIOn.shop:666?s
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:666?security=none&encryption=none&headerType=none&type=tcp#Telegram: @vizzpn-عضو کانال شو تا قطع نشی
 vless://ff8fffd7-3546-488b-a5f2-a74896da74a2@web.bandarhp.ir:666?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
 vless://ff9f6966-7892-4b6b-b54e-58ca6580c6ee@ab.iranlit.ir:14569?path=/www.fastvpn.com.live.skornorth.com.zula.ir?ed=2048&security=&encryption=none&type=ws#t.me/entryNET/config=1838092726849521
-vless://ff9f6966-7892-4b6b-b54e-58ca6580c6ee@ab.iranlit.ir:8880?security=&encryption=none&type=httpupgrade#Telegram:@config_proxy 🔥
