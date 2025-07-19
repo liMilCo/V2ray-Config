@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23000?allowInsecure=0&sni=73.yuanul.com#✅@v2ray_configs_pools
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23001?allowInsecure=0&sni=75.yuanul.com#✅@v2ray_configs_pools
+trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23006?allowInsecure=0&sni=84.yuanul.com#✅@v2ray_configs_pools
 trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23009?allowInsecure=0&sni=93.yuanul.com#✅@v2ray_configs_pools
 trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23014?allowInsecure=0&sni=101.yuanul.com#✅@v2ray_configs_pools
 trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23017?allowInsecure=0&sni=169.yuanul.com#✅@v2ray_configs_pools
@@ -499,7 +502,4 @@ vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?p
 vless://4603faec-ab2e-40dd-ac72-85b7b0ab390f@check-host.net:8080?path=%2F%3FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN&security=none&encryption=none&host=china.pwteam.ir&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2trayproxy%20%7C%2011
 vless://60882caa-4e74-42a2-be70-220755fc1551@104.19.173.68:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-olala.parvaneh.dpdns.org&type=ws&sni=rayan-olala.parvaneh.dpdns.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40vmess_ir%20%7C%2019
 vless://fbebc3cc-2d1a-4568-8d3c-3293d3ce4883@speedtest.net:80?mode=auto&path=%2Fzedping%3Fed%3D2650&security=none&encryption=none&host=Netherlands23.global.ssl.fastly.net&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40zedping%20%7C%200
-
-
-
 

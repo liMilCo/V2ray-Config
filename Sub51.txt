@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ef9b115b-3f25-43fe-ae7f-257759442edd@91.99.229.232:50222?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#✅@v2ray_configs_pools
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#t.me/entryNET/config=1837923863925402
+vless://f97c0600-b5c9-465d-9c14-34cfb8a6e9dc@217.18.90.91:443?security=none&type=tcp&host=neshan.org&headerType=http#t.me/entryNET/config=1837923296602182
 vless://fe37c7ee-0c20-420c-a847-06704e7949ab@31.41.35.82:8880?mode=gun&security=none&encryption=none&authority=en.wikipedia.org&type=grpc&serviceName=8880vless#t.me/entryNET/config=1837920532522435
 vless://fe37c7ee-0c20-420c-a847-06704e7949ab@31.41.35.82:8880?mode=gun&security=none&encryption=none&authority=en.wikipedia.org&type=grpc&serviceName=8880vless#t.me/entryNET/config=1837920532522930
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRlbGVncmFtIDogQEV6YWNjZXNzMSBTZXJ2ZXIgOiBGcmFuY2UiLA0KICAiYWRkIjogImVlMS5kYWFsbHlnb2xkLmNvbSIsDQogICJwb3J0IjogIjUyMjYyIiwNCiAgImlkIjogImFmNWEwZDBjLWM4OTgtNGE1MS1iYTZhLTQ3MTc5ZDQ4M2U0MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ
@@ -500,6 +503,3 @@ trojan://6a60356a-0875-40d9-81f3-3ef82cede767@ss.jpnlink.xyz:12205?allowInsecure
 trojan://6a60356a-0875-40d9-81f3-3ef82cede767@ss.jpnlink.xyz:12206?allowInsecure=0&sni=123.yuanul.com#✅@v2ray_configs_pools
 trojan://6a60356a-0875-40d9-81f3-3ef82cede767@ss.twplink.xyz:12104?allowInsecure=0&sni=108.yuanul.com#✅@v2ray_configs_pools
 trojan://6a60356a-0875-40d9-81f3-3ef82cede767@ss.twplink.xyz:12106?allowInsecure=0&sni=110.yuanul.com#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23000?allowInsecure=0&sni=73.yuanul.com#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23001?allowInsecure=0&sni=75.yuanul.com#✅@v2ray_configs_pools
-trojan://6a60356a-0875-40d9-81f3-3ef82cede767@tr.node1link.xyz:23006?allowInsecure=0&sni=84.yuanul.com#✅@v2ray_configs_pools
