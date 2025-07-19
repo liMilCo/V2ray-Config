@@ -68,7 +68,7 @@ def filter_for_protocols(data, protocols):
 
 # Create necessary directories if they don't exist
 def ensure_directories_exist():
-    output_folder = os.path.abspath(os.path.join(os.getcwd(), ".."))
+    output_folder = os.path.abspath(os.getcwd())
     base64_folder = os.path.join(output_folder, "Base64")
 
     if not os.path.exists(output_folder):
@@ -140,22 +140,22 @@ def main():
             os.remove(filename1)
 
     # Write merged configs to output file
-    with open(output_filename, "w") as f:
+    with open(output_filename, "w", encoding="utf-8") as f:
         f.write(fixed_text)
         for config in merged_configs:
             f.write(config + "\n")
 
     # Create base64 version of the main file
-    with open(output_filename, "r") as f:
+    with open(output_filename, "r", encoding="utf-8") as f:
         main_config_data = f.read()
     
     main_base64_filename = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
-    with open(main_base64_filename, "w") as f:
+    with open(main_base64_filename, "w", encoding="utf-8") as f:
         encoded_main_config = base64.b64encode(main_config_data.encode()).decode()
         f.write(encoded_main_config)
 
     # Split merged configs into smaller files (no more than 600 configs per file)
-    with open(output_filename, "r") as f:
+    with open(output_filename, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     num_lines = len(lines)
@@ -173,18 +173,18 @@ def main():
 """
 
         input_filename = os.path.join(output_folder, f"Sub{i + 1}.txt")
-        with open(input_filename, "w") as f:
+        with open(input_filename, "w", encoding="utf-8") as f:
             f.write(custom_fixed_text)
             start_index = i * max_lines_per_file
             end_index = min((i + 1) * max_lines_per_file, num_lines)
             for line in lines[start_index:end_index]:
                 f.write(line)
 
-        with open(input_filename, "r") as input_file:
+        with open(input_filename, "r", encoding="utf-8") as input_file:
             config_data = input_file.read()
         
         output_filename = os.path.join(base64_folder, f"Sub{i + 1}_base64.txt")
-        with open(output_filename, "w") as output_file:
+        with open(output_filename, "w", encoding="utf-8") as output_file:
             encoded_config = base64.b64encode(config_data.encode()).decode()
             output_file.write(encoded_config)
 
