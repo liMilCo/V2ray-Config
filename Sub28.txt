@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@V2RAYROZ
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@V2ray_confing33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDY3A1T3R6eDBRUzNPS3hwVWVwR2JL@45.144.54.33:34803#@V2ray_confing33
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpET0FEYVliT3h6YlhYQUlERVNkOFpt@45.144.54.33:34803#t.me/entryNET/config=1838040758833332
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZDQ1OE1GeENsdnZLUXA5Z1pIWU9X@23.177.185.63:49454#Telegram : @Confingman🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFN3JyYTdWd2xTeDg3U0xFc3FkMEd1@62.210.88.22:443#@MARAMBASHI ⭐️🎁
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSlFmRkZMMnJtMXNHMDVmUlIxN0ZN@154.205.147.68:8443#Telegram : @Confingman🇴🇲
@@ -455,6 +451,7 @@ vless://5a794c39-7d02-471b-b4f4-df91c7dd6a9f@151.101.3.8:80?type=xhttp&mode=auto
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#@freevpnn11_3
 vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=/&security=none&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#Telegram:@config_proxy 🔥
 vless://5bb2f5d4-8555-4638-90e7-462f59365517@nl7.fastlanehosting.ru:443?security=reality&encryption=none&pbk=pSnQPTV7975vhNh83dHdXEyvCJiiTqYxpDY638xy9SI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=marktplaats.nl&sid=9e#Telegram:@config_proxy 🔥
+vless://5bfa4f40-1b57-4feb-b33f-618f1370b3ea@104.18.58.47:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#@FreeConnection_VPN  با ۵۰ هزار تومان اشتراک اختصاصی بخر راحت شو
 vless://5c2ac2e3-388b-4e37-8ce4-1730c4cabb27@ipc.alirezaoshjelalbcsom.ir:2086?encryption=none&security=none&type=httpupgrade&host=swww.speedtest.net.&path=/www.adsl.tci.ir?ed=1024#HiByeVPNN
 vless://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80?path=/?ed=80&security=none&encryption=none&host=dizdiz.navidsports.ir.&type=ws#@V2ray_confing33
 vless://5cc4d358-6190-4818-bfc0-dc6af583529b@91.107.170.231:42370/?type=grpc&serviceName=@ZedBaz_vpn&authority=&security=reality&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&sni=yahoo.com&sid=479f4834&spx=/#@zedbaz_vpn
@@ -503,3 +500,6 @@ vless://6f9da396-2b23-4880-9a38-57de11db5630@www.speedtest.net:8443?security=tls
 vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@95.173.180.34:443?security=reality&flow=xtls-rprx-vision&sni=www.apple.com&type=tcp&fp=chrome&pbk=B5i03yc1WUTOQD8v_N0UrCUaR4AgMJ40rEl8tXUJY0g&sid=01b200e90e250221#Telegram:@config_proxy 🔥
 vless://70223017-0be8-4009-900a-0c44b58f1908@104.18.26.90:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.isvcloud1.ir.&type=ws#telegram-@ISVvpn
 vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?type=ws&path=/?#Telegram:@config_proxy 🔥
+vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/iqySBCJZh3v7AmTx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#@Daily_Configs
+vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=none&encryption=none&headerType=none&type=tcp#Telegram@ConfingV2RaayNG
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@104.239.72.78:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=/ProxyIP=ProxyIP.US.fxxk.dedyn.io#Telegram:@config_proxy 🔥
