@@ -68,7 +68,7 @@ def filter_for_protocols(data, protocols):
 
 # Create necessary directories if they don't exist
 def ensure_directories_exist():
-    output_folder = os.path.abspath(os.getcwd())
+    output_folder = os.path.abspath(os.path.join(os.getcwd(), ".."))
     base64_folder = os.path.join(output_folder, "Base64")
 
     if not os.path.exists(output_folder):
