@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.48:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#Telegram:@config_proxy 🔥
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.72:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#Telegram:@config_proxy 🔥
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.80:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#Telegram:@config_proxy 🔥
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.67.152:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev#t.me/entryNET/config=1838040573278453
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.152.113:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#Telegram:@config_proxy 🔥
+vless://ff072857-d08f-4fc9-a52e-30946d0926cd@162.159.152.150:2053?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#Telegram:@config_proxy 🔥
 vless://ff072857-d08f-4fc9-a52e-30946d0926cd@198.41.215.10:443?security=tls&sni=venom90.pages.dev&type=ws&host=venom90.pages.dev&allowInsecure=0#t.me/entryNET/config=1838046105199188
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#Telegram:@config_proxy 🔥
 vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=ipcloudflaretamiz.io&type=xhttp#@damshoop
@@ -497,9 +503,3 @@ vless://a8654b14-884c-4ab5-a6b6-fd7d8e69bd82@5.75.203.85:28028?security=reality&
 vless://a8654b14-884c-4ab5-a6b6-fd7d8e69bd82@5.75.203.85:28028?security=reality&sni=www.speedtest.net&type=tcp&path=/telegram@ph_onex-VpIi-21-pHOneX.www.speedtest.net.zula.ir.1.FoNexWallbeSTphOnex.cOM&headerType=http&fp=chrome&pbk=xXwGwJOlSUEvc17KLNCPDF1WtjxiMTUxQb8aaZIuCnI&sid=0a896646c2#t.me/entryNET/config=1838027991105932
 vless://ad133f5f-bd3e-416f-954e-f17a70700576@185.8.105.140:443?security=reality&sni=tgju.org&type=grpc&serviceName=@ELiV2RAY--@ELiV2RAY--@ELiV2RAY--@ELiV2RAY&fp=chrome&pbk=YVBg-Sj2ObrsZehr-ZsUZClEAAZ96NhVg54S0B42JhM&sid=1ca2fbc2f69a9912#Telegram:@config_proxy 🔥
 vless://b4a16d3b-e9ba-4d25-b81b-f2c2b4e6b744@151.101.66.219:80?security=none&type=ws&host=JOIN.vmessorg.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.vmessorg.DDNS1-IP.nEt&path=@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#Telegram:@config_proxy 🔥
-vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@104.21.74.191:2053?security=tls&sni=xcsa.ylks2024.us.kg&type=ws&host=xcsa.ylks2024.us.kg&path=/?ed=2048#Telegram:@config_proxy 🔥
-vless://baaaccb-caba-abac-bdca-aacababbccbc@127.0.0.1:8080?security=tls&type=tcp#t.me/entryNET/config=1838035158042916
-vless://bcaacab-baca-abac-adbc-bcbcaacbcaba@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1838036292446350
-vless://c1d22711-2adf-4ffa-a5d8-439e665bb951@45.131.6.205:80?type=ws#Telegram:@config_proxy 🔥
-vless://caa5b2fd-38df-4ab8-8a4b-744cb854d161@151.101.0.69:80?security=none&type=ws&host=div.delbar.dev&path=/?ed=2048#t.me/entryNET/config=1838036164684605
-vless://ccbbaaa-caab-abac-bdca-babbaacacccb@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1838034911389574
