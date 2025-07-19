@@ -55,20 +55,27 @@ def decode_dir_links(dir_links):
 def filter_for_protocols(data, protocols):
     filtered_data = []
     seen_configs = set()
-    for line in data:
-        line = line.strip()
-        if line.startswith('#') or not line:
-            # Always keep comment/metadata/empty lines
-            filtered_data.append(line)
-        elif any(protocol in line for protocol in protocols):
-            if line not in seen_configs:
-                filtered_data.append(line)
-                seen_configs.add(line)
+    
+    # Process each decoded content
+    for content in data:
+        if content and content.strip():  # Skip empty content
+            lines = content.strip().split('\n')
+            for line in lines:
+                line = line.strip()
+                if line.startswith('#') or not line:
+                    # Always keep comment/metadata/empty lines
+                    filtered_data.append(line)
+                elif any(protocol in line for protocol in protocols):
+                    if line not in seen_configs:
+                        filtered_data.append(line)
+                        seen_configs.add(line)
     return filtered_data
+
+
 
 # Create necessary directories if they don't exist
 def ensure_directories_exist():
-    output_folder = os.path.abspath(os.path.join(os.getcwd(), ".."))
+    output_folder = os.path.join(os.path.dirname(__file__), "..")
     base64_folder = os.path.join(output_folder, "Base64")
 
     if not os.path.exists(output_folder):
@@ -82,6 +89,30 @@ def ensure_directories_exist():
 def main():
     output_folder, base64_folder = ensure_directories_exist()  # Ensure directories are created
 
+    # Clean existing output files FIRST before processing
+    print("Cleaning existing files...")
+    output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
+    main_base64_filename = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
+    
+    if os.path.exists(output_filename):
+        os.remove(output_filename)
+        print(f"Removed: {output_filename}")
+    if os.path.exists(main_base64_filename):
+        os.remove(main_base64_filename)
+        print(f"Removed: {main_base64_filename}")
+
+    for i in range(1, 21):  # Clean Sub1.txt to Sub20.txt
+        filename = os.path.join(output_folder, f"Sub{i}.txt")
+        if os.path.exists(filename):
+            os.remove(filename)
+            print(f"Removed: {filename}")
+        filename_base64 = os.path.join(base64_folder, f"Sub{i}_base64.txt")
+        if os.path.exists(filename_base64):
+            os.remove(filename_base64)
+            print(f"Removed: {filename_base64}")
+
+    print("Starting to fetch and process configs...")
+    
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
         "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
@@ -116,36 +147,30 @@ def main():
         "https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt"
     ]
 
+    print("Fetching base64 encoded configs...")
     decoded_links = decode_links(links)
+    print(f"Decoded {len(decoded_links)} base64 sources")
+    
+    print("Fetching direct text configs...")
     decoded_dir_links = decode_dir_links(dir_links)
+    print(f"Decoded {len(decoded_dir_links)} direct text sources")
 
+    print("Combining and filtering configs...")
     combined_data = decoded_links + decoded_dir_links
     merged_configs = filter_for_protocols(combined_data, protocols)
-
-    # Clean existing output files
-    output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
-    filename1 = os.path.join(output_folder, "All_Configs_base64_Sub.txt")
-    
-    if os.path.exists(output_filename):
-        os.remove(output_filename)
-    if os.path.exists(filename1):
-        os.remove(filename1)
-
-    for i in range(20):
-        filename = os.path.join(output_folder, f"Sub{i}.txt")
-        if os.path.exists(filename):
-            os.remove(filename)
-        filename1 = os.path.join(base64_folder, f"Sub{i}_base64.txt")
-        if os.path.exists(filename1):
-            os.remove(filename1)
+    print(f"Found {len(merged_configs)} unique configs after filtering")
 
     # Write merged configs to output file
+    print("Writing main config file...")
+    output_filename = os.path.join(output_folder, "All_Configs_Sub.txt")
     with open(output_filename, "w", encoding="utf-8") as f:
         f.write(fixed_text)
         for config in merged_configs:
             f.write(config + "\n")
+    print(f"Main config file created: {output_filename}")
 
     # Create base64 version of the main file
+    print("Creating base64 version...")
     with open(output_filename, "r", encoding="utf-8") as f:
         main_config_data = f.read()
     
@@ -153,14 +178,17 @@ def main():
     with open(main_base64_filename, "w", encoding="utf-8") as f:
         encoded_main_config = base64.b64encode(main_config_data.encode()).decode()
         f.write(encoded_main_config)
+    print(f"Base64 config file created: {main_base64_filename}")
 
-    # Split merged configs into smaller files (no more than 600 configs per file)
+    # Split merged configs into smaller files (no more than 500 configs per file)
+    print("Creating split files...")
     with open(output_filename, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     num_lines = len(lines)
     max_lines_per_file = 500
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
+    print(f"Splitting into {num_files} files with max {max_lines_per_file} lines each")
 
     for i in range(num_files):
         profile_title = f"🆓 Git:barry-far | Sub{i+1} 🔥"
@@ -179,14 +207,24 @@ def main():
             end_index = min((i + 1) * max_lines_per_file, num_lines)
             for line in lines[start_index:end_index]:
                 f.write(line)
+        print(f"Created: Sub{i + 1}.txt")
 
         with open(input_filename, "r", encoding="utf-8") as input_file:
             config_data = input_file.read()
         
-        output_filename = os.path.join(base64_folder, f"Sub{i + 1}_base64.txt")
-        with open(output_filename, "w", encoding="utf-8") as output_file:
+        base64_output_filename = os.path.join(base64_folder, f"Sub{i + 1}_base64.txt")
+        with open(base64_output_filename, "w", encoding="utf-8") as output_file:
             encoded_config = base64.b64encode(config_data.encode()).decode()
             output_file.write(encoded_config)
+        print(f"Created: Sub{i + 1}_base64.txt")
+
+    print(f"\nProcess completed successfully!")
+    print(f"Total configs processed: {len(merged_configs)}")
+    print(f"Files created:")
+    print(f"  - All_Configs_Sub.txt")
+    print(f"  - All_Configs_base64_Sub.txt") 
+    print(f"  - {num_files} split files (Sub1.txt to Sub{num_files}.txt)")
+    print(f"  - {num_files} base64 split files (Sub1_base64.txt to Sub{num_files}_base64.txt)")
 
 if __name__ == "__main__":
     main()
