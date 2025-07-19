@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443?allowInsecure=0&sni=EeEeeD.459.pp.uA#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443?allowInsecure=0&sni=XxxxxXXXXXXxXf.wwW890604.Dpdns.orG#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?allowInsecure=0&sni=Rrr4.8906004.xYZ#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://74260628090146500@huge-turkey.shiner427.skin:443?allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B4%20_%E7%BA%A6%E6%97%A6
+trojan://a7b22c05-27fd-4a76-8896-2aebaf4cf3a1@104.21.30.167:443?allowInsecure=0&sni=TttTtTYU.2032.PP.UA#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
+trojan://74260628090146500@ample-koi.shiner427.skin:443?allowInsecure=0#%F0%9F%87%AE%F0%9F%87%B3%20_%E5%8D%B0%E5%BA%A6
+trojan://0cc6b4268dea0ba8@118.163.200.38:443?allowInsecure=0&sni=TG.WangCai2#_%E4%B8%AD%E5%9B%BD
+trojan://0cc6b4268dea0ba8@118.163.200.42:443?allowInsecure=0&sni=TG.WangCai2#_%E4%B8%AD%E5%9B%BD
 trojan://0cc6b4268dea0ba8@134.195.101.83:443?allowInsecure=0&sni=TG.WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20_%E7%BE%8E%E5%9B%BD
 trojan://3c4e10af98c30972@60.249.35.37:443?allowInsecure=0&sni=TG.WangCai2#_%E4%B8%AD%E5%9B%BD
 trojan://0cc6b4268dea0ba8@60.249.35.2:443?allowInsecure=0&sni=TG.WangCai2#_%E4%B8%AD%E5%9B%BD
@@ -495,11 +503,3 @@ vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#t.me/entryNET/config=1837935123922536
 vless://a520cac9-f99b-4d70-aa3e-02155a5c6b2c@104.21.112.1:80?security=none&type=ws&host=icy-recipe-a01e-esaa.o5sp7omnxkeh6xg4we.workers.dev&path=/?ed=2560#Telegram:@config_proxy 🔥
 vless://a520cac9-f99b-4d70-aa3e-02155a5c6b2c@104.21.112.1:80?security=none&type=ws&host=icy-recipe-a01e-esaa.o5sp7omnxkeh6xg4we.workers.dev&path=/?ed=2560#t.me/entryNET/config=1837937075336655
-vless://a5b00f0a-4c83-4e76-9eaa-75a7c6451017@www.speedtest.net:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=WWW.dollardoon.com&type=ws#Telegram:@config_proxy 🔥
-vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@146.190.17.238:25126?mode=gun&security=reality&encryption=none&authority=/v2ray_configs_poolsTELEGRAM----@v2ray_configs_pools&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&fp=chrome&spx=/v2ray_configs_poolsBIA_CHANEL@v2ray_configs_pools&type=grpc&serviceName=Telegram:@v2ray_configs_pools&sni=cloudflare.com&sid=1e#Telegram:@config_proxy 🔥
-vless://c09d51b8-25c5-4eaf-98bc-ef40c807de84@104.16.65.193:80?security=none&type=ws&host=dawn-mountain-d79f-ppal03.doniji1519.workers.dev&path=/?ed=2560#Telegram:@config_proxy 🔥
-vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=/gdsthjjjvfxsstyy؟ed=2083/@vpnserverrr_@vpnserverrr_@vpnserverrr_@vpnserverrr_@vpnserverrr_@vpnserverrr&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#Telegram:@config_proxy 🔥
-vless://c5ef3997-da1c-4ed3-91e3-f3253c1aeb48@104.21.112.1:2082?path=/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2082Telegram#Telegram:@config_proxy 🔥
-vless://c5ef3997-da1c-4ed3-91e3-f3253c1aeb48@104.21.112.1:2082?path=/d3d3LmlyYW5ob3N0LmNvbQ==?ed=2082Telegram#t.me/entryNET/config=1837936576212320
-vless://c8246a3c-8c97-44e1-b35b-8cc2a4cc63e4@www.speedtest.net:2086?path=/ApaRat.com?ed=2048&security=none&encryption=none&host=de-tacticalunit-aiops.websocketmowji.blog&type=httpupgrade#Telegram:@config_proxy 🔥
-vless://cc7cf5fb-25c2-48cf-a418-1bb8f7821605@142.132.227.65:443?security=&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837937892374080
