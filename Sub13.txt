@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2RAYNG_1378
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#📦@FreakConfig
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁷🇩🇪➣@CUSTOMVPNSERVER
@@ -70,6 +68,8 @@ vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=s
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🔥@AblNet7 🇮🇷 نت ملی 🔥
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?security=tls&sni=statue.lnmarketplace.net&alpn=h2&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
+vless://7c86af2f-8bbe-4afe-9bd6-00a9cc8e9d2c@37.27.208.13:9271?security=reality&sni=all.nanvaiiisaeed.ir&type=xhttp&fp=chrome&pbk=QGMkPioAeeQt2Qz3s7O-47YXRgxk5i_HztGKxTQ_5hU#Telegram:@config_proxy 🔥
+vless://7c86af2f-8bbe-4afe-9bd6-00a9cc8e9d2c@37.27.208.13:9271?security=reality&sni=all.nanvaiiisaeed.ir&type=xhttp&fp=chrome&pbk=QGMkPioAeeQt2Qz3s7O-47YXRgxk5i_HztGKxTQ_5hU#t.me/entryNET/config=1838164324050539
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?type=ws&host=my.ski1plag.ir&path=/download#✈️ @unlimiteddev-2
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:80?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@bored_vpn
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@Selinc&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@Selinc
