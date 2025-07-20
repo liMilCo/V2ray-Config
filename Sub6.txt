@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://f0g1h2i3-5678-9abc-def0-1234567890ab@104.21.25.410:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@Selinc
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@Viturey 🔒
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vipV2rayNGnp
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇬🇧@AZARBAYJAB1
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -500,6 +503,3 @@ vless://12957f24-e56b-420b-8c26-dc7a9c4daaf7@www.speedtest.net:80?path=/SkyrWYwB
 vless://12abfe74-adff-433c-b352-6250c76bed38@www.speedtest.net:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=arm1.dollardoon.com&type=httpupgrade#@v2rayfast_7❤️‍🔥
 vless://12ceade9-20f7-415c-9765-7b44ec39e7bc@85.133.201.22:2053?path=/qlJPWkdG5duY1xMy4RvQjdFiL&security=tls&alpn=http/1.1&encryption=none&host=ldpnuurz3.imamhassan.info&fp=chrome&type=ws&sni=ldpnuurz3.imamhassan.info#🔒 @Bluev2rayng 🇮🇷 IR
 vless://12e0ffe4-3b33-41d1-8d8e-89cb385885d0@a-configazad.shop:23244?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
-vless://12e0ffe4-3b33-41d1-8d8e-89cb385885d0@a-configazad.shop:23244?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Channel : @captalvpn 🏴🏳
-vless://133fe9ce-3f1f-41a1-a8ca-f74029adbab3@45.13.226.145:443?security=reality&encryption=none&pbk=RDRoXr6-GY3rNUvFHEMZJMl-Fm7oYaPz9QQ68638R3Q&headerType=none&fp=chrome&spx=/&type=tcp&sni=appsnetwork.ir&sid=ca46c7533eae#Telegram : @heragAbad 300 gig
-vless://1350c052-17ba-4232-b2f8-2a70e65f91f5@31.47.45.97:18811?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇮🇷2@Evay_vpn
