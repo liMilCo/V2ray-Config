@@ -16,6 +16,13 @@
 
 
 
+
+
+
+
+
+
+
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.243-0181
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%F0%9F%87%BA%F0%9F%87%B8US-37.19.198.160-0187
 vmess://ewogICAgImFkZCI6ICJhZ2hqZmJkZ25fY2RuLmhmaGZiLmhvbWVzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibWdjZG45LmhmaGZiLmhvbWVzIiwKICAgICJpZCI6ICJlMTVhYzNjZS02YTFhLTQxMmEtYWEwNy00YmM1MmRhYTU5MzUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbWFya2V0P2VkPTEwMjQiLAogICAgInBvcnQiOiAyMDUyLAogICAgInBzIjogIvCfj4FSRUxBWS0xMDQuMTkuOTUuNDYtMDk1MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -235,7 +242,6 @@ trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:53248?sni=www.baidu.com#
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:32765?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?#%E6%9C%AA%E7%9F%A5%2080.0KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:9141?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:41225?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#%E6%9C%AA%E7%9F%A52
@@ -497,9 +503,3 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&sni
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.22.14.132:8443?security=tls&sni=1-600g.hc1212.top&type=ws&host=1-600g.hc1212.top&fp=chrome#t.me/entryNET/config=1838023959582014
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.60:2053?security=tls&sni=1-600g.hc1212.top&type=ws&host=1-600g.hc1212.top&fp=chrome#Telegram:@config_proxy 🔥
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed=2560&fp=chrome#Telegram:@config_proxy 🔥
-vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?mode=gun&security=reality&encryption=none&authority=&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Telegram+:+@V2rayEnglish
-vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?mode=gun&security=reality&encryption=none&authority=&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Telegram:@config_proxy 🔥
-vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=t.me/entryNET&sni=zula.ir&sid=f3#Telegram:@config_proxy 🔥
-vless://5d535ed8-d5d1-4f34-82ef-03a0ec7a294c@104.21.96.1:443?security=tls&sni=PPaL03.jaYDeNN-decLyn.workERs.dEv&type=ws&host=ppAL03.JaYDeNN-Declyn.workErs.dev&path=/5QgGoPE3PEjYBFwG?ed=2560&fp=chrome&alpn=h2,http/1.1#t.me/entryNET/config=1838018235281072
-vless://5d71b518-9f52-414a-abf2-b806684233be@157.180.82.171:2087?security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#Telegram:@config_proxy 🔥
-vless://5daa5048-008f-4107-9c53-c27e2fd347f9@159.223.212.67:43517?security=&encryption=none&headerType=&type=tcp#Telegram:@config_proxy 🔥
