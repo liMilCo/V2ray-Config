@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://13ba7bac-350c-45c9-b5ac-dee16d7bb13b@freenet.mygoldiran.com:25079?type=grpc&mode=multi&security=reality&encryption=none&fp=chrome&spx=/netv2reyng&sni=netv2reyng.tgju.proxy.ir&sid=netv2reyng&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng#@netv2reyng
-vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@0ost.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#All @FergalVpnMod
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#All @FergalVpnMod
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#ترکیه 🇹🇷 @V2xay
 vless://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.94.69:443?type=ws&host=ddddvvbhy7.000890604.xyz&path=/WfxcqrR5ycVpIit2OdWk0KwirdY&security=tls&fp=chrome&sni=dDDDvvbHY7.000890604.xYz&alpn=http/1.1#@configMs
@@ -265,7 +263,6 @@ vless://1c3ff1f9-938e-4bec-99b1-47902ba50028@172.66.40.99:8080?path=/telegram-CO
 vless://1c3ff1f9-938e-4bec-99b1-47902ba50028@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080&security=none&encryption=none=ghalagyann2----@ghalagyann2----@ghalagyann2----@ghalagyann2----@ghalagyann2----@ghalagyann2----@ghalagyann2----@ghalagyann2----@ghalagyann2&host=shb-bkhir.motorphrotan.ir.&type=httpupgrade#[🇺🇸]@Alfa_v2ray_ng  👈کانال تلگرام ما
 vless://1c45f21e-8eb9-4431-9511-c7d29ac3f0f7@135.181.201.193:46698?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#فنلاند 🇫🇮 @V2xay
 vless://1c72fdec-75c1-41fa-a4ca-7bd4b0509140@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#Channel@vmessorg
-vless://1c808cce-3f2a-4f4a-b8fe-e99e06e258f4@h1d3.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#telegram:@bad_raqs
 vless://1c808cce-3f2a-4f4a-b8fe-e99e06e258f4@h1d4.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#tel:@bad_raqs
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2020?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:2020?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✅@FreakConfig
@@ -286,6 +283,7 @@ vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wiLd-bIRD.SEOtooLsforyOu.Co.UK:80?p
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#@varn_Net
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#@varn_Net     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#@varn_Net
 vless://1d17f2dc-7572-4869-afe2-379d3e1785c6@speedtest.net:80?mode=auto&path=/myoriol?ed=2053&security=none&encryption=none&host=germion.global.ssl.fastly.net&type=xhttp#Channel : @captalvpn 🏴🏳
+vless://1d17f2dc-7572-4869-afe2-379d3e1785c6@speedtest.net:80?mode=auto&path=/myoriol?ed=2053&security=none&encryption=none&host=germion.global.ssl.fastly.net&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://1d29bd55-3bb2-4db6-9b50-5ebccf596c61@91.99.184.6:50433?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Filter_breaker-TR
 vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?security=none&encryption=none&headerType=none&type=tcp#[🌟]t.me/Asak_Vpn
@@ -342,7 +340,6 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.10
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#HiByeVPNN
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @Mrsoulb 🏳🏴
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram@ConfingV2RaayNG
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#ae_proxy
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#vipV2rayNGnp
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@EXPRESSVPN_420
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@HIBYEVPNN
@@ -429,6 +426,9 @@ vless://22f493aa-cab4-4040-bef1-c3a5d4418b3b@185.39.204.29:443?security=reality&
 vless://22f493aa-cab4-4040-bef1-c3a5d4418b3b@185.39.204.29:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=google.com#🇹🇷 | @External_Net
 vless://22facc17-dda1-4000-9b45-b56fee01ae6d@91.107.144.71:54250?security=reality&encryption=none&pbk=hqFjJmgoV9E8zs3YIpiOFOljQjYuskuJuWF3mzkBzh0&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=ce8a4a0afd73a293#@CaV2ray ⚡️
 vless://23396778-6b14-4504-819a-7d9149339794@n0.asmdns.net:2082?path=/?ed=2590&security=&encryption=none&host=n10.asmdns.net&type=ws#t.me/entryNET/config=1838150230146682
+vless://23396778-6b14-4504-819a-7d9149339794@n0.asmdns.net:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
+vless://23396778-6b14-4504-819a-7d9149339794@n0.asmdns.net:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#t.me/entryNET/config=1838159038179539
+vless://23396778-6b14-4504-819a-7d9149339794@n0.asmdns.net:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://2345a78a-4900-4819-a11a-721c1fdd4b59@45.77.137.98:8880?mode=auto&path=/&security=reality&encryption=none&pbk=mlPSdTwmHcAaNeQICN46i7YauUB8WPdJXzp2vb_JXWQ&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=8b#@Capoit
 vless://2345a78a-4900-4819-a11a-721c1fdd4b59@45.77.137.98:8880?mode=auto&path=/&security=reality&encryption=none&pbk=mlPSdTwmHcAaNeQICN46i7YauUB8WPdJXzp2vb_JXWQ&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=8b#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://2345a78a-4900-4819-a11a-721c1fdd4b59@45.77.137.98:8880?mode=auto&path=/&security=reality&encryption=none&pbk=mlPSdTwmHcAaNeQICN46i7YauUB8WPdJXzp2vb_JXWQ&fp=chrome&spx=/favicon.ico&type=xhttp&sni=cp7.cloudflare.com&sid=8b#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
