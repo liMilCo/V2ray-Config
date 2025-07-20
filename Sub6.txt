@@ -48,7 +48,7 @@ trojan://T9xcEjdUWx@62.60.176.240:36557?type=tcp&path=/@BORED_VPN@BORED_VPN@BORE
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#@V2ray1_Ng
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#Telegram : @EXPRESSVPN_420
 trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@18.162.188.231:40793?allowInsecure=1&sni=hk12.bilibili.com#t.me/entryNET/config=1838132805634656
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.250.49:49782?sni=jp12.bilibili.com&allowInsecure=1#t.me/entryNET/config=1838130474673810
+trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@43.198.108.18:40793?security=tls&sni=hk12.bilibili.com&type=tcp&allowInsecure=1#t.me/entryNET/config=1838146647294109
 trojan://abaccab-acba-abac-cbad-ccabbacabbac@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1838139726799716
 trojan://amclubs@103.160.204.1:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&host=tran.amclubstest.nyc.mn&type=ws&sni=tran.amclubstest.nyc.mn#@V2rayNG3
 trojan://auto@104.20.19.168:2083?path=/&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@V2rayNG3
@@ -119,7 +119,6 @@ trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&secur
 trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 trojan://s3t4u5v6-5678-9abc-def0-1234567890ab@104.21.25.500:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://t4u5v6w7-5678-9abc-def0-1234567890ab@104.21.25.510:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
-trojan://telegram-id-directvpn@15.157.235.10:22222?allowInsecure=1&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838131547883178
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-directvpn@35.181.120.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @Confing_chanel
 trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
@@ -131,6 +130,7 @@ trojan://telegram-id-privatevpns@13.39.238.208:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@13.49.211.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#⚜️Telegram@V2NET_IRAN
 trojan://telegram-id-privatevpns@13.50.149.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#👉🆔+@V2NET_IRAN
+trojan://telegram-id-privatevpns@18.156.59.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838147336856478
 trojan://telegram-id-privatevpns@18.199.233.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-privatevpns@35.181.120.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk @Confing_chanel
 trojan://telegram-id-privatevpns@35.181.18.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@MoneySeae عضو شو
@@ -229,7 +229,7 @@ vless://01cd26eb-4fb2-4d78-8028-4f962371329d@91.107.170.231:42370?security=reali
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?encryption=none&security=tls&sni=api.chandplus.com&type=tcp&headerType=none#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://01df2d23-7db7-432c-96d2-9ec8bb25fb0a@www.speedtest.net:8080?encryption=none&security=none&type=ws&host=www.digikala.com.google.com.roshd.ir.onlineshop.net.cloudshop.yahoo.com.blogfa.com.kanoon.ir.lms.iust.ac.ir.ViZZfraG.Ir.&path=/0dd8f4b7?ed=1024#Telegram: @vizzpn-جوین شو قطع نشی
 vless://01eaac5d-392b-49ce-da48-5267712b6b21@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
-vless://01ebaa8b-5c2f-41cb-9841-c76caf331767@5.202.6.243:1484?security=none&type=tcp&path=/&headerType=http#Telegram:@config_proxy 🔥
+vless://022404e1-6083-48e1-beee-9048dda539bc@151.101.130.228:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&type=ws&host=Cloud.majidpin.com&path=/?ed=1024&fp=chrome#Telegram:@config_proxy 🔥
 vless://0256f329-5015-4497-be29-ff9ead0537ac@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🟩 Telegram | @Green_WPN  ❌ Enable: No
 vless://02690c4d-fa55-4bbe-9703-10e027562bf2@91.107.180.100:45489?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=speedtest.net&headerType=http&type=tcp#آلمان 🇩🇪 @TEHRANARGO
 vless://02690c4d-fa55-4bbe-9703-10e027562bf2@91.107.180.100:45489?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
