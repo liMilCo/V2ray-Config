@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vmess://eyJhZGQiOiAiODYuMTA0Ljc0LjUxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJkMDM2YmY1ZC0wMTJlLTRmZDUtOTI5NC1jYzhhZDg3OWFlOGYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiQFJhRmFWMkJvdCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJASG9wZV9OZXQtam9pbi11cy1vbi1UZWxlZ3JhbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogInByaW1lci5pYmlsaWJpLmxpIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlNTg1MjM5My1jYTUyLTRjOTAtYTIzNy1kNjNjYmJiNTdmMjEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2ZhcmNyeT9lZD0yNTYwIiwgImhvc3QiOiAibG9raS5vcmFjbGUiLCAidGxzIjogInRscyJ9
 vless://c6ac1649-5dc5-4d45-8977-9805d639d30b@start.adsplustnet.com:80?path=%2Ftest%3Dtrue&security=none&encryption=none&host=d1.hetzner.com&type=ws#🇺🇸[openproxylist.com]
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?flow=&path=%2F&type=ws#🇩🇪[openproxylist.com]
 vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80?flow=&path=%2F&type=ws#🇩🇪[openproxylist.com]
@@ -501,5 +503,3 @@ vless://011d10db-1401-4573-b7b0-ba45ad4da4d4@104.17.147.22:2083?security=tls&sni
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.181.172:22224?type=ws&security=tls&path=/telegram-channel-v2ray_configs_pools&sni=trojan.burgerip.co.uk#[46931] - Telegram : @v2ray_configs_pools
 vless://05779a01-cc03-4959-a34f-3486eae4ef78@62.60.223.226:2020?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@HiByeVPNN🌀
 vless://0652d836-573c-4505-9617-fde1a595f14f@okamitamzimovahrat.ivy-net.ir:2080?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#@one_shop_official
-vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=&encryption=none&headerType=none&type=tcp#@one_shop_official
-vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=&encryption=none&headerType=none&type=tcp#@one_shop_official ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@one_shop_official ss:
