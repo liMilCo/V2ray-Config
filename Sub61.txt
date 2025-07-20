@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#Telegram:@config_proxy 🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#Telegram:@config_proxy 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#Telegram:@config_proxy 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#Telegram:@config_proxy 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#Telegram:@config_proxy 🔥
@@ -501,5 +503,3 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?sni=pqh36v4.hiddendom.shop&alpn=h2&mode=gun&type=grpc&security=tls&encryption=none#t.me/entryNET/config=1837889009621310
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443/?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Telegram:@config_proxy 🔥
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Telegram:@config_proxy 💦
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#Telegram:@config_proxy 🔥
-vless://404b8de8-9b5d-45c6-adfc-a8b8326b7676@142.132.227.65:31151?type=tcp&security=none#Telegram:@config_proxy 🔥
