@@ -158,6 +158,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 hysteria2://90ccd512-7978-48d0-8f14-5b44d60bb26c@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A58.84%20GB
 
 
@@ -292,6 +303,7 @@ ss://ewogICJ2IjogIjIiLAogICJwcyI6ICJAdm1lc3Nwcm90b2NvbCDZhdmC2LXYryDYp9i12YTbjCI
 ss://ewogICJ2IjogIjIiLAogICJwcyI6ICJAdm1lc3Nwcm90b2NvbCDZhdmC2LXYryDYp9i12YTbjCIsCiAgImFkZCI6ICI2NS4xMDkuMTk0LjEwNCIsCiAgInBvcnQiOiA1MjMwOSwKICAia…#Telegram:@config_proxy 🔥
 ss://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server1.game&type=xhttp#Telegram:@config_proxy 🔥
 trojan://0RiSuJPsug#v@104.21.43.168:443?path=/trTcwZRw8JC0TPp6d1?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#All Net ™ @confingam 📡
+vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&headerType=none&type=tcp#Finland 🇫🇮™ @confingam 📡
 vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=igap.net&headerType=none&type=tcp#Germany 🇩🇪™ @confingam 📡
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@140.238.212.95:443?security=tls&sni=dsb.ylks.us.kg&type=ws&host=dsb.ylks.us.kg&path=/?ed=2560#t.me/entryNET/config=1837893353493162
 vless://0ac2cfd0-9ff1-4b82-882b-8c651c464ae9@94.183.158.10:8083?path=/&security=none&encryption=none&type=ws#iran 🇮🇷™ @confingam 📡
@@ -314,6 +326,7 @@ vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@173.255.199.188:443/?encryption=non
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@InformeD-loCATiOn.SEOtooLsfoRyOU.cO.uk:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@45.159.219.96:443?path=/telegram@v2ray_configs_pools/?ed=2560&security=tls&encryption=none&host=configmr.pages.dev&fp=chrome&type=ws&sni=ConFIgmr.PaGeS.dEV#Germany 🇩🇪™ @confingam 📡
 vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#iran 🇮🇷™ @confingam 📡
 vless://788175d0-e62d-4d36-b5f7-0cc8651df08f@151.101.130.133:443?security=tls&sni=ergwork.web.unc.edu&type=ws&host=snappir.ir&path=ws/?ed=2052#Telegram:@config_proxy 🔥
@@ -381,19 +394,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=%2F%3Fed%
 vmess://eyJ2IjoiMiIsImFkZCI6InBhbmVsMy5pcHlhci5vcmciLCJwb3J0IjoiMzIwMTciLCJpZCI6ImMwY2NkZWI5LTc4NGMtNGQ2Ny1iOTA0LTIwZGNhYWM5OTAyYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIHwgXHVkODNkXHVkZDM0IHwgdm1lc3MgfCBAc2V6YXJfc2VjIHwgMiJ9
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40v2rayngrit%20%7C%2015
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?type=grpc&encryption=none&flow=#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2source%20%7C%2019
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
