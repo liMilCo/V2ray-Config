@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?path=/pBo4JI9ey63R7sN5?ed=2560/?Join_Bade_Channel@JOKERRVPN&security=tls&alpn=http/1.1&encryption=none&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=chrome&type=ws&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev#Telegram:@ 🔥
-vless://c106802e-577e-4dfd-ab45-c65d88af1ef9@104.16.98.3:2053?path=/pBo4JI9ey63R7sN5?ed=2560/?Join_Bade_Channel@JOKERRVPN&security=tls&encryption=none&alpn=http/1.1&host=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev&fp=chrome&type=ws&sni=0p9oj0annx3ywe408ctenbtw3mhacrc7.pages.dev#@CanfigVip+🍕
-vless://c14b2731-7db6-49ee-9271-b1efc56c2630@146.59.15.81:443?security=reality&encryption=none&type=tcp&path=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&sni=dl.google.com&sid=5bb805&fp=chrome&pbk=l8HS4g_h8xPWlhQm8hmj5ohKNMrMCBcoHSNBFij79Sk&headerType=none#Config🇵🇱@Do_itforyou
-vless://c2653dab-885e-47ca-b2eb-65837f4ed82d@2.fasttrade.blog:40665?path=/&security=none&encryption=none&type=ws#@warp_city 600
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&allowinsecure=0&type=ws&sni=teslakit1.pages.dev#@HIBYEVPNN
-vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&allowinsecure=0&type=ws&sni=teslakit1.pages.dev#@HiByeVPNN
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#@V2ray_confing33
 vless://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=teslakit1.pages.dev&type=ws&sni=teslakit1.pages.dev#🔗 Telegram : @Viturey 🔐
 vless://c3cbc7f0-4775-4493-a15e-1c3e7dbe07d5@151.101.242.172:80?mode=auto&path=/Beraghsa&security=none&encryption=none&host=MoenTechProxy.global.ssl.fastly.net&type=xhttp#HiByeVPNN
@@ -307,6 +301,7 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=%2F6TvG8D6Him
 vless://bf989dce-7af7-423b-a499-71da71cdcef1@de6rt.samsungmarketshop.ir:2083?mode=auto&path=%2Fapps%2FAndroid%2F%3Fed%3D80&security=reality&encryption=none&pbk=53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk&fp=firefox&spx=%2F&type=xhttp&sni=refersion.com&sid=aeba#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40canfing_vpn%20%7C%2019
 vless://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configtrapi%20%7C%2028
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVUVSaXl4dnJ6VEppNWtmdHg5ODBH@213.111.142.216:8443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40customvpnserver%20%7C%2027
+vless://08cca313-4f8b-4389-8fab-63684675d52b@www.parspack.com:8080?type=httpupgrade&path=%2FMdVpnSec%3Fed%3D2048%3DTelegram#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40darkma3ter24%20%7C%2013
 trojan://telegram-id-directvpn@13.37.64.205:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40directvpn%20%7C%2015
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?type=ws&path=%2F%3F%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40evay_vpn%20%7C%2019
 vless://3256d023-55cc-4a99-8713-98a21baa5a6a@172.66.40.99:8880?type=ws&path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D80&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.IR.&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40expressvpn_420%20%7C%2028
@@ -342,6 +337,7 @@ vmess://eyJhZGQiOiJtdG5uLnB5ZGFyc2hvcC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=%2F8WuhXm4QjK0L68Uf%3Fed%3D2560&security=tls&encryption=none&host=gghdfa.pages.dev&type=ws&sni=gghdfa.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40satellitenewspersian%20%7C%2012
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTUY0SmFzS3F4dTNOUGZ4RzFtT0Ri@45.151.72.141:8443#%F0%9F%87%AA%F0%9F%87%AA%20EE%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40shadowsockskeys%20%7C%2017
 vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=%2Ftel-%40v2ray_alpha%3D%3Fed%3D2560&security=tls&encryption=none&host=mmd-p9k.PagEs.Dev&fp=chrome&type=ws&sni=mmd-p9k.PagEs.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40summertimeus%20%7C%2013
+vless://9b76e072-4c99-459a-ba9d-53479a665110@gervip.midnight1.top:300?security=none&encryption=none&host=Uptvs.com%2Ctci.ir&headerType=http&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2aryng_vpn%20%7C%2011
 vless://28ec01eb-1683-4e4e-a766-4d6123350942@www.speedtest.net:80?type=ws&security=none&path=%2Fali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40v2pedia%20%7C%2015
 trojan://telegram-id-privatevpns@35.181.156.239:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40v2ray_extractor%20%7C%2019
 vmess://eyJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDI2ODQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIERFIHwgXHVkODNkXHVkZDM0IHwgdm1lc3MgfCBAdjJyYXlfZnJlZV9jb25mIHwgMTkifQ
@@ -502,4 +498,8 @@ hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiamg.688997.xyz:20157/?insec
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiarb.688997.xyz:20257/?insecure=1&sni=nexiarb.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E6%97%A5%E6%9C%AC
 
 hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
+
+hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A135.84%20GB
+
+hysteria2://3cc86fa4-cd3e-4c91-b87d-1d6dbf2f9c0e@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-08-18
 
