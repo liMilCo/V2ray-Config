@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@end.fast.hosting-ip.com:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-sadeq.global.ssl.fastly.net.&type=xhttp#@freevpnn11_7
-vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@end.fast.hosting-ip.com:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-sadeq.global.ssl.fastly.net.&type=xhttp#@freevpnn11کانال تلگرام ما  [🇳🇱]
 vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@irani.yousefbn.com:6969?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@freevpnn11_9
 vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@irani.yousefbn.com:6969?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@freevpnn11کانال تلگرام ما [🇮🇷]
 vless://1d7b8a06-5122-4d98-b31d-8887eabe78b3@irani.yousefbn.com:8585?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@freevpnn11_10
@@ -503,3 +501,5 @@ vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087?path=/?ed=2560&
 vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087?path=/?ed=2560&security=tls&encryption=none&host=fandouhuayuan.pages.dev&type=ws&sni=fandouhuayuan.pages.dev#🔥@AblNet7 🇮🇷 نت ملی 🔥
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@G0Dv2ray
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2RAYNG_1378
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁷🇩🇪➣@V2rayNGcloud
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁴🇩🇪➣@V2rayNGcloud
