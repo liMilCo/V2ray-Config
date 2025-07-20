@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiamg.688997.xyz:20157/?insecure=1&sni=nexiamg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E7%BE%8E%E5%9B%BD
+
 hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiarb.688997.xyz:20257/?insecure=1&sni=nexiarb.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E6%97%A5%E6%9C%AC
 
 hysteria2://250a274b-d8dd-4bb3-a4a6-79a596f4e5e3@nexiateq.688997.xyz:20957/?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%9C%9F%E8%80%B3%E5%85%B6
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.38:989#%F0%9F%87%B7%F0%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0272
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0294
 vmess://ewogICAgImFkZCI6ICJ3d3cubWV0ZXIubmV0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmxhemUtZ2VyLTI0OC5ibGF6ZWNsb3VkbWFpbi5zaXRlIiwKICAgICJpZCI6ICJjMjA4ZTBhZS02ZjZkLTQ3NDUtOTlkYS00NGE0NDc0NGM1MzAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3dzcnQ/ZWQ9MjU2MCIsCiAgICAicG9ydCI6IDIwODMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny43Mi4xNS0wOTQwIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#%F0%9F%87%AC%F0%9F%87%A7GB-4.158.64.101-0284
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#%F0%9F%87%B8%F0%9F%87%ACSG-188.166.220.70-0312
