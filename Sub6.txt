@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇬🇧@AZARBAYJAB1
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@Confingam&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Germany 🇩🇪™ @confingam 📡
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@V2RAYNG_1378&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@V2RAYNG_1378
@@ -502,4 +503,3 @@ vless://12e0ffe4-3b33-41d1-8d8e-89cb385885d0@a-configazad.shop:23244?security=no
 vless://133fe9ce-3f1f-41a1-a8ca-f74029adbab3@45.13.226.145:443?security=reality&encryption=none&pbk=RDRoXr6-GY3rNUvFHEMZJMl-Fm7oYaPz9QQ68638R3Q&headerType=none&fp=chrome&spx=/&type=tcp&sni=appsnetwork.ir&sid=ca46c7533eae#Telegram : @heragAbad 300 gig
 vless://1350c052-17ba-4232-b2f8-2a70e65f91f5@31.47.45.97:18811?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇮🇷2@Evay_vpn
 vless://13753795-cc6b-4110-83c9-5d11f5918508@85.198.9.139:8008?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#All🇩🇪@Rk_VPS
-vless://13ba7bac-350c-45c9-b5ac-dee16d7bb13b@freenet.mygoldiran.com:25079?type=grpc&mode=multi&security=reality&encryption=none&fp=chrome&spx=/netv2reyng&sni=netv2reyng.tgju.proxy.ir&sid=netv2reyng&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng#@netv2reyng

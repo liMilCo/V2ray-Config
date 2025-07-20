@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://13ba7bac-350c-45c9-b5ac-dee16d7bb13b@freenet.mygoldiran.com:25079?type=grpc&mode=multi&security=reality&encryption=none&fp=chrome&spx=/netv2reyng&sni=netv2reyng.tgju.proxy.ir&sid=netv2reyng&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng#@netv2reyng
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@0ost.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#All @FergalVpnMod
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#All @FergalVpnMod
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#ترکیه 🇹🇷 @V2xay
@@ -502,4 +503,3 @@ vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=/dQMN2VQLkaE
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=/dQMN2VQLkaE52qWD?ed=2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=chrome&type=ws&sni=ensHOLP-91s.pageS.DEv#@Selinc
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=/dQMN2VQLkaE52qWD?ed=2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=chrome&type=ws&sni=ensHOLP-91s.pageS.DEv#@V2RAYNG_1378
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=/dQMN2VQLkaE52qWD?ed=2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=chrome&type=ws&sni=ensHOLP-91s.pageS.DEv#@V2ray1_Ng
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?path=/dQMN2VQLkaE52qWD?ed=2560&security=tls&encryption=none&host=ensHOLP-91s.pageS.DEv&fp=chrome&type=ws&sni=ensHOLP-91s.pageS.DEv#Channel : @Mrsoulb 🏴🏳
