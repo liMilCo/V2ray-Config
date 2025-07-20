@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.26.11.144:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@188.114.98.120:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@188.114.99.115:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2ray_confing33
@@ -503,3 +502,4 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?path=/?ed=2560&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.199.168:8880?path=Telegram@WangCai2/?ed=2560&security=&encryption=none&host=kjgx.laoyoutiao.link&type=ws#Telegram:@config_proxy 🔥
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.100:8880?path=Telegram@WangCai2/?ed=2560&security=&encryption=none&host=kjgx.laoyoutiao.link&type=ws#Telegram:@config_proxy 🔥
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.110:8880?path=Telegram@WangCai2/?ed=2560&security=&encryption=none&host=kjgx.laoyoutiao.link&type=ws#Telegram:@config_proxy 🔥
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.168:8880?path=Telegram@WangCai2/?ed=2560&security=&encryption=none&host=kjgx.laoyoutiao.link&type=ws#Telegram:@config_proxy 🔥
