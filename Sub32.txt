@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🍃
+vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🍃
+vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#🍃
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.165.101:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%AD%F0%9F%87%B0HK%20%7C%20@v2ray_configs_pools``
 vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.246.60:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A8%F0%9F%87%BCCW%20%7C%20@v2ray_configs_pools`
 vless://d6aa457d-8214-40d0-b5fe-3f7b551cb1c6@de.pixvpn.app:8443?encryption=none&security=reality&sni=jd.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=c13a37127db7ebd0&allowInsecure=1&type=grpc&authority=&serviceName=grpc-jd&mode=gun#✅@v2ray_configs_pools`
@@ -192,6 +195,7 @@ vmess://eyJhZGQiOiIxODUuMTg5LjU4LjE5NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40NamiraNet%20%7C%2067
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QUNiRkQ3U1dtYlY3b0tYMGRqTXJa@77.83.246.74:443#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40argo_vpn1%20%7C%2012
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=%2FbDUGlAj9BFG7zebG%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40azarbayjab1%20%7C%208
+vless://08cca313-4f8b-4389-8fab-63684675d52b@www.parspack.com:8080?type=httpupgrade&path=%2FMdVpnSec%3Fed%3D2048%3DTelegram#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40darkma3ter24%20%7C%2013
 vmess://eyJhZGQiOiIxMDcuMTQ4LjE5Mi4xNTYiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDE5MTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIHwgXHVkODNkXHVkZDM0IHwgdm1lc3MgfCBAZGlhbW9uZHByb3h5dG0gfCAyIn0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNUg3QVRTaHVzSGhsaDdUYnM2QU5L@213.111.142.59:8443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40free1ss%20%7C%2015
 vless://211bdee3-b5dc-43d3-b2a5-3716359fc79c@194.182.79.250:52611?mode=gun&security=reality&encryption=none&pbk=d027uiA4v1a-8IWN8T1Tjgdw4aUVkxPhDX-2UpojtB8&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=27e90618#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40mowjproxy%20%7C%203
@@ -498,8 +502,4 @@ hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiaxg.688997.xyz:20057/?insec
 
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A697.42%20GB
-
-
-
-
 

@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.5.60:2053?security=tls&sni=1-600g.hc1212.top&type=ws&host=1-600g.hc1212.top&fp=chrome#Telegram:@config_proxy 🔥
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@172.67.161.104:443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/?ed=2560&fp=chrome#Telegram:@config_proxy 🔥
+vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?mode=gun&security=reality&encryption=none&authority=&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Telegram+:+@V2rayEnglish
+vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?mode=gun&security=reality&encryption=none&authority=&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Telegram:@config_proxy 🔥
 vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=t.me/entryNET&sni=zula.ir&sid=f3#Telegram:@config_proxy 🔥
 vless://5d535ed8-d5d1-4f34-82ef-03a0ec7a294c@104.21.96.1:443?security=tls&sni=PPaL03.jaYDeNN-decLyn.workERs.dEv&type=ws&host=ppAL03.JaYDeNN-Declyn.workErs.dev&path=/5QgGoPE3PEjYBFwG?ed=2560&fp=chrome&alpn=h2,http/1.1#t.me/entryNET/config=1838018235281072
 vless://5d71b518-9f52-414a-abf2-b806684233be@157.180.82.171:2087?security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#Telegram:@config_proxy 🔥
@@ -496,10 +500,6 @@ vless://ea84ab69-d252-5d9c-90cf-a654e24e389a@de-2-ssm.medicaldream.ir:443?securi
 
 
 vless://ef0febbb-ec5f-527d-8bbe-57c03afcd1ce@ru-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20RU%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-
-
-
-
 
 
 
