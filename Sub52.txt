@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://05779a01-cc03-4959-a34f-3486eae4ef78@62.60.223.226:2020?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@HiByeVPNN🌀
+vless://0652d836-573c-4505-9617-fde1a595f14f@okamitamzimovahrat.ivy-net.ir:2080?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#@one_shop_official
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=&encryption=none&headerType=none&type=tcp#@one_shop_official
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=&encryption=none&headerType=none&type=tcp#@one_shop_official ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@one_shop_official ss:
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#@one_shop_official
@@ -501,5 +503,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTIuMzYuMjcuOTQ6OTg5#%F0%9F%87%A9%F
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUUAyMTcuMzAuMTAuMTg6OTA2MA==#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-0281
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNiQHRyLnZwbnNwYXJ0YS5wcm86NTc0NTY=#%F0%9F%87%B9%F0%9F%87%B7TR-62.133.63.212-4910
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4MS4xMTkuMzAuMjA6OTkw#%F0%9F%87%A8%F0%9F%87%B4CO-181.119.30.20-0275
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AzOC4xNjUuMjMzLjkzOjk4OQ==#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.93-0272
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAxODUuMTg5LjE2MC45ODo2NDc1OQ==#%F0%9F%87%B9%F0%9F%87%BCTW-185.189.160.98-0262
