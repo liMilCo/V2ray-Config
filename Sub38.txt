@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://ceeb20b5-88b3-49e1-99f5-24e3ef634205@t1.pandu.lat:600?security=&encryption=none&host=refersion.com&headerType=http&type=tcp#t.me/entryNET/config=1838010500479027
 vless://ceeb20b5-88b3-49e1-99f5-24e3ef634205@t1.pandu.lat:600?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#t.me/entryNET/config=1838008230963947
 vless://cef149e8-73a9-4802-8f9e-a51edbdb6889@ro.dtmezon.com:49750?security=&encryption=none&headerType=none&type=tcp#@ff_kikor چنل تلگرام جوین شید
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=azadnet-7py.pages.dev&type=ws&sni=azadnet-7py.pages.dev#ae_proxy
@@ -502,4 +503,3 @@ vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.u
 vless://477f5c5d-57e6-4811-ba26-e67f071cae8b@r2.srk-mihan.xyz:443?encryption=none&security=reality&sni=alexa.com&fp=chrome&pbk=PwGy2n398PGn4h9GEBrCCk7T06jgYhbE03WVo8gbHW8&sid=78c9419570a7565d&spx=/&type=grpc#Telegram:@config_proxy 🔥
 vless://493b8245-a199-4688-848d-1a6d4f003e13@93.183.105.105:443/?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=0a6ba2716a409da6#Telegram:@config_proxy 🔥
 vless://493b8245-a199-4688-848d-1a6d4f003e13@93.183.105.105:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=0a6ba2716a409da6#t.me/entryNET/config=1837993257081170
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#t.me/entryNET/config=1837994263736715

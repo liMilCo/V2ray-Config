@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.166-0249
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.146-0259
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.131-0242
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.164-0256
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.110-0254
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.144-0261
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.235-0555
@@ -141,7 +137,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1Qdmt
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-5306
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#%F0%9F%87%BA%F0%9F%87%B8US-94.131.21.174-0394
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#%F0%9F%87%BA%F0%9F%87%B8US-94.131.21.174-0396
-vmess://ewogICAgImFkZCI6ICJ3d3cudnBzbG9vay5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJ3YXBrcDAxLjUyMDEzMTQuY2ZkIiwKICAgICJpZCI6ICI0OTkzZjE0ZS01ZjliLTQyNDktZGM0My05OWY0ZmRlYTg0YmUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvNDk5M2YxNGUiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE3Mi42Ny4xODAuMjI3LTA5MzkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.61.175:6379#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-5731
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.135:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-6022
 vmess://ewogICAgImFkZCI6ICIxMDMuMjUzLjI2LjIwIiwKICAgICJhaWQiOiA0LAogICAgImhvc3QiOiAiemVjamsuY29tIiwKICAgICJpZCI6ICJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HuPCfh6xTRy0xMDMuMjUzLjI2LjIwLTAyMTMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
@@ -503,3 +498,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%
 vmess://eyJhZGQiOiIyMTIuMTkyLjE1LjE3NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzkwZDRiZC1iYTBlLTRiODctODY1My1iMzNlYTJmM2U0ODMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIxIiwicHMiOiLwn4+GODZAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.26:8880/?type=ws&encryption=none&flow=&host=sk.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%8F%8681%40oneclickvpnkeys
 vmess://eyJhZGQiOiIzOC40Ny4xMjEuNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWY4YTRiYTYtNmU1ZS00NmEyLWIzZTctOTliNzY1ZjE0ZDczIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUyMSIsInBzIjoi8J+Phjc0QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#%F0%9F%8F%8677%40oneclickvpnkeys
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=G9j2KeHn0E.gItI5.oRg&type=ws&host=G9j2KeHn0E.gItI5.oRg&path=%2F#%40shadmanegi_vpn%F0%9F%91%88%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2Fconfig-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegraddseconfig-proxy-free--Telegram--config-pdeoxy-free--Telegram--config-proxy-free%3Fed%3D2560&security=none&encrypdkdkskn=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram+%3A+%40V2rayEnglish
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?path=%2Ftelegram%40v2ray_configs_pools%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=configmr.pages.dev&fp=randomized&type=ws&sni=ConFIgmr.PaGeS.dEV#✅@v2ray_configs_pools
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=%2FEtb1L6YUdZFZuTOr%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#%F0%9F%86%94%40kaanfing

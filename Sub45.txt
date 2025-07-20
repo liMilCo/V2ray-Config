@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?path=/&security=&encryption=none&type=ws#✅@v2ray_configs_pools
 vless://9c2e1da7-8e50-4899-ad69-ad0b52de696c@bos.lebasnoo.ir:80?mode=auto&path=/&security=&encryption=none&type=xhttp#✅@v2ray_configs_pools
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?path=/&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#☁️ @server_free2 ☁️
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#☁️ @server_free2 ☁️
@@ -484,7 +485,6 @@ hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiaxg.688997.xyz:20057/?insec
 
 
 hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A716.69%20GB
-
 
 
 

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://cabcaab-caab-baca-acbd-bbcaabbcacca@127.0.0.1:8080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?path=/khkdjhsd?ed=2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#t.me/entryNET/config=1837927699988436
 vless://d10fae09-dd50-4067-90cf-f3e09eb9c206@irtest.xiliservice.lol:80?security=none&encryption=nonkxksksiserType=none&type=tcp#t.me/entryNET/config=1837931600670907
 vless://d10fae09-dd50-4067-90cf-f3e09eb9c206@irtest.xiliservice.lol:80?security=nowww&encryption=nonkxksksiserType=none&type=tcp#t.me/entryNET/config=1837932546996980
@@ -502,4 +503,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?path=/V2RAYNG_F
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@one_shop_official
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.220.188:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&type=tcp&sni=147135001195.sec22org.com#@HiByeVPNN
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@vasl_bashim
-vless://ec0b89da-5898-46d5-804e-eb4836a2e6c6@joje.hamyarkettab.ir:47548?type=ws&path=/Ospskxjdjwkksskkkqksjsjjs?ed=2048&host=TgJu.Org.&security=tls&fp=chrome&alpn=h3,h2&sni=JoJe.HaMyArKeTtAb.Ir.#Telegram:@config_proxy 🔥

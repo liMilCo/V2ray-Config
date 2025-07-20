@@ -11,6 +11,7 @@
 
 
 
+
 hysteria2://76b6c695-3529-4ad8-a689-dfc6aec414e8@nexiaxg.688997.xyz:20057/?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A297.58%20GB
 
 
@@ -502,4 +503,3 @@ vless://97c4550f-8ecc-42fa-ae66-3b550c986cd2@aliakb3435.pages.dev:443?encryption
 vless://97c4550f-8ecc-42fa-ae66-3b550c986cd2@aliakb3435.pages.dev:443?encryption=none&security=tls&sni=aLiAkB3435.paGES.dEV&alpn=h2,http/1.1&fp=chrome&type=ws&host=aliakb3435.pages.dev&path=/تعداد#✅@v2ray_configs_pools
 vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?encryption=none&security=tls&sni=edt-f5k.pages.dev&fp=chrome&type=ws&host=edt-f5k.pages.dev&path=/#✅@v2ray_configs_pools
 vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?path=/?ed=2560&security=tls&encryption=none&host=edt-f5k.pages.dev&fp=chrome&type=ws&sni=edt-f5k.pages.dev#✅@v2ray_configs_pools
-vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?path=/&security=&encryption=none&type=ws#✅@v2ray_configs_pools

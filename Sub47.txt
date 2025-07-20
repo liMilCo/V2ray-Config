@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://41833031-8832-4eea-ae0c-784197692ef4@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024#Telegram:@config_proxy 🔥
 vless://41833031-8832-4eea-ae0c-784197692ef4@151.101.2.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?ed=1024@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi#Telegram:@config_proxy 🔥
 vless://43c1c980-fdd9-420b-a2f4-c0aa7dfccae8@151.101.130.133:443?security=tls&sni=live.theworldwidewolf.com&type=ws&host=vmesskhodam.com&path=/@Vmesskhodam/@Vmesskhodam/@Vmesskhodam/@Vmesskhodam/@Vmesskhodam/@Vmesskhodam/@Vmesskhodam/@Vmesskhodam/@Vmesskhodam?ed=2048#Telegram:@config_proxy 🔥
 vless://44ab0683-1a75-4859-88ce-ef9ffea53c91@172.67.195.126:8880?type=ws#Telegram:@config_proxy 🔥
@@ -502,4 +503,3 @@ vless://d4a49f13-a77a-4783-ac0f-7fdb9ab4deb0@45.142.214.75:443?security=reality&
 vless://d51963a2-cd73-4564-894c-bdbb91775900@104.18.14.19:2082?type=ws&host=wz1226.9si685h0.workers.dev&path=/?ed=2560#Telegram:@config_proxy 🔥
 vless://d65e3a57-d5f0-4294-886d-a36abb9cbc2c@free-gb.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#Telegram:@config_proxy 🔥
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#Telegram:@config_proxy 💦
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#t.me/entryNET/config=1837948335799092
