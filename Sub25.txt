@@ -4,18 +4,6 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E7%BE%8E%E5%9B%BD
-
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flymg.flylink.cyou:35210/?insecure=1&sni=flymg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E8%B7%9D%E7%A6%BB%E4%B8%8B%E6%AC%A1%E9%87%8D%E7%BD%AE%E5%89%A9%E4%BD%99%EF%BC%9A23%20%E5%A4%A9
-
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyrb.flylink.cyou:35300/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E6%97%A5%E6%9C%AC
-
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyxg.flylink.cyou:35290/?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E9%A6%99%E6%B8%AF1
-
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyxghy.flylink.cyou:35260/?insecure=1&sni=flyxghy.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E9%A6%99%E6%B8%AF
-
-hysteria2://cb36d691-0349-4d9a-a040-1e0b3dfb5c12@flyyg.flylink.cyou:35240/?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw%3D%3D#%E8%8B%B1%E5%9B%BD
-
 
 
 
@@ -55,7 +43,7 @@ vless://2f7fc700-07ef-4c83-9b56-c955773069f3@1750158741.tencentapp.cn:443?mode=m
 
 vless://2f7fc700-07ef-4c83-9b56-c955773069f3@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=uk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=uk1.loopycloudcfjiasucdn.pp.ua#%E8%8B%B1%E5%9B%BD%F0%9F%87%AC%F0%9F%87%A7-%E4%BC%A6%E6%95%A6-CDN+%7C+1x
 
-vless://2f7fc700-07ef-4c83-9b56-c955773069f3@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A96.44+GB
+vless://2f7fc700-07ef-4c83-9b56-c955773069f3@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A95.66+GB
 
 vless://2f7fc700-07ef-4c83-9b56-c955773069f3@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-18
 
@@ -119,7 +107,7 @@ vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=m
 
 vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=uk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=uk1.loopycloudcfjiasucdn.pp.ua#%E8%8B%B1%E5%9B%BD%F0%9F%87%AC%F0%9F%87%A7-%E4%BC%A6%E6%95%A6-CDN+%7C+1x
 
-vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A96.02+GB
+vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A93.97+GB
 
 vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-18
 
@@ -189,7 +177,7 @@ vless://92738d1a-01ab-40ea-b3cf-b1520be08a37@1750158741.tencentapp.cn:443?mode=m
 
 vless://92738d1a-01ab-40ea-b3cf-b1520be08a37@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=uk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=uk1.loopycloudcfjiasucdn.pp.ua#%E8%8B%B1%E5%9B%BD%F0%9F%87%AC%F0%9F%87%A7-%E4%BC%A6%E6%95%A6-CDN+%7C+1x
 
-vless://92738d1a-01ab-40ea-b3cf-b1520be08a37@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A96.92+GB
+vless://92738d1a-01ab-40ea-b3cf-b1520be08a37@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A95.1+GB
 
 vless://92738d1a-01ab-40ea-b3cf-b1520be08a37@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-18
 
@@ -267,7 +255,7 @@ vless://dd418ec5-d4d0-4bc8-aa24-10288873ab52@1750158741.tencentapp.cn:443?mode=m
 
 vless://dd418ec5-d4d0-4bc8-aa24-10288873ab52@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=uk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=uk1.loopycloudcfjiasucdn.pp.ua#%E8%8B%B1%E5%9B%BD%F0%9F%87%AC%F0%9F%87%A7-%E4%BC%A6%E6%95%A6-CDN+%7C+1x
 
-vless://dd418ec5-d4d0-4bc8-aa24-10288873ab52@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A96.91+GB
+vless://dd418ec5-d4d0-4bc8-aa24-10288873ab52@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A95.67+GB
 
 vless://dd418ec5-d4d0-4bc8-aa24-10288873ab52@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2025-09-18
 
@@ -503,3 +491,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.164:811#%F0%9F
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:806#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0143
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:800#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0142
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.136:808#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.136-0141
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:811#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0140
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.197.161.166:801#%F0%9F%87%B8%F0%9F%87%ACSG-217.197.161.166-0139
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0230
+vless://11111111-2222-1111-1111-111111111111@Everyday-VPN.Telegram-Channel:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#سرورها به ترتیب خلوت بودن از بالا به پایین مرتب شده اند:
+vless://764a13da-76a5-4bc0-a2c9-e2a02f62408f@[2a01:4f8:1c1b:7df::1]:443?encryption=none&security=reality&sni=gsmarena.com&serviceName=@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN,@Everyday_VPN&fp=chrome&pbk=AVesZ9rUbwnESVl0YSPs98oWmZbXlhDVjR4ssJAw6yw&sid=32d7a82d&spx=%2F&type=grpc#@Everyday_VPN | 01 🇩🇪⚡️
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc#Channel%20id%3A%20%40mobilesignal%20%F0%9F%87%BA%F0%9F%87%B8
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?security=tls&sni=abc.vpneee.top&type=ws&host=abc.vpneee.top&path=%2FYnqGMcAt%2F#🇺🇸[@rat_leak]
+vless://2fc97eb0-d9d2-4567-99bf-bb5f64b5d5e9@45.63.60.98:12188/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%F0%9F%AA%9099%40oneclickvpnkeys`
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?encryption=none&security=none&type=grpc#🔥Join+Telegram:@Farah_VPN🟣
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#%`برای
+vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443/?type=ws&encryption=none&flow=&host=F1.paRsa.fiLegEar-Sg.Me&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&allowInsecure=1#%F0%9F%A7%A255%40oneclickvpnkeys
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?type=ws&encryption=none&security=tls&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=/linkws?ed=2560&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#USA-76
