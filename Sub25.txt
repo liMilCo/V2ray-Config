@@ -4,6 +4,8 @@
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
 
+vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=nl1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=nl1.loopycloudcfjiasucdn.pp.ua#%E8%8D%B7%E5%85%B0%F0%9F%87%B3%F0%9F%87%B1-%E9%98%BF%E5%A7%86-CDN+%7C+1x
+
 vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=uk1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=uk1.loopycloudcfjiasucdn.pp.ua#%E8%8B%B1%E5%9B%BD%F0%9F%87%AC%F0%9F%87%A7-%E4%BC%A6%E6%95%A6-CDN+%7C+1x
 
 vless://5502ffe4-add4-4ad8-a7c8-2ba88e7c63d2@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A83.15+GB
@@ -501,5 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0365
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc=@93.152.207.167:443#%F0%9F%87%AB%F0%9F%87%AEFI-93.152.207.167-0292
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0324
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989#%F0%9F%87%BB%F0%9F%87%B3VN-103.163.218.2-0327
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.152-0350
