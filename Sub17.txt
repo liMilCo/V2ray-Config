@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://c8bc915f-ed9f-47dc-b0f2-fa8c1e2fa891@shop.vinamarketcenter.ir:443?type=tcp&security=reality&pbk=poDcpwVZJSZX08np96a_Ccgfd1I2zplLKPJHeYvZZRA&fp=chrome&sni=www.tgju.org&sid=34ebfd&spx=/&flow=xtls-rprx-vision#@FASTSHOVPN عضو شو
 vless://c8d0e2a4-3e4f-5a6b-7c8d-9e0f1a2b3c4d@45.138.160.99:443?security=tls&sni=v2ray.sohala.uk&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Germany
 vless://c8da575a-b3ab-4949-985c-d151335b5301@194.182.79.182:29706?mode=gun&security=reality&encryption=none&authority=&pbk=9EHYRTmUgCJodNs5L4wTxoxniVtvsXFonfQ1H72LqRQ&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=ef8dfc4f801d89#@icv2ray
 vless://c8da575a-b3ab-4949-985c-d151335b5301@194.182.79.182:29706?mode=gun&security=reality&encryption=none&authority=&pbk=9EHYRTmUgCJodNs5L4wTxoxniVtvsXFonfQ1H72LqRQ&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=ef8dfc4f801d89#@mehrosaboran
@@ -241,8 +240,10 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.p
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#All🇩🇪@Rk_VPS
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#Telegram+@vmessorg
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#hamrahaval(@vmesskhodam)
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/azadnet-7py.pages.dev/?ed=2560&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO | کانال ما 🫆
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#@Capoit
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#𝗝𝗼𝗶𝗻 ➠ @TEHRANARGO
 vless://d038293f-e9ca-4d2c-83a1-5a172407aa02@Fservice.teampluss.ir:2155?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
 vless://d03c7ee3-c854-4558-977a-440e421ad8da@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🇳🇱 Telegram | @Green_WPN
 vless://d03d2ff3-0b28-4c6b-bab5-4bfac274aa91@104.26.12.31:8080/?type=ws&encryption=none&flow=&host=0613.heweiyi.dpdns.org&path=/#Telegram:@config_proxy 🔥
@@ -450,6 +451,7 @@ vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@99823232.webnama.com.tr:1517?securi
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@99823232.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇩🇪 Germany 3
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@all32-vip.f-sub.com:2434?security=reality&type=tcp&headerType=none&path=&host=&sni=www.chess.com&fp=chrome&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&sid=#🇩🇪 Germany 5
 vless://d5be095e-4ec4-491a-aeb1-0f25d3cfab03@5.202.75.56:27956?security=none&encryption=none&headerType=none&type=tcp#@ev2rayy
+vless://d6143486-36c8-445b-b2b5-f3d389298f72@44.222.237.59:8080?security=reality&sni=api.openai.com&type=xhttp&host=api.openai.com&path=/&fp=chrome&pbk=yXtksaZJPAeCdqGkd9OzsufzBj9uGEOTOP4Dm9003GU&sid=721e34c7#Telegram:@config_proxy 🔥
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?mode=auto&path=/gftrdd?ed=2560&security=none&encryption=none&host=take3.global.ssl.fastly.net&type=xhttp#🌐𝚙𝚒𝚗𝚐: 202.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?mode=auto&path=/gftrdd?ed=2560&security=none&encryption=none&host=take4.global.ssl.fastly.net&type=xhttp#@G0Dv2ray
 vless://d62494a5-4feb-4422-9547-1050a907afa8@speedtestcustom.com:80?mode=auto&path=/gftrdd?ed=2560&security=none&encryption=none&host=take4.global.ssl.fastly.net&type=xhttp#@Selinc
@@ -501,5 +503,3 @@ vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-1.webnama.com.tr:3799?security=n
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-3.webnama.com.tr:1429?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🏴
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇺🇸
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-5.webnama.com.tr:4928?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇳🇱
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@warp_city
