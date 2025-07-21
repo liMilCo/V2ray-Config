@@ -6,8 +6,8 @@ import base64
 fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
 """
 
 
@@ -37,7 +37,7 @@ if os.path.exists(local_config_file):
         response_text = f.read()
 else:
     # Fallback to GitHub if local file doesn't exist
-    response_text = requests.get("https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt").text
+    response_text = requests.get("https://raw.githubusercontent.com/liMilCo/V2ray-config/main/All_Configs_Sub.txt").text
 
 for config in response_text.splitlines():
     if config.startswith("vmess"):
