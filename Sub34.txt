@@ -1,8 +1,9 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMzQg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+
 
 
 
@@ -502,4 +503,3 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJ
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#US3%2090.3KB%2Fs
 
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?insecure=0&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#Telegram%20%3A%20%40Ezaccess1%20Server%20%3A...
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000?insecure=0&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Telegram%20%3A%20%40Ezaccess1%20Server%20%3A...%20%231

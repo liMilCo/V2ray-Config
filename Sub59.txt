@@ -1,8 +1,9 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNTkg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+
 
 
 
@@ -502,4 +503,3 @@ vless://0498875d-3520-4883-a8be-821b5a89fedc@151.101.3.8:80?mode=auto&path=/&sec
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80/?type=ws&encryption=none&flow=&path=/#t.me/entryNET/config=1837896746239674
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#t.me/entryNET/config=1837894294027925
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.158.77:22224?type=ws&security=tls&path=/telegram-channel-v2ray_configs_pools&sni=trojan.burgerip.co.uk#Telegram:@config_proxy 🔥

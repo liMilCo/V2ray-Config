@@ -1,8 +1,9 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNDUg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+
 
 
 
@@ -502,4 +503,3 @@ vless://8b39daa8-01e0-4054-8271-0630cd517f10@194.182.79.64:14073/?mode=gun&secur
 vless://8d84e31c-75a2-4bb1-eca2-9e16c9c1c956@arman.bmsm.ir:42520?type=tcp&security=none#✅@v2ray_configs_pools
 vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram: @alfa_v2ray_ng
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=/telegram@/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=ggggr.pages.dev&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#🔗 Telegram : @Viturey 🔐
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?path=/?ed=2560&security=&encryption=none&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&type=ws#✅@v2ray_configs_pools

@@ -1,8 +1,9 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMzgg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+
 
 
 
@@ -502,4 +503,3 @@ vless://b7a8bf9d-0a31-438d-c8c5-c6e819cae0af@172.235.165.34:15738?type=tcp&path=
 vless://baaaccb-abac-caba-badc-cacbacbacabb@127.0.0.1:1080?security=tls&type=tcp#Telegram:@config_proxy 🔥
 vless://bddacae3-5a9f-4406-a650-52614396a2f0@104.21.43.168:443?path=/index.html?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#4/26 - @ff_kikor  [1]
 vless://bddacae3-5a9f-4406-a650-52614396a2f0@104.21.43.168:443?path=/index.html?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=s1.sUbUrl.OrG&fp=chrome&type=ws&sni=s1.sUbUrl.OrG#4/26 - @ff_kikor  [2]
-vless://bf64140e-70f0-4d20-8753-ad453e820ed5@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#Telegram:@config_proxy 🔥

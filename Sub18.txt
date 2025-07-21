@@ -1,8 +1,9 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViMTgg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://d578322a-266b-479d-9eda-f1b41324e721@199.232.8.123:80?path=/RsAMasAPMX5yb1YZ?ed=2560&security=none&encryption=none&host=IRANINGOAT2.IR&type=ws#@V2rayNG3
 vless://d57b2927-22af-450b-a34e-620321d7d27f@2.188.227.134:2070?type=tcp&security=none#𝑩𝒐𝒍𝑩𝒐𝒍𝑽𝑷𝑵90
 vless://d5922f30-1ff8-4974-9a58-2aafe660ec2a@www.speedtest.net.b.3.ubuntu-words.ir:80?path=/@custom_config&security=&encryption=none&type=ws#@bored_vpn
 vless://d5922f30-1ff8-4974-9a58-2aafe660ec2a@www.speedtest.net.b.3.ubuntu-words.ir:80?path=/@custom_config&security=none&encryption=none&type=ws#@custom_config (mtn)
@@ -502,4 +503,3 @@ vless://e23f8d6a-b596-489c-98ac-d0d2414a71f0@104.248.194.230:80?encryption=none&
 vless://e26f7c15-5805-4082-aa3c-91553d53cb03@62.60.159.205:443?path=/XRAYVPNHTTPUPGRADE&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=de1.blackismyfavorite.ir&fp=chrome&type=httpupgrade&sni=de1.blackismyfavorite.ir#Telegram: @ai_duet✅
 vless://e28cf77c-be33-4f99-be90-54b90994b4a8@activeservice.mispd.ir:443?security=reality&encryption=none&pbk=NVOzqrT9fAAQzV1t5AQQMgQ-Q4y_Szgyxe14qG3rMS0&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=16c0b704e4#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://e28cf77c-be33-4f99-be90-54b90994b4a8@activeservice.mispd.ir:443?security=reality&encryption=none&pbk=NVOzqrT9fAAQzV1t5AQQMgQ-Q4y_Szgyxe14qG3rMS0&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=16c0b704e4#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
-vless://e2a0b27d-1330-409e-876a-eacc7d833049@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#@bored_vpn

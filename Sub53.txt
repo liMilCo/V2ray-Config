@@ -1,8 +1,9 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNTMg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@one_shop_official
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=/?ed=2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@one_shop_official ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxak
 vless://d51963a2-cd73-4564-894c-bdbb91775900@104.18.14.19:8080?security=none&type=ws&host=wz1226.9si685h0.workers.dev&path=/?ed=2560#t.me/entryNET/config=1837927013588171
 vless://d672ec4f-afba-4f61-af09-eec872f97e99@23.227.60.7:443?security=tls&sni=test43.pages.dev&type=ws&host=test43.pages.dev&path=/#Telegram:@config_proxy 🔥
@@ -502,4 +503,3 @@ vless://14d7b46f-66f7-4778-898a-55f8b7c059bb@91.99.151.110:443?security=none&enc
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443/?type=tcp&encryption=none&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&security=reality&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#Telegram:@config_proxy 🔥
 vless://17034eef-9472-45cc-bca5-a71f90e36244@104.21.112.1:8080/?type=ws&encryption=none&flow=&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480#Telegram:@config_proxy 🔥
 vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080/?type=ws&encryption=none&flow=&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@vmessorg----@unlimiteddev----@unlimiteddev?ed=2480#Telegram:@config_proxy 🔥
-vless://17953b21-65ee-4b59-bf8f-6ebe90601e85@51.38.207.189:2082/?type=ws&encryption=none&flow=&host=refersion.com&path=/#Telegram:@config_proxy 🔥

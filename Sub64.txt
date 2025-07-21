@@ -1,8 +1,9 @@
 #profile-title: base64:8J+GkyBHaXQ6YmFycnktZmFyIHwgU3ViNjQg8J+UpQ==
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#support-url: https://github.com/barry-far/V2ray-config
-#profile-web-page-url: https://github.com/barry-far/V2ray-config
+#support-url: https://github.com/liMilCo/V2ray-config
+#profile-web-page-url: https://github.com/liMilCo/V2ray-config
+
 
 
 
@@ -502,4 +503,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#t.me/
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuTHdBbDNzdk5DQlB0RzlJMkZyVllJ@h110vpnus.outlinekeys.net:9483?type=tcp#Telegram
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#Telegram : @Confingman🍷4️⃣
 trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls&fp=chrome&type=tcp&allowInsecure=1#Telegram:@config_proxy 💦
-trojan://SSorg@154.211.8.152:2053?allowInsecure=1&sni=ssjj.esslh.filegear-sg.me#t.me/entryNET/config=1837879701355374
