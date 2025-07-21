@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#فرانسه 🇫🇷 @V2xay
+ss://YWVzLTEyOC1nY206bi85ajFqcTRkemhIRng1Vjc1dm5DaDBqSkh6UUxUMkxrTVN4OUROTU10QT0@89.191.225.131:18011?type=tcp#t.me/entryNET/config=1838253535385477
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵𝚙𝚒𝚗𝚐: 432.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵𝚙𝚒𝚗𝚐: 427.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -119,6 +121,7 @@ ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0
 ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0=@outoutline1.drinfoo.com:1443#@bored_vpn
 ss://YWVzLTI1Ni1nY206YW10YitDbTNEZWZKL3pkTHRhdnlCOTdIWEZEbGkvNmk4clFVa3RSWmRFcz0=@outoutline1.drinfoo.com:1443#انگلیس 🇬🇧 @V2xay
 ss://YWVzLTI1Ni1nY206YWU2Mjc5MjAxNjhjMWNjZQ==@185.22.154.123:20198?type=tcp#@configMs
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#t.me/entryNET/config=1838253729560469
 ss://YWVzLTI1Ni1nY206ZVVSQkg4T2l3N2N3dzdrSnc0MUtOY0tMQzhPZHdwWERqeW5DcEVVRFdNT2VXc096WHNPdXdwM0NnMWZEaUNNPQ==@134.199.199.253:8443#@warp_city
 ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@46.17.40.169:10161?type=tcp#@configMs
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.152:2375#@V2rayNG3
@@ -131,6 +134,8 @@ ss://YWVzLTI1Ni1nY206bFA4bVdna0JiWEBvdXRsaW5lLmNvbHN2cG4udG9wOjQyMzk3#@ColsVPN |
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.95:443#کانال+ما+در+تلگرام+@Asak_Vpn+🌟
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#@V2rayNG3
 ss://YWVzLTI1Ni1nY206dzdiQ3I4S0tMeW5DaHNPcVVzS0RRTUtidzRBMEZNS1ZETU8xdzVrcndyMVh3NHZDaUNkNkc4T2lOVkp2d3BGNA==@51.178.43.237:8443#@warp_city
+ss://bm9uZTphY2FhYmJjLWFiYWMtYmFhYy1kYWJjLWJiY2FjYmFhYmNhYw==@127.0.0.1:8080#[🏁]t.me/original_pound
+ss://bm9uZTphY2FhYmJjLWFiYWMtYmFhYy1kYWJjLWJiY2FjYmFhYmNhYw==@127.0.0.1:8080#t.me/entryNET/config=1838253660998629
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.unlimited.biz.id:443?encryption=none&type=ws&host=aio.unlimited.biz.id&path=/aioproxybot/129.150.49.58-18650&security=tls&sni=aio.unlimited.biz.id#@warp_city
 ss://bm9uZTpmMjgyYjg3OC04NzExLTQ1YTEtOGM2OS01NTY0MTcyMTIzYzE=@aio.xtradata.dpdns.org:80?encryption=none&type=ws&host=aio.xtradata.dpdns.org&path=/aioproxybot/129.150.49.58-18650&security=none&sni=aio.xtradata.dpdns.org#@warp_city
 ss://c7c8adf3-8508-4a4b-8ca2-7580c197c3fc@path.mashti.my:7893?security=reality&encryption=none&pbk=4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo&host=-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn-eLi_vpn&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🇹🇷 TR - @yeFozoL - @eLi_vpn
@@ -498,8 +503,3 @@ vless://04b2b6b2-73ba-4a61-baed-f606f3b78220@mci.dl101movis.ir:80?mode=auto&path
 vless://04b95b53-a8b6-4ffb-96ff-81bf6ac9f98e@real-all2.sdcards1.ir:8502?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&---CHANEL---PRUOXYI---CHANEL_PRUOXTI---CHANEL-PRUOXTI---CHANEL---PRUOXYIheaderType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e701a013553059ba#منبع کانفیگ رایگان چنل Pruoxyi@
 vless://04b95b53-a8b6-4ffb-96ff-81bf6ac9f98e@real-all2.sdcards1.ir:8502?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e701a013553059ba#منبع کانفیگ رایگان چنل Pruoxyi@
 vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.10.168:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Captalvpn 🏴🏳
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.10.168:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1838248063411491
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.10.168:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪🚀𝐅𝐫𝐞𝐞 𝐆𝐞𝐫𝐦𝐚𝐧 𝐜𝐨𝐧𝐟𝐢𝐠 | @𝐗𝐏𝐥𝐮𝐬_𝐯𝐩𝐧🚀🇩🇪
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.10.168:443?type=raw&security=none&headerType=http&host=zula.ir#🇩🇪|@V2BUX
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.147.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🛡️ @FreakConfig
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?host=zula.ir&type=tcp&security=&encryption=none&headerType=http#Telegram+:+@vmesskhodam
