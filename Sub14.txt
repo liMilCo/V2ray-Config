@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@G0Dv2ray
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@bored_vpn
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@vmesskhodam
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @@CaptalVpn 🏴🏳
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @Mrsoulb 🏴🏳
 vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel@vmessorg
@@ -500,6 +503,3 @@ vless://UnlimitedDev—Channel-688843@2.189.59.2:443?mode=gun&security=tls&encry
 vless://V2NETIRAN@www.speedtest.net:8080?path=/V2NETIRAN?ed=2048&security=none&encryption=none&host=V2NET-IRAN-NL-V2ray.lars1.nl&type=ws#🆔TELEGRAM⚔️@V2NET_IRAN
 vless://V2NET_IRAN@www.speedtest.net:8080?path=/V2NETIRAN?ed=2048&security=none&encryption=none&host=V2NET-IRAN-NL-V2ray.lars1.nl&type=ws#
 vless://V2NET_IRAN@www.speedtest.net:8080?path=/V2NETIRAN?ed=2048&security=none&encryption=none&host=V2NET-IRAN-NL-V2ray.lars1.nl&type=ws#🆔TELEGRAM⚔️@V2NET_IRAN
-vless://V2Net_iran@speed.cloudflare.com:8443?path=/V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN-V2NET-IRAN&security=tls&encryption=none&alpn=h2,http/1.1&host=v2net-iran-v2ray-nl.morgensport.nl&fp=chrome&type=ws&sni=v2net-iran-v2ray-nl.morgensport.nl#🆔@V2NET_IRAN
-vless://V2net_IRan@discord.com:8443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran,@V2net_iran&sni=v2net-iran-v2ray-nl.morgensport.nl#🆔TELEGRAM⚔️@V2NET_IRAN
-vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#@varn_Net

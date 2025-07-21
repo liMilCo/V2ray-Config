@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://186c95f5-9814-4082-83f8-948a426f5eac@www.speedtest.net:2096?mode=auto&path=/test?ed=2096&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=pars.stepson.ir&fp=chrome&type=xhttp&sni=pars.stepson.ir#@netv2reyng+🍕
+vless://18722220-9249-0051-5849-e8a8f1f76424@104.17.134.62:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&fp=chrome&type=grpc&serviceName=grpc&sni=hvxoo.metahkh.com#@V2rayNG3
+vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@configMs
 vless://188f1242-b0c0-4992-b480-1da44dae1700@freenet.vizzpn.shop.online.vizzfrag.ir:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#telegram: @vizzpn -  عضو کانال شو قطع نشی
@@ -500,6 +503,3 @@ vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?sec
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Germany 🇩🇪™ @confingam 📡
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Telegram @v2rayng_fars
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?type=tcp&security=none&encryption=none&host=netv2reyng.fast.proxy.ir&headerType=http#@netv2reyng
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@178.62.232.236:7594?type=grpc&mode=gun&serviceName=7594vless&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=dash.cloudflare.com&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🇳🇱@EVAY_VPN
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?type=grpc&mode=gun&serviceName=7594vless&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=dash.cloudflare.com&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🇩🇪@EVAY_VPN
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@213.142.133.172:7594?type=grpc&mode=gun&serviceName=7594vless&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=dash.cloudflare.com&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🇹🇷@EVAY_VPN

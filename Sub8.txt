@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@178.62.232.236:7594?type=grpc&mode=gun&serviceName=7594vless&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=dash.cloudflare.com&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🇳🇱@EVAY_VPN
+vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?type=grpc&mode=gun&serviceName=7594vless&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=dash.cloudflare.com&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🇩🇪@EVAY_VPN
+vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@213.142.133.172:7594?type=grpc&mode=gun&serviceName=7594vless&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=dash.cloudflare.com&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🇹🇷@EVAY_VPN
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=VLB1.owayoins.net&type=ws&sni=VLB1.owayoins.net#@V2rayNG3
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=lg2.nicolkidman.com&type=ws&sni=lg2.nicolkidman.com#@V2rayNG3
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?path=/&security=tls&encryption=none&alpn=http/1.1&host=u1.3mehdidom.net&type=ws&sni=u1.3mehdidom.net#@V2rayNG3
@@ -500,6 +503,3 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#@TEHRANARGO کانالمون ☃️
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@ShadowProxy66?ed&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@ShadowProxy66 🇨🇦
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@ff_kikor ?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Telegram : @Confingman🎈2️⃣
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@ff_kikor ?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Telegram : @Confingman🚸6️⃣
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@ff_kikor?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Telegram : @Confingman🚸5️⃣
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@ff_kikor?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Telegram:@Alfa_v2ray_ng 🔥
