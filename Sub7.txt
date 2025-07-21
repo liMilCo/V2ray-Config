@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://19b55d51-0506-4ae1-9583-97e279306905@62.60.153.55:14703?security=none&encryption=none&host=analytics.google.com&headerType=http&type=tcp#@V2rayNG3
 vless://19d13bed-b8c5-4443-920e-12f833fed576@104.21.47.147:8080?security=none&type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw594.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.Imgolden.space.&path=/Telegram@AZARBAYJAB1,Telegram@AZARBAYJAB1,Telegram,@AZARBAYJAB1#@Filter_breaker | United States
 vless://19d3e3cc-be48-4200-a27f-e107376385e7@speedtest.net:80?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=german.net&type=ws#AMINN.CONFING.ATOVPN
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#AMIN@ATOVPN
@@ -164,6 +163,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.10
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/proNG1&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@proNG1/parham929292
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=&type=ws&path=/193.123.81.105=443&host=zoomgov.vipren.biz.id&encryption=none#ae_proxy
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&encryption=none&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443#King_v2raay
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443#Telegram : @CaptalVpn🏴‍☠️
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443&security=none#@netv2reyng
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443&security=none#Channel : @CaptalVpn🏴‍☠️
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@G0DV2RAY
@@ -271,6 +271,7 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&secur
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&security=tls&encryption=none&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#azadiiivpn 🎀 mtn
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?type=ws&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&path=/&security=tls&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&alpn=h3h2#@configMs
+vless://24d10a08-b8a8-4bc7-8860-70439d42b0e8@151.101.194.133:443?security=tls&sni=live.wkrq.com&type=ws&host=FREE1-VPN.ORG&path=/@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn?ed=2048&fp=chrome&alpn=h3,h2,http/1.1#Telegram:@config_proxy 🔥
 vless://24d10a08-b8a8-4bc7-8860-70439d42b0e8@151.101.2.133:443?security=tls&sni=live.wkrq.com&type=ws&host=FREE1-VPN.ORG&path=/@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn------@free1_vpn?ed=2048&fp=chrome&alpn=h3,h2,http/1.1#Telegram:@config_proxy 🔥
 vless://24dd368a-1ce6-493b-a036-0f4d479f4540@151.101.3.8:80?type=xhttp&mode=auto&host=joindhhprooxy.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇩🇪 Telegram @SRCVPN
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#کانال+ما+در+تلگرام+@Asak_Vpn+🌟
@@ -284,7 +285,6 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@167.82.1.141:80?path=/?ed=2048&secu
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?path=/&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?path=/&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80?path=/&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
-vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80?path=/&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&headerType=http&host=divarcdn.com#@EVAY_VPN🇳🇱
 vless://255928a1-5b47-4e6d-b364-3c138dc9fffa@142.132.227.65:31151?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://255928a1-5b47-4e6d-b364-3c138dc9fffa@142.132.227.65:31151?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -432,7 +432,6 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/1QVex5p
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/1QVex5pL4u1tKIK6?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simOWeBSItESPeeDtESt.Ir#Telegram : @Alfa_v2ray_ng 🔥
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/1QVex5pL4u1tKIK6?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simOWeBSItESPeeDtESt.Ir#🌏@IM_SOON
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/1QVex5pL4u1tKIK6?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simOWeBSItESPeeDtESt.Ir#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/8DBpLq5GSEtdR3Da/MTM1LjE4MS4xNjguMzA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimOwEBSitEsPEEDtEst.ir#@Merlin_ViP 🇫🇮
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/DNosqlK7BxEXdZOf/OTQuMTc3LjguMTA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SIMowEBsitespeedTEst.ir#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/DyCbnyZlHofZ87LF/MTguMTcwLjc3LjE0OA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=siMowebsITESPeEdTEst.iR#@Merlin_ViP 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/F9Ngmzj1IMbW2Cyc/MTguMTgzLjE1OC4yMTE&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SiMOwEBsItESPEedTeSt.iR#Channel id: @ShadowProxy66 🇨🇦
@@ -459,6 +458,8 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?security=tls&
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?type=ws&security=tls&encryption=none&host=netv2reyng.simoweb.proxy.ir&sni=netv2reyng.simoweb.proxy.ir&fp=chrome&alpn=http/1.1&path=/netv2reyng/KFh3HO76VUQPJDgM#@netv2reyng
 vless://28e61570-789a-45d0-b3e7-b8511b49ab4e@p.paliss.ir:2070?security=none&type=tcp&headerType=http&path=/heu6FayCxmdp0097Cajz&host=#ae_proxy
 vless://28e61570-789a-45d0-b3e7-b8511b49ab4e@s.seyedshakan.ir:2080?security=none&type=tcp&headerType=http&path=/heu6FayCxmdp0097Cajz&host=#ae_proxy
+vless://28ee3483-7b41-428c-84f9-cee5f31d7ea8@panel-germany-7.subcenter.net:1007?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#Telegram:@config_proxy 🔥
+vless://28ee3483-7b41-428c-84f9-cee5f31d7ea8@panel-germany-7.subcenter.net:1007?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#t.me/entryNET/config=1838240782552630
 vless://28ee9a-a7e2-4b3b-ac93-5052dd7b53ac@91.107.180.100:45489?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#SOB!X SHOP 🚀-@SobyV2ray
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#All² @ghalagyann 🇮🇹
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#All¹ @ghalagyann 🇮🇹
@@ -484,7 +485,6 @@ vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@tr01-vlr01.tcp-reset-club.net:443?s
 vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@104.17.147.22:80?path=/?ed=2048&security=none&encryption=none&host=DECENt-ReFerEnCE.ZUlAir.oRG.&type=ws#WiFi-@SRCVPN-10
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?headerType=http&host=fast.com&path=/&security=none&type=tcp#-V2rayN5_3844011
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Channel : @Captalvpn 🏴🏳
-vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Channel-@vmesskhodam
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Germany 🇩🇪™ @confingam 📡
 vless://2a1c8a24-b17e-4dab-b2db-5d9c0c7013db@tunel-finland.katolvpn.sbs:2020?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Telegram @v2rayng_fars
