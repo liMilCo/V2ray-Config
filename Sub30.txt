@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.90.54.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&type=tcp&headerType=none#@Daily_Configs
-vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.90.54.161:443?security=reality&encryption=none&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=a4844ba7#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://a80ad445-853f-43e7-f56d-7d559ac4f3e8@104.24.196.20:2086?type=httpupgrade&path=@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=wwW.speedtesT.net.eLectrolUxxv.ir.&security=none#🇩🇪XPNTEAM   [CONFIGFREE]-etg51qesu
 vless://a812a015-a65b-4003-ac5f-266e141c6405@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048&host=Www.speedtest.net.developsp.ir.vegaskala.com.&encryption=none#🇩🇪@Shh_Proxy | All²
 vless://a83c693a-29da-4472-9da9-b0f4d04e42e5@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=chrome&spx=/join_telegram-@vpnserverrr/join_telegram-@vpnserverrr join_telegram-@vpnserverrr&type=tcp&sni=ea.com&sid=c7bc4d#Telegram:@ 🔥
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@vip.mosen1server.ir:80?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
@@ -503,3 +500,6 @@ vless://ffc13868-bc71-490e-84db-5722873cf0f5@46.31.76.3:80?type=xhttp&path=/pwpw
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?path=/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=www.dns-shop.ir&fp=chrome&type=ws&sni=www.dns-shop.ir#Telegram:@config_proxy 🔥
 vless://ffc3b524-acad-4f6e-8691-73fdce307cf9@185.146.173.18:443?sni=www.dns-shop.ir&host=www.dns-shop.ir&type=ws&security=tls&path=/?ed=2048&encryption=none#id-@vmesskhodam
 vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=ipcloudflaretamiz.io&type=xhttp#@damshoop
+vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed=2560&security=&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#@varn_Net
+vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed=2560&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#ae_proxy
+vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed=2560&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#itsproxy-1

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#@V2ray_confing33
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#Telegram:@config_proxy 💦
-ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#Telegram+:+@Mrsoulb+🏳🏴
 ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#☁️ @server_free2 ☁️
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#@varn_Net
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@vipV2rayNGnp
@@ -503,3 +500,6 @@ vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.
 vless://52f9a9c0-ae3e-400c-a5f2-0360025db51d@91.107.133.59:48883?type=tcp&headerType=none&security=reality&fp=chrome&sni=refersion.com&pbk=smZYwv5E-y4d4u5ovxQ8BYcfNE8gy3mkANAQzoWyBmI&sid=3518ea8cbd9317&spx=/#@V2ray_confing33
 vless://531585a6-862e-4c38-a37b-9fa3aac9cee3@68.183.178.241:443?security=tls&sni=m.youtube.com&type=tcp&alpn=h3,h2,http/1.1#Telegram:@config_proxy 🔥
 vless://531585a6-862e-4c38-a37b-9fa3aac9cee3@68.183.178.241:443?security=tls&sni=m.youtube.com&type=tcp&alpn=h3,h2,http/1.1#t.me/entryNET/config=1838044977964847
+vless://531bf100-1477-487c-a979-6adebf8f105f@129.151.204.91:443?security=tls&sni=vdb.bgm2024.us.kg&type=ws&host=vdb.bgm2024.us.kg&path=/?ed=2560&alpn=http/1.1#Telegram:@config_proxy 🔥
+vless://538d2e4a-a87e-4b00-b500-8d3e5788992b@prteam.darkping.net:2423?type=tcp&security=reality&pbk=hvvTFfsg9_5LBWXItwxD_F2C7FYytTisWOgqncU_BTs&fp=chrome&sni=tgju.org&sid=&spx=/join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config-join-to-@PersiaTMChannel-for-more-config#[🇩🇪]t.me/original_pound
+vless://53bcefcd-b841-4948-9f8e-bdc4e54835ef@51.75.95.162:54223?security=reality&encryption=none&pbk=j3G7PtRmjsVCJs-UspMz8q16vgIwlofPpQESiObxaRE&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=0de5c2dc9a48ba48#@Daily_Configs
