@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAwQDQ1LjE0NC40OC42Mzo1NzQ1Ng==#%F0%9F%87%B5%F0%9F%87%B1PL-45.144.48.63-0266
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzExQDEwNC4xNjcuMTk3LjI1OjU3NDU2#%F0%9F%87%BA%F0%9F%87%B8US-104.167.197.25-0311
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzc2MDgyYy05NWMzLTQ1MmUtODhlNC02YmI2YTVkYWFiNDFAZnJlZS1yZWxheS50MDEudGhlbWFycy50b3A6NDk5MDA=#%F0%9F%87%B9%F0%9F%87%BCTW-1.162.9.89-5047
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTZAMTAzLjE0OS4xODMuMTU0OjgzODg=#%F0%9F%87%AD%F0%9F%87%B0HK-103.149.183.154-5219
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7BISy0xLjY1LjIwMi4xNC01MDgyIiwKICAiYWRkIjogImJiOWJmYzIyLXN2YzFzMC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwKICAicG9ydCI6IDgwLAogICJpZCI6ICI1YWNjN2E3Yy1kN2VhLTExZWItODY3My1mMjNjOTE2NGNhNWQiLAogICJhaWQiOiAyLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogImJiOWJmYzIyLXN2YzFzMC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0=
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AzOC4xNjUuMjMzLjkzOjk4OQ==#%F0%9F%87%B5%F0%9F%87%BEPY-38.165.233.93-0291
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTIuMzYuMjcuOTQ6OTg5#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0293
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+HrfCfh7BISy0xLjY1LjIwMi4xNC01MDgzIiwKICAiYWRkIjogIjc2ZDlkYmY5LXN2YTc0MC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwKICAicG9ydCI6IDgwLAogICJpZCI6ICI1YWNjN2E3Yy1kN2VhLTExZWItODY3My1mMjNjOTE2NGNhNWQiLAogICJhaWQiOiAyLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogIjc2ZDlkYmY5LXN2YTc0MC1zemVnb2UtMTJoajguaGszLnA1cHYuY29tIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0=
-vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMC4xNjItMDY3MyIsCiAgImFkZCI6ICIxMDQuMjEuMjAuMTYyIiwKICAicG9ydCI6IDg0NDMsCiAgImlkIjogIjU3ZTU5NWU2LWVmNTQtNGUwZC1iOGRmLWU5NmRiOTYxMmI5OSIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsCiAgInBhdGgiOiAiL2hvcnNlbiIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4yMC4xNjItMDY3NSIsCiAgImFkZCI6ICJvcnZwczIuaG9yc2VubWEubmV0IiwKICAicG9ydCI6IDg0NDMsCiAgImlkIjogIjU3ZTU5NWU2LWVmNTQtNGUwZC1iOGRmLWU5NmRiOTYxMmI5OSIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsCiAgInBhdGgiOiAiL2hvcnNlbiIsCiAgInRscyI6IHRydWUsCiAgInNuaSI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZIQDIwNC4xMzYuMTAuMTE1OjE4NjY=#%F0%9F%87%A8%F0%9F%87%ADCH-204.136.10.115-0284
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTIuNzEuMjQ5Ljc4Ojk4OQ==#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0301
@@ -439,6 +430,9 @@ hysteria2://mItioklzVp@v2raybluecrystal-france.v2raybluecrystal2.dynv6.net:37804
 hysteria2://o753T2a9zD@v2raybluecrystal3.3dfigures.ir:18865?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal2
 hysteria2://o753T2a9zD@v2raybluecrystal3.3dfigures.ir:20675?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal
 hysteria2://o753T2a9zD@v2raybluecrystal3.3dfigures.ir:50757?fastopen=0&insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal3
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10145#@ev2rayy
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10147#@ev2rayy
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RnlHNkVsam9WZUR5QzZ2VUcxdUxqekQxcmtnWnM0NEd5RDVZNXNoSTY2ND06VDVNWElGazdYUCswaW9GOUJaci9TTjVVTjNJTnRoQ0hBNEFvUUk0UXpRMD0=@91.107.242.241:10149#@ev2rayy
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZHlUNXlESDhyZHM0UXhaQkhjV21tSjRHQVY0c0lEemlUdXBzcFVDQk01Yz06WktmY3M1cUVvckY2YUNITTVzRVRYK2hxL0J3WDhRcWJUL1A4cnYwQ3NJMD0=@92.112.20.50:25361#t.me/entryNET/config=1838041513458728
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0UWUyd096aUhHcE5QZVE1RERnbWQz@h110vpntr.outlinekeys.net:65262#ae_proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#🇫🇷FR   @AYMH19 کانال تلگرام
@@ -446,12 +440,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#موقت
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:48172#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@Academi_vpn²
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@V2RAYNG_1378
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#موقت
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#@HiByeVPNN❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I=@78.153.131.96:443#HiByeVPNN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NjAzZGU3ZDEyNDhhNzQxMWQ2OTdlMWEwZmI5ZTY5Mw==@157.180.33.125:62005#@AblNet7 🔌
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NjAzZGU3ZDEyNDhhNzQxMWQ2OTdlMWEwZmI5ZTY5Mw==@157.180.33.125:62005#@Empirvpn7🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#t.me/entryNET/config=1838047175817410
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#@V2ray_confing33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#@HiByeVPNN👈🩶
@@ -474,6 +468,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#@Capoit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#Telegram : @Mrsoulb 🏳🏴
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#Telegram : CaptalVpn🏴‍☠️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🇬🇧GB   @AYMH19 کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🎀 @server_free2 🎀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkhlTTY3d05mT3lGQk1WZVZNV3Zw@62.210.88.22:443#HiByeVPNN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Telegram : @Confingman🇺🇸
@@ -484,6 +479,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.207.175:443#@V2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@V2RAYNG_1378
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@V2ray1_Ng
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@shh_proxy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@shh_proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#All🇩🇪@Rk_VPS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#Telegram+:+@Mrsoulb+🏳🏴
@@ -503,3 +499,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@172.187.109.127:443#�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#@V2RAYNG_1378
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#@shh_proxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@4.159.229.11:443#@V2rayN5  5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#Bia_kanal_telegram_@freevpnn11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@freakconfig.usecharge.ir:443#Telegram+@vmessorg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@V2RAYROZ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@V2ray_confing33
