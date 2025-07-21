@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
+ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#@V2ray1_Ng
+ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#فرانسه 🇫🇷 @V2xay
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵𝚙𝚒𝚗𝚐: 432.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵𝚙𝚒𝚗𝚐: 427.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -19,6 +21,7 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@V2ray1_Ng
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#TELEGERAM : @PRUOXYI
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸𝚙𝚒𝚗𝚐: 290.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🛡️ @FreakConfig
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#🇺🇸𝚙𝚒𝚗𝚐: 311.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?type=tcp#@configMs
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#🇺🇸𝚙𝚒𝚗𝚐: 421.0 𝚖𝚜 - 𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
@@ -56,7 +59,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.251.195:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.1.125:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#@awlix_ir
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.141.184.102:443#t.me/entryNET/config=1838233621206626
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.229.219:989#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#@awlix_ir
@@ -90,6 +92,7 @@ ss://YWVzLTI1Ni1nY206Q0gxVU5URFlwbi9pQUg4TzFkTW12L0hzOGM0NlBVOUdYbkhyR3l0NFNXMD0
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg==@62.60.233.72:33155#@V2rayNG3
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg==@62.60.233.72:33155#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 ss://YWVzLTI1Ni1nY206QkhraHc3RENoa0I0d3AzRGhNS0NSOEtSRjBVakM4S2xDc0t5TjhLSU5jS0J3NFhEdGtUQ29zS2VPQkhDaHNPMg==@174.138.6.253:8443#@warp_city
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#t.me/entryNET/config=1838244937473446
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.176:5500#@V2rayNG3
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#@V2rayNG3
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#@awlix_ir
@@ -227,6 +230,7 @@ trojan://7fec5d9d-4a06-377f-9fc3-6c1fef6a7f4b@111.47.212.170:63985/?type=tcp&sec
 trojan://8222f4cb-187b-42fa-a965-a4b84edbc15e@cdns.doon.eu.org:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://8222f4cb-187b-42fa-a965-a4b84edbc15e@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://8222f4cb-187b-42fa-a965-a4b84edbc15e@ssrsub.cloudflare.182682.xyz:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&type=ws&sni=bPB-V.pageS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=Bpb-v.PAges.deV#t.me/entryNET/config=1838245563414908
 trojan://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@cdns.doon.eu.org:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
 trojan://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@ssrsub.cloudflare.182682.xyz:8443?sni=cdn-node-oss-99.paofu.de&allowInsecure=1&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
@@ -302,10 +306,8 @@ trojan://blue2024@104.16.99.204:443?sni=ta.promote.icu#t.me/entryNET/config=1838
 trojan://blue2024@104.18.35.253:443?sni=ta.promote.icu#t.me/entryNET/config=1838238008957476
 trojan://blue2024@104.19.156.145:443?sni=ta.promote.icu#Telegram:@config_proxy 💦
 trojan://blue2024@108.162.198.150:443?sni=td.promote.icu#t.me/entryNET/config=1838242418939956
-trojan://blue2024@162.159.82.231:443?type=ws&sni=hb.lii2010.us.kg&host=hb.lii2010.us.kg#t.me/entryNET/config=1838232967078524
 trojan://blue2024@172.64.201.25:443?security=tls&sni=tb.promote.icu&type=ws&host=tb.promote.icu&path=/#t.me/entryNET/config=1838241267415933
 trojan://blue2024@172.66.45.162:443?sni=ta.promote.icu#t.me/entryNET/config=1838237332403628
-trojan://blue2024@190.93.247.68:443?sni=hb.lii2010.us.kg#t.me/entryNET/config=1838233655256955
 trojan://bpb-trojan@104.18.34.21:2053?path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&security=tls&alpn=http/1.1&host=bpb-worker-panel1-e4p.pages.dev&fp=chrome&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV#@V2rayNG3
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
 trojan://bpb-trojan@104.26.4.60:443?path=/tr?ed=2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#Channel id: @ShadowProxy66 🇨🇦
@@ -370,6 +372,7 @@ trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&secur
 trojan://rhSacvSrrW@join-dailyconfigs.resurrection-time.sbs:56807?mode=gun&security=reality&pbk=ZDqMqclXIFjaEvYbYCElqQXLgglpsP06zKTpHrq2EQ4&fp=chrome&spx=/&type=grpc&serviceName=DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2060&sni=fafait.net&sid=fe3a2e89#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 trojan://s3t4u5v6-5678-9abc-def0-1234567890ab@104.21.25.500:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://t4u5v6w7-5678-9abc-def0-1234567890ab@104.21.25.510:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
+trojan://telegram-id-directvpn@15.157.245.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1838244316306901
 trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 trojan://telegram-id-directvpn@35.181.120.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# @Confing_chanel
 trojan://telegram-id-directvpn@51.44.89.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@varn_Net
@@ -500,6 +503,3 @@ vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&encr
 vless://0473b41a-0d45-4e9b-97fb-aee5a799c6dd@www.parspack.com:80?path=/&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#@config_v2ray_vpn👈سرورهای‌+بیشتر
 vless://04851f20-45ca-4248-b30f-5064f95b2d33@shop.fox-vps-2024.com:35627?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@EnpireVpn7🇩🇪🚀
 vless://04b2b6b2-73ba-4a61-baed-f606f3b78220@mci.dl101movis.ir:80?mode=auto&path=/&security=none&encryption=none&host=veneta911.ir&type=xhttp#آلمان 🇩🇪 @V2xay
-vless://04b95b53-a8b6-4ffb-96ff-81bf6ac9f98e@real-all2.sdcards1.ir:8502?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&---CHANEL---PRUOXYI---CHANEL_PRUOXTI---CHANEL-PRUOXTI---CHANEL---PRUOXYIheaderType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e701a013553059ba#منبع کانفیگ رایگان چنل Pruoxyi@
-vless://04b95b53-a8b6-4ffb-96ff-81bf6ac9f98e@real-all2.sdcards1.ir:8502?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=e701a013553059ba#منبع کانفیگ رایگان چنل Pruoxyi@
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.10.168:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Captalvpn 🏴🏳
