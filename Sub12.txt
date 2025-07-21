@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://70f8697b-f9f3-4692-8e0a-3d1834fd76dc@ip.sb:443?path=/2PSWRwLal7xZQFnL/MzUuMjI4LjM2Ljgy?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=0fd5019a.fl-8hb.pages.dev&fp=chrome&type=ws&sni=0fD5019a.FL-8hB.paGEs.deV#⚡@Viturey
-vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/iqySBCJZh3v7AmTx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#@bad_raqs
 vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?path=/iqySBCJZh3v7AmTx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&type=ws&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev#🏴‍☠️ | @External_Net
 vless://711627d2-1662-4e98-a3d6-086fd4fd4d31@104.16.14.1:443?security=tls&encryption=none&type=ws&host=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&path=/iqySBCJZh3v7AmTx?ed=2560&sni=5nrvx1irwfiyq8nqbaiztizua8t8xg0d.pages.dev&fp=chrome&alpn=http/1.1#King_v2raay
 vless://71168f32-84d8-4061-b865-dfe7f685ad38@Hi.somo44.sbs:8880?path=/bhvcgvvc&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔
@@ -503,3 +501,5 @@ vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@HiByeVPNN
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Selinc
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@V2RAYNG_1378
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig

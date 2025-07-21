@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/barry-far/V2ray-config
 #profile-web-page-url: https://github.com/barry-far/V2ray-config
-vless://04c39dad-b4d5-43c2-a480-bb417fdd0854@start.myspeedhost.xyz:10190/?type=tcp&security=none#اتصال بهتر@DALTON_PING
-vless://04ccc438-e67a-422e-b776-b18c98a6228f@77.110.103.21:50810?type=xhttp&mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=reality&fp=chrome&sni=zhaket.com&pbk=MCx8u0S8L-ugMhcNC-u2WteqvI_oaM9_0-5jP6atIx4&sid=19dc3c81&spx=/#🇳🇱@Shh_Proxy | All¹
 vless://04f59fbe-08e5-4683-b5d4-bde3327be774@api.digi-asa.ir:12854?security=none&seed=FeymPy9HR8&encryption=none&headerType=wireguard&type=kcp#@CaV2ray ⚡️
 vless://04fb1c1e-f078-478c-8490-d5e999b8c279@89.44.242.226:2000?encryption=none&security=none&type=tcp&headerType=http&host=parsabr.com#@CaV2ray ⚡️
 vless://04fb1c1e-f078-478c-8490-d5e999b8c279@89.44.242.226:2000?security=none&encryption=none&host=parsabr.com&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -503,3 +501,5 @@ vless://194d8644-1921-40d8-9954-61790accf528@cb22.connectbaash.info:4422?securit
 vless://194d8644-1921-40d8-9954-61790accf528@cb22.connectbaash.info:4422?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://196954c9-8836-49a3-8f97-861d1c455afb@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-oadni6wza
 vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&host=/?Bya_telegram_@JOKERRVPN&headerType=none&fp=chrome&spx=/Bya_telegram_@JOKERRVPN&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=21181028b56c8702#@CaV2ray ⚡️
+vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@66.42.118.140:443?mode=stream-one&path=/ertyu&security=none&encryption=none&type=xhttp#AMIIN ✨@ATOVPN
+vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@66.42.118.140:443?mode=stream-one&path=/ertyu&security=none&encryption=none&type=xhttp#Telegram | @FNET00📱
