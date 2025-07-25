@@ -101,7 +101,7 @@ def main():
         os.remove(main_base64_filename)
         print(f"Removed: {main_base64_filename}")
 
-    for i in range(1, 21):  # Clean Sub1.txt to Sub20.txt
+    for i in range(1, 99):  # Clean Sub1.txt to Sub20.txt
         filename = os.path.join(output_folder, f"Sub{i}.txt")
         if os.path.exists(filename):
             os.remove(filename)
