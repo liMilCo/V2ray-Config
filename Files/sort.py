@@ -53,7 +53,7 @@ for config in response_text.splitlines():
         ssr += config + "\n"
     elif config.startswith("ss"):   
         ss += config + "\n"
-     elif config.startswith("hysteria"):   
+    elif config.startswith("hysteria"):   
         hysteria += config + "\n"
          
 # Write all protocol files with headers
