@@ -10,25 +10,28 @@ fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
 """
 
-
+# hysteria
 ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
 vmess_file = os.path.join(ptt, 'Splitted-By-Protocol/vmess.txt')
 vless_file = os.path.join(ptt, 'Splitted-By-Protocol/vless.txt')
 trojan_file = os.path.join(ptt, 'Splitted-By-Protocol/trojan.txt')
 ss_file = os.path.join(ptt, 'Splitted-By-Protocol/ss.txt')
 ssr_file = os.path.join(ptt, 'Splitted-By-Protocol/ssr.txt')
+hysteria_file = os.path.join(ptt, 'Splitted-By-Protocol/hysteria.txt')
 
 open(vmess_file, "w").close()
 open(vless_file, "w").close()
 open(trojan_file, "w").close()
 open(ss_file, "w").close()
 open(ssr_file, "w").close()
+open(hysteria_file, "w").close()
 
 vmess = ""
 vless = ""
 trojan = ""
 ss = ""
 ssr = ""
+hysteria = ""
 
 # Read from local All_Configs_Sub.txt file instead of GitHub
 local_config_file = os.path.join(ptt, 'All_Configs_Sub.txt')
@@ -50,7 +53,9 @@ for config in response_text.splitlines():
         ssr += config + "\n"
     elif config.startswith("ss"):   
         ss += config + "\n"
- 
+     elif config.startswith("hysteria"):   
+        hysteria += config + "\n"
+         
 # Write all protocol files with headers
 with open(vmess_file, "w", encoding="utf-8") as f:
     f.write(fixed_text + vmess)
@@ -62,3 +67,5 @@ with open(ss_file, "w", encoding="utf-8") as f:
     f.write(fixed_text + ss)
 with open(ssr_file, "w", encoding="utf-8") as f:
     f.write(fixed_text + ssr)  
+with open(hysteria_file, "w", encoding="utf-8") as f:
+    f.write(fixed_text + hysteria)
