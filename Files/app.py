@@ -143,8 +143,7 @@ def main():
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
         "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-        "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
-        "https://github.com/Epodonios/v2ray-configs/raw/main/All_Configs_Sub.txt"
+        "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt"
     ]
 
     print("Fetching base64 encoded configs...")
