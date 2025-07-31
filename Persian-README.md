@@ -47,6 +47,8 @@ ShadowSocks: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Split
 
 ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt
 
+Hysteria: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/hysteria.txt
+
 
 ## معرفی چند اپلیکیشن کلاینت
 📲 انواع مختلف راه‌ها برای استفاده از V2ray در سیستم عامل‌های مختلف به شرح زیر است:
