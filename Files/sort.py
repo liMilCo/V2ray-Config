@@ -73,5 +73,3 @@ with open(hysteria_file, "w", encoding="utf-8") as f:
 
 print(f"\nAll Files Created.")
 
-if __name__ == "__main__":
-    main()
