@@ -25,7 +25,7 @@ open(ss_file, "w").close()
 open(ssr_file, "w").close()
 open(hysteria_file, "w").close()
 
-print(f"\nAll Files Restarted.")
+print(f"\nAll Splitted Protocol Files Restarted.")
 
 vmess = ""
 vless = ""
@@ -71,5 +71,5 @@ with open(ssr_file, "w", encoding="utf-8") as f:
 with open(hysteria_file, "w", encoding="utf-8") as f:
     f.write(fixed_text + hysteria)
 
-print(f"\nAll Files Created.")
+print(f"\nProtocols:  Vless, Vmess, Trojan, ss, ssr & Hysteria Created.")
 
