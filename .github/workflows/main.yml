@@ -41,7 +41,7 @@ jobs:
         author_email: "actions@github.com"
         message: "Auto Updated 👉"
         add: "."
-        pull: "NO-PULL"
+        cwd: "."
         push: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
