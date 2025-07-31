@@ -8,7 +8,7 @@ import os
 TIMEOUT = 15  # seconds
 
 # Define the fixed text for the initial configuration
-fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
+fixed_text = """#profile-title: base64:8J+OgSBGcmVlIEludGVybmV0
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
@@ -66,9 +66,13 @@ def filter_for_protocols(data, protocols):
                     # Always keep comment/metadata/empty lines
                     filtered_data.append(line)
                 elif any(protocol in line for protocol in protocols):
-                    if line not in seen_configs:
+                    if line.startswith('vmess://'):
+                        check_seen = line
+                    else:
+                        check_seen = line.split('?')[0]                       
+                    if check_seen not in seen_configs:
                         filtered_data.append(line)
-                        seen_configs.add(line)
+                        seen_configs.add(check_seen)
     return filtered_data
 
 
@@ -101,7 +105,7 @@ def main():
         os.remove(main_base64_filename)
         print(f"Removed: {main_base64_filename}")
 
-    for i in range(1, 99):  # Clean Sub1.txt to Sub20.txt
+    for i in range(1, 99):  # Clean Sub1.txt to Sub99.txt
         filename = os.path.join(output_folder, f"Sub{i}.txt")
         if os.path.exists(filename):
             os.remove(filename)
@@ -128,21 +132,23 @@ def main():
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
         "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link",
+        "https://v2.alicivil.workers.dev",
         "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed"
     ]
     dir_links = [
+        "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt",
         "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix",
         "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt",
         "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
-        "https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
+        #"https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
         "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
-        "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
+        #"https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
         "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
-        "https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
+        #"https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
         "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-        "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
+        #"https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
         "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt"
     ]
 
@@ -155,7 +161,7 @@ def main():
     print(f"Decoded {len(decoded_dir_links)} direct text sources")
 
     print("Combining and filtering configs...")
-    combined_data = decoded_links + decoded_dir_links
+    combined_data = decoded_dir_links + decoded_links 
     merged_configs = filter_for_protocols(combined_data, protocols)
     print(f"Found {len(merged_configs)} unique configs after filtering")
 
@@ -190,7 +196,7 @@ def main():
     print(f"Splitting into {num_files} files with max {max_lines_per_file} lines each")
 
     for i in range(num_files):
-        profile_title = f"🆓 Git:barry-far | Sub{i+1} 🔥"
+        profile_title = f"🎁 Free Internet | Sub{i+1} 🌎"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
