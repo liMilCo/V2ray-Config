@@ -3,15 +3,14 @@ import os
 import base64
 
 # Define the fixed text for the initial configuration
-fixed_text = """#profile-title: base64:8J+GkyBHaXRodWIgfCBCYXJyeS1mYXIg8J+ltw==
+fixed_text = """#profile-title: base64:8J+OgSBGcmVlIEludGVybmV0
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
 """
 
-# hysteria
-ptt = os.path.abspath(os.path.join(os.getcwd(), '..'))
+ptt = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 vmess_file = os.path.join(ptt, 'Splitted-By-Protocol/vmess.txt')
 vless_file = os.path.join(ptt, 'Splitted-By-Protocol/vless.txt')
 trojan_file = os.path.join(ptt, 'Splitted-By-Protocol/trojan.txt')
@@ -25,6 +24,8 @@ open(trojan_file, "w").close()
 open(ss_file, "w").close()
 open(ssr_file, "w").close()
 open(hysteria_file, "w").close()
+
+print(f"\nAll Files Restarted.")
 
 vmess = ""
 vless = ""
@@ -69,3 +70,8 @@ with open(ssr_file, "w", encoding="utf-8") as f:
     f.write(fixed_text + ssr)  
 with open(hysteria_file, "w", encoding="utf-8") as f:
     f.write(fixed_text + hysteria)
+
+print(f"\nAll Files Created.")
+
+if __name__ == "__main__":
+    main()
