@@ -23,6 +23,7 @@ def get_links(file_path):
             lines_list = file.readlines()
 
         lines_list = [line.strip() for line in lines_list]
+        lines_list = [line for line in lines_list if not line.startswith('#')]
 
     except FileNotFoundError:
         print(f"Error: The file '{file_path}' was not found.")
@@ -32,6 +33,24 @@ def get_links(file_path):
         lines_list = []
 
     return lines_list    
+
+
+# Disable link from sources
+def disable_link(link):
+    try:
+        with open(sources_links, 'r') as file:  # Open for reading
+            file_contents = file.read()
+        
+        updated_contents = file_contents.replace(link, "#"+link)
+
+        with open(sources_links, 'w') as file:  # Open for writing (overwrites existing content)
+            file.write(updated_contents)
+
+        print(f'URL {link} disabeld in {sources_links}')
+    except FileNotFoundError:
+        print(f"Error: File '{sources_links}' not found.")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 
 # Base64 decoding function
 def decode_base64(encoded):
@@ -50,7 +69,10 @@ def decode_links(links):
     for link in links:
         try:
             response = requests.get(link, timeout=TIMEOUT)
-            if "://" in response.text:
+            if response.status_code == 404:
+                print(f"*****   Error 404:'{link}'  *****")
+                disable_link(link)
+            elif "://" in response.text:
                 decoded_text = response.text
                 decoded_data.append(decoded_text)
             else:
