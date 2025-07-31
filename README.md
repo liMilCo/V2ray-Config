@@ -45,6 +45,8 @@ ShadowSocks: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Split
 
 ShadowSocksR: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ssr.txt
 
+Hysteria: https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/hysteria.txt
+
 ❕If upper links didnt work for you , Checkout this folder: [Base64 Folder](https://github.com/barry-far/V2ray-config/tree/dev/Base64)
 
 ℹ️ Additionally, we have created a Wiki with detailed instructions on how to set up V2ray on different operating systems. Visit our Wiki for more information.
