@@ -3,10 +3,12 @@ import base64
 import requests
 import binascii
 import os
+import random
 
 # Define a fixed timeout for HTTP requests
 TIMEOUT = 15  # seconds
-
+# Define Source links of Sub 
+sources_links = "sources.txt"
 # Define the fixed text for the initial configuration
 fixed_text = """#profile-title: base64:8J+OgSBGcmVlIEludGVybmV0
 #profile-update-interval: 1
@@ -14,6 +16,22 @@ fixed_text = """#profile-title: base64:8J+OgSBGcmVlIEludGVybmV0
 #support-url: https://github.com/liMilCo/V2ray-config
 #profile-web-page-url: https://github.com/liMilCo/V2ray-config
 """
+
+def get_links(file_path):
+    try:
+        with open(file_path, 'r') as file:
+            lines_list = file.readlines()
+
+        lines_list = [line.strip() for line in lines_list]
+
+    except FileNotFoundError:
+        print(f"Error: The file '{file_path}' was not found.")
+        lines_list = []
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        lines_list = []
+
+    return lines_list    
 
 # Base64 decoding function
 def decode_base64(encoded):
@@ -26,30 +44,22 @@ def decode_base64(encoded):
             pass
     return decoded
 
-# Function to decode base64-encoded links with a timeout
+# Function to Get links with a timeout
 def decode_links(links):
     decoded_data = []
     for link in links:
         try:
             response = requests.get(link, timeout=TIMEOUT)
-            encoded_bytes = response.content
-            decoded_text = decode_base64(encoded_bytes)
-            decoded_data.append(decoded_text)
+            if "://" in response.text:
+                decoded_text = response.text
+                decoded_data.append(decoded_text)
+            else:
+                encoded_bytes = response.content
+                decoded_text = decode_base64(encoded_bytes)
+                decoded_data.append(decoded_text)
         except requests.RequestException:
             pass  # If the request fails or times out, skip it
     return decoded_data
-
-# Function to decode directory links with a timeout
-def decode_dir_links(dir_links):
-    decoded_dir_links = []
-    for link in dir_links:
-        try:
-            response = requests.get(link, timeout=TIMEOUT)
-            decoded_text = response.text
-            decoded_dir_links.append(decoded_text)
-        except requests.RequestException:
-            pass  # If the request fails or times out, skip it
-    return decoded_dir_links
 
 # Filter function to select lines based on specified protocols and remove duplicates (only for config lines)
 def filter_for_protocols(data, protocols):
@@ -62,10 +72,7 @@ def filter_for_protocols(data, protocols):
             lines = content.strip().split('\n')
             for line in lines:
                 line = line.strip()
-                if line.startswith('#') or not line:
-                    # Always keep comment/metadata/empty lines
-                    filtered_data.append(line)
-                elif any(protocol in line for protocol in protocols):
+                if any(protocol in line for protocol in protocols):
                     if line.startswith('vmess://'):
                         check_seen = line
                     else:
@@ -73,6 +80,7 @@ def filter_for_protocols(data, protocols):
                     if check_seen not in seen_configs:
                         filtered_data.append(line)
                         seen_configs.add(check_seen)
+    random.shuffle(filtered_data)
     return filtered_data
 
 
@@ -117,52 +125,19 @@ def main():
 
     print("Starting to fetch and process configs...")
     
-    protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
-    links = [
-        "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-        "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-        "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
-        "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt",
-        "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
-        "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link",
-        "https://v2.alicivil.workers.dev",
-        "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed"
-    ]
-    dir_links = [
-        "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt",
-        "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix",
-        "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt",
-        "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html",
-        #"https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config",
-        "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
-        #"https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config",
-        "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
-        #"https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix",
-        "https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged",
-        "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
-        "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
-        #"https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-        "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt"
-    ]
-
-    print("Fetching base64 encoded configs...")
-    decoded_links = decode_links(links)
-    print(f"Decoded {len(decoded_links)} base64 sources")
+    protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "hysteria2", "tuic", "warp://"]
     
-    print("Fetching direct text configs...")
-    decoded_dir_links = decode_dir_links(dir_links)
-    print(f"Decoded {len(decoded_dir_links)} direct text sources")
 
-    print("Combining and filtering configs...")
-    combined_data = decoded_dir_links + decoded_links 
-    merged_configs = filter_for_protocols(combined_data, protocols)
+    print("Get Sources Links ...")
+    links = get_links(sources_links)
+
+    print("Fetching configs...")
+    decoded_links = decode_links(links)
+    print(f"Decoded {len(decoded_links)} sources")
+    
+
+    print("Filtering configs...")
+    merged_configs = filter_for_protocols(decoded_links, protocols)
     print(f"Found {len(merged_configs)} unique configs after filtering")
 
     # Write merged configs to output file
@@ -209,6 +184,8 @@ def main():
         with open(input_filename, "w", encoding="utf-8") as f:
             f.write(custom_fixed_text)
             start_index = i * max_lines_per_file
+            if i == 0:
+                start_index = 5
             end_index = min((i + 1) * max_lines_per_file, num_lines)
             for line in lines[start_index:end_index]:
                 f.write(line)
