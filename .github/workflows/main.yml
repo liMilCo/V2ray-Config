@@ -2,11 +2,9 @@ name: Update Configs
 permissions: write-all
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
   schedule:
-    - cron: "* */72 * * *"
+    - cron: "33 3 * * 4"
 
 jobs:
   build:
